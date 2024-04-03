@@ -27,8 +27,7 @@
                             <i class="fa fa-angle-down"></i>
                         </div>
                     </div>
-                    <div class="button-text sticky right"><span data-hover="Scroll Down">Scroll
-                            Down</span></div>
+                    <div class="button-text sticky right"><span data-hover="Scroll Down">Scroll Down</span></div>
                 </div>
             </div>
         </div>
@@ -62,7 +61,6 @@
         </div>
     </div>
 </div>
-
 
 
 <div id="hero-image-wrapper">
