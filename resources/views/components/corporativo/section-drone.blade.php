@@ -41,7 +41,9 @@
                 communication strategy revolves.</p>
         </div>
 
-        <div class="one_half last"></div>
+        <div class="one_half last">
+            <video src='/assets/drone/vid-drone2.mov' className="item-image grayscale60" autoPlay muted loop></video>
+        </div>
 
         <hr class="destroy">
 

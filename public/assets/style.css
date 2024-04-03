@@ -1,0 +1,66 @@
+/* Estilo para la imagen */
+.grayscale60 {
+  filter: grayscale(70%) !important; /* Aplicar escala de grises al 100% */
+}
+
+.drone {
+  /* transform: ; Centrar la imagen */
+  animation: moveDrone 5s linear infinite; /* Animación del movimiento */
+}
+
+/* Definición de la animación */
+@keyframes moveDrone {
+  0%,
+  100% {
+    transform: translate(0%, 0%); /* Posición inicial y final */
+  }
+  50% {
+    transform: translate(0%, 7%); /* Subir */
+  }
+}
+
+/* Estilo para el contenedor de la imagen */
+.image-container {
+  position: relative !important;
+  display: inline-block !important;
+}
+
+/* Estilo para la imagen */
+.image-container img {
+  display: block !important;
+  width: 100% !important;
+  height: auto !important;
+}
+
+.overlay {
+  position: absolute !important;
+  bottom: 0 !important;
+  left: 0 !important;
+  right: 0 !important;
+  background: linear-gradient(
+    to top,
+    rgba(0, 0, 0, 0.5),
+    transparent
+  ) !important; /* Gradiente en la parte superior */
+  color: white !important; /* Color del texto */
+  padding: 10px !important;
+  text-align: center !important;
+}
+
+/* Estilo para el título */
+.overlay h2 {
+  margin-top: 0 !important;
+  text-align: right; /* Justificar a la derecha */
+  color: white !important; /* Color del texto */
+}
+
+/* Estilo para la descripción */
+.overlay p {
+  margin-bottom: 0 !important;
+  text-align: right; /* Justificar a la derecha */
+  color: white !important; /* Color del texto */
+}
+/* Cuando el cursor esté sobre la imagen */
+/* .grayscale:hover {
+filter: grayscale(0%) !important; /* Remover el efecto de escala de grises */
+/* } */

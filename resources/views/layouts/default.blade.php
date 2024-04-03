@@ -10,6 +10,7 @@
     <link rel="icon" type="image/ico" href="favicon.ico" />
     <link href="https://www.clapat.com/templates/humpton/style.css" rel="stylesheet" />
     <link href="https://www.clapat.com/templates/humpton/css/all.min.css" rel="stylesheet" />
+    <link href="/assets/style.css" rel="stylesheet" />
 </head>
 
 
