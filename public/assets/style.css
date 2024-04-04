@@ -61,6 +61,6 @@
   color: white !important; /* Color del texto */
 }
 /* Cuando el cursor esté sobre la imagen */
-/* .grayscale:hover {
-filter: grayscale(0%) !important; /* Remover el efecto de escala de grises */
-/* } */
+.grayscale60:hover {
+  filter: grayscale(0%) !important; /* Remover el efecto de escala de grises */
+}
