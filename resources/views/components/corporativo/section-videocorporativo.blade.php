@@ -73,8 +73,7 @@
                 <div class="panel" data-color="#000" data-firstline="Read" data-secondline="Story">
                     <div class="panel-content-wrapper">
                         <div class="panel-image">
-                            <a class="ajax-link" href="{{ $item['link'] }}" data-type="page-transition"><img
-                                    src="{{ $item['img'] }}"> </img></a>
+                            <a class="ajax-link" href="{{ $item['link'] }}" data-type="page-transition"><img class="grayscale60" src="{{ $item['img'] }}"> </img></a>
                         </div>
                         <div class="panel-content">
                             <div class="entry-meta entry-categories">
