@@ -11,8 +11,9 @@
         </div>
 
         <div class="footer-middle">
-            <div class="copyright">2024 © <a class="link" target="_blank" href="https://www.clapat.com/">ClaPat</a>.
-                All rights reserved.</div>
+            <div class="copyright">2024 © <a class="link" target="_blank" href="https://formaproducciones.com/">Forma
+                    Producciones</a>. Todos los Derechos Reservados.
+            </div>
         </div>
 
         <div class="socials-wrap">

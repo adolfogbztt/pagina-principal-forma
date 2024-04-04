@@ -5,9 +5,9 @@
 
         <!-- Logo -->
         <div id="logo" class="hide-ball">
-            <a class="ajax-link" data-type="page-transition" href="index.html">
-                <img class="black-logo" src="images/logo.png" alt="ClaPat Logo">
-                <img class="white-logo" src="images/logo-white.png" alt="ClaPat Logo">
+            <a class="ajax-link" data-type="page-transition" href="/">
+                <img style="width:50vh;" class="black-logo" src="/assets/logo.gif" alt="Forma Producciones Logo">
+                <img style="width:50vh;" class="white-logo" src="/assets/logo.gif" alt="Forma Producciones Logo">
             </a>
         </div>
         <!--/Logo -->
