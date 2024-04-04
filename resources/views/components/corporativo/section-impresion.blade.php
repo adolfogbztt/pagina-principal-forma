@@ -2,52 +2,39 @@
     $services = [
         [
             'img' => '/assets/video-corporativo/conferencias.jpeg',
-            'title' => 'Conferencias',
+            'title' => 'Photobooks',
             'description' => 'Descripcion',
             'link' => '/servicios/video-corporativo-conferencias',
         ],
         [
             'img' => '/assets/video-corporativo/spot-publicitario.jpg',
-            'title' => 'Sport Publicitario',
+            'title' => 'Titulos y Diplomas',
             'description' => 'Descripcion',
             'link' => '/servicios/video-corporativo-spot-publicitario',
         ],
         [
-            'img' => '/assets/video-corporativo/institucional.jpg',
-            'title' => 'Institucional',
+            'img' => '/assets/video-corporativo/spot-publicitario.jpg',
+            'title' => 'Credenciales & fotochecks',
             'description' => 'Descripcion',
-            'link' => '/servicios/video-corporativo-institucional',
-        ],
-        [
-            'img' => '/assets/video-corporativo/induccion.jpeg',
-            'title' => 'Inducción',
-            'description' => 'Descripcion',
-            'link' => '/servicios/video-corporativo-induccion',
-        ],
-        [
-            'img' => '/assets/video-corporativo/eventos.jpg',
-            'title' => 'Eventos',
-            'description' => 'Descripcion',
-            'link' => '/servicios/video-corporativo-eventos',
-        ],
-        [
-            'img' => '/assets/video-corporativo/documentales.jpeg',
-            'title' => 'Documentales',
-            'description' => 'Descripcion',
-            'link' => '/servicios/video-corporativo-documentales',
+            'link' => '/servicios/video-corporativo-spot-publicitario',
         ],
     ];
 @endphp
 
 
 <!-- Row -->
-<div class="content-row dark-section change-header-color" data-bgcolor="#000">
+<div class="content-row light-section change-header-color" data-bgcolor="#fff">
 
-    <hr class="destroy">
+    <hr>
 
     <div class="one_half">
-        <h1 class="has-mask-fill no-margins">Video</h1>
-        <h1 class="has-mask-fill">Corporativo</h1>
+        <video src='/assets/drone/vid-drone2.mov' className="item-image grayscale60" autoPlay muted loop></video>
+
+    </div>
+
+    <div class="one_half last">
+
+        <h1 class="has-mask-fill no-margins">Impresiones</h1>
 
         <hr>
 
@@ -56,18 +43,13 @@
 
     </div>
 
-    <div class="one_half last">
-        <video src='/assets/drone/vid-drone2.mov' className="item-image grayscale60" autoPlay muted loop></video>
-    </div>
-
 </div>
 <!--/Row -->
 
 
 
-
 <!-- Row -->
-<div class="content-row dark-section full change-header-color" data-bgcolor="#000">
+<div class="content-row light-section full change-header-color" data-bgcolor="#fff">
     <div class="panels news-panel">
         <div class="panels-container">
 
@@ -83,7 +65,7 @@
                                 <ul class="post-categories">
                                     <li class="link"><a href="#"><span data-hover="Forma">Forma</span></a>
                                     </li>
-                                    <li class="link"><a href="#"><span data-hover="Video">Video</span></a>
+                                    <li class="link"><a href="#"><span data-hover="Video">Impresiones</span></a>
                                     </li>
                                 </ul>
                             </div>

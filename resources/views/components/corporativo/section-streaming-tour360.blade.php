@@ -2,39 +2,15 @@
     $services = [
         [
             'img' => '/assets/video-corporativo/conferencias.jpeg',
-            'title' => 'Conferencias',
+            'title' => 'Streaming',
             'description' => 'Descripcion',
             'link' => '/servicios/video-corporativo-conferencias',
         ],
         [
             'img' => '/assets/video-corporativo/spot-publicitario.jpg',
-            'title' => 'Sport Publicitario',
+            'title' => 'Tour 360',
             'description' => 'Descripcion',
             'link' => '/servicios/video-corporativo-spot-publicitario',
-        ],
-        [
-            'img' => '/assets/video-corporativo/institucional.jpg',
-            'title' => 'Institucional',
-            'description' => 'Descripcion',
-            'link' => '/servicios/video-corporativo-institucional',
-        ],
-        [
-            'img' => '/assets/video-corporativo/induccion.jpeg',
-            'title' => 'Inducción',
-            'description' => 'Descripcion',
-            'link' => '/servicios/video-corporativo-induccion',
-        ],
-        [
-            'img' => '/assets/video-corporativo/eventos.jpg',
-            'title' => 'Eventos',
-            'description' => 'Descripcion',
-            'link' => '/servicios/video-corporativo-eventos',
-        ],
-        [
-            'img' => '/assets/video-corporativo/documentales.jpeg',
-            'title' => 'Documentales',
-            'description' => 'Descripcion',
-            'link' => '/servicios/video-corporativo-documentales',
         ],
     ];
 @endphp
@@ -43,11 +19,11 @@
 <!-- Row -->
 <div class="content-row dark-section change-header-color" data-bgcolor="#000">
 
-    <hr class="destroy">
+    <hr>
 
     <div class="one_half">
-        <h1 class="has-mask-fill no-margins">Video</h1>
-        <h1 class="has-mask-fill">Corporativo</h1>
+        <h1 class="has-mask-fill no-margins">Streaming &</h1>
+        <h1 class="has-mask-fill">Tours 360</h1>
 
         <hr>
 
@@ -62,7 +38,6 @@
 
 </div>
 <!--/Row -->
-
 
 
 

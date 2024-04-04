@@ -10,6 +10,10 @@
     <link rel="icon" type="image/ico" href="favicon.ico" />
     <link href="https://www.clapat.com/templates/humpton/style.css" rel="stylesheet" />
     <link href="https://www.clapat.com/templates/humpton/css/all.min.css" rel="stylesheet" />
+    {{-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@photo-sphere-viewer/markers-plugin/index.min.css" />
+
+    <script src="https://cdn.jsdelivr.net/npm/@photo-sphere-viewer/core@5.7.2/index.min.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/@photo-sphere-viewer/core@5.7.2/index.min.css" rel="stylesheet"> --}}
     <link href="/assets/style.css" rel="stylesheet" />
 </head>
 
