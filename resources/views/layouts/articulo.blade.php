@@ -11,15 +11,14 @@
 
     <link href="https://www.clapat.com/templates/humpton/style.css" rel="stylesheet" />
     <link href="https://www.clapat.com/templates/humpton/css/all.min.css" rel="stylesheet" />
-    {{-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@photo-sphere-viewer/markers-plugin/index.min.css" />
-
-    <script src="https://cdn.jsdelivr.net/npm/@photo-sphere-viewer/core@5.7.2/index.min.js"></script>
-    <link href="https://cdn.jsdelivr.net/npm/@photo-sphere-viewer/core@5.7.2/index.min.css" rel="stylesheet"> --}}
     <link href="/assets/style.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
+
 </head>
 
 
 <body class="hidden hidden-ball smooth-scroll" data-primary-color="#ff0000">
+
 
     <main>
         <x-preloader />
@@ -29,40 +28,89 @@
             <!-- Page Content -->
             <div id="page-content" class="light-content" data-bgcolor="#171717">
 
+                <!-- Header -->
+
                 <x-header />
+                <!--/Header -->
+
 
                 <!-- Content Scroll -->
                 <div id="content-scroll">
+
 
                     <!-- Main -->
                     <div id="main">
 
                         <!-- Hero Section -->
-                        @yield('hero')
+                        <div id="hero" class="has-image">
+                            <div id="hero-styles">
+                                <div id="hero-caption" class="content-max-width marquee-title">
+                                    <div class="inner">
+                                        <div class="hero-arrow"><i class="arrow-icon"></i></div>
+                                        <div class="hero-subtitle"><span>Forma</span><span>Producciones
+                                                Audiovisuales</span></div>
+                                        <div class="hero-title-wrapper">
+                                            <div class="hero-title"><span>The</span><span>Beautiful</span><span>Ladies
+                                                    -</span></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="hero-footer">
+                                    <div class="hero-footer-right">
+                                        <div class="button-wrap right scroll-down">
+                                            <div class="icon-wrap parallax-wrap">
+                                                <div class="button-icon parallax-element">
+                                                    <i class="fa fa-angle-down"></i>
+                                                </div>
+                                            </div>
+                                            <div class="button-text sticky right"><span
+                                                    data-hover="Scroll to navigate">Scroll to navigate</span></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="hero-description" class="content-max-width">
+                                    <div class="inner">
+
+                                        <div class="hero-text">{{ $description }}</div>
+
+                                        <div id="share" class="page-action-content" data-text="Share Project:">
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="hero-image-wrapper">
+                            <div id="hero-background-layer" class="parallax-scroll-image">
+                                <div id="hero-bg-image" class="grayscale60"
+                                    style="background-image:url({{ $img_hero }})"></div>
+                            </div>
+                        </div>
                         <!--/Hero Section -->
 
 
                         <!-- Main Content -->
                         <div id="main-content">
-                            <!-- Main Page Content -->
-                            <div id="main-page-content" class="content-max-width">
+                            <div id="main-page-content">
 
+
+                                <!-- Row -->
                                 @yield('content')
+                                <!--/Row -->
+
+
+                                <!-- Row -->
+                                @yield('adds')
+                                <!--/Row -->
 
                             </div>
                             <!--/Main Page Content -->
 
-
-                            <!-- Page Navigation -->
-                            <x-page-navigation />
-                            <!--/Page Navigation -->
-
-
                         </div>
                         <!--/Main Content -->
-
                     </div>
                     <!--/Main -->
+
 
                     <!-- Footer -->
                     <x-footer />
@@ -72,26 +120,14 @@
                 </div>
                 <!--/Content Scroll -->
 
-
-                <div class="thumb-wrapper">
-                    <div class="thumb-container">
-                        <div class="thumb-page" data-src="images/01hero.jpg"></div>
-                        <div class="thumb-page" data-src="images/02hero.jpg"></div>
-                        <div class="thumb-page" data-src="images/03hero.jpg"></div>
-                        <div class="thumb-page" data-src="images/04hero.jpg"></div>
-                        <div class="thumb-page" data-src="images/05hero.jpg"></div>
-                        <div class="thumb-page" data-src="images/06hero.jpg"></div>
-                    </div>
-                </div>
-
                 <div id="app"></div>
-
 
             </div>
             <!--/Page Content -->
 
         </div>
     </main>
+
 
 
 
