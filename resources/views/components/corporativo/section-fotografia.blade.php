@@ -1,7 +1,7 @@
 @php
     $services = [
         [
-            'img' => '/assets/fotografia/corporativo.jpg',
+            'img' => '/assets/fotografia/corporativo.jpeg',
             'title' => 'Corporativo',
             'description' => 'Descripcion',
             'link' => '/servicios/fotografia-corporativo',

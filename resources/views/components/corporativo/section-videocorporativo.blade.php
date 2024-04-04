@@ -1,37 +1,47 @@
 @php
     $services = [
         [
-            'img' => '/assets/fotografia/corporativo.jpg',
-            'title' => 'Corporativo',
+            'img' => '/assets/video-corporativo/conferencias.jpeg',
+            'title' => 'Conferencias',
             'description' => 'Descripcion',
-            'link' => '/servicios/fotografia-corporativo',
+            'link' => '/servicios/video-corporativo-conferencias',
         ],
         [
-            'img' => '/assets/fotografia/productos.jpeg',
-            'title' => 'Productos',
+            'img' => '/assets/video-corporativo/spot-publicitario.jpg',
+            'title' => 'Sport Publicitario',
             'description' => 'Descripcion',
-            'link' => '/servicios/fotografia-productos',
+            'link' => '/servicios/video-corporativo-spot-publicitario',
         ],
         [
-            'img' => '/assets/fotografia/publicidad.jpeg',
-            'title' => 'Publicidad',
+            'img' => '/assets/video-corporativo/institucional.jpg',
+            'title' => 'Institucional',
             'description' => 'Descripcion',
-            'link' => '/servicios/publicidad',
+            'link' => '/servicios/video-corporativo-institucional',
         ],
         [
-            'img' => '/assets/fotografia/eventos.jpg',
-            'title' => 'Fotografía',
+            'img' => '/assets/video-corporativo/induccion.jpeg',
+            'title' => 'Inducción',
             'description' => 'Descripcion',
-            'link' => '/servicios/fotografia-cartografia',
+            'link' => '/servicios/video-corporativo-induccion',
+        ],
+        [
+            'img' => '/assets/video-corporativo/eventos.jpg',
+            'title' => 'Eventos',
+            'description' => 'Descripcion',
+            'link' => '/servicios/video-corporativo-eventos',
+        ],
+        [
+            'img' => '/assets/video-corporativo/documentales.jpeg',
+            'title' => 'Documentales',
+            'description' => 'Descripcion',
+            'link' => '/servicios/video-corporativo-documentales',
         ],
     ];
 @endphp
 
 
-
-
 <!-- Row -->
-<div class="content-row light-section change-header-color" data-bgcolor="#fff">
+<div class="content-row dark-section change-header-color" data-bgcolor="#000">
 
     <hr>
 
@@ -55,7 +65,7 @@
 
 
 <!-- Row -->
-<div class="content-row light-section full change-header-color" data-bgcolor="#fff">
+<div class="content-row dark-section full change-header-color" data-bgcolor="#000">
     <div class="panels news-panel">
         <div class="panels-container">
 
@@ -71,8 +81,7 @@
                                 <ul class="post-categories">
                                     <li class="link"><a href="#"><span data-hover="Forma">Forma</span></a>
                                     </li>
-                                    <li class="link"><a href="#"><span
-                                                data-hover="Fotografia">Fotografia</span></a>
+                                    <li class="link"><a href="#"><span data-hover="Video">Video</span></a>
                                     </li>
                                 </ul>
                             </div>
