@@ -6,8 +6,10 @@
         <!-- Logo -->
         <div id="logo" class="hide-ball">
             <a class="ajax-link" data-type="page-transition" href="/">
-                <img style="width:50vh;" class="black-logo" src="/assets/logo.gif" alt="Forma Producciones Logo">
-                <img style="width:50vh;" class="white-logo" src="/assets/logo.gif" alt="Forma Producciones Logo">
+                <img style="width:300px; height:300px;" class="black-logo" src="/assets/logo.gif"
+                    alt="Forma Producciones Logo">
+                <img style="width:300px; height:300px;" class="white-logo" src="/assets/logo.gif"
+                    alt="Forma Producciones Logo">
             </a>
         </div>
         <!--/Logo -->
@@ -38,7 +40,7 @@
                                 </ul>
                             </li>
                             <li class="link menu-timeline"><a class="ajax-link" data-type="page-transition"
-                                    href="about.html">
+                                    href="/corporativo/cartografia">
                                     <div class="before-span"><span data-hover="Corporativo">Corporativo</span></div>
                                 </a>
                             </li>
