@@ -91,7 +91,6 @@
   object-fit: cover; /* La imagen se recorta para cubrir el contenedor */
 }
 
-
 .blurred-background {
   /* position: relative; */
   /* color: white;  //Color del texto  */
@@ -99,13 +98,32 @@
 }
 
 .blurred-background::before {
-  content: '' !important;
+  content: "" !important;
   position: absolute !important;
   top: 0 !important;
   left: 0 !important;
   width: 100% !important;
-  height: 100% !important; 
-  background-color: rgba(255, 255, 255, 0.185) !important; /* Color blanco con transparencia */
+  height: 100% !important;
+  background-color: rgba(
+    255,
+    255,
+    255,
+    0.185
+  ) !important; /* Color blanco con transparencia */
   backdrop-filter: blur(10px) !important; /* Efecto de desenfoque */
   z-index: -1 !important; /* Asegura que el fondo desenfocado esté detrás del texto */
+}
+
+.citas_button {
+  margin-top: 13px !important;
+  background-color: black;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 18px;
+  padding-right: 18px;
+  color: white !important;
+  border-radius: 20px;
+  border: 3px solid white;
+  font-weight: bold;
+  /* border-color: white; */
 }
