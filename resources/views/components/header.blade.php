@@ -1,15 +1,12 @@
 <!-- Header -->
 <header class="fullscreen-menu invert-header" data-menucolor="#171717">
     <div id="header-container">
-
-
         <!-- Logo -->
         <div id="logo" class="hide-ball">
             <a class="ajax-link" data-type="page-transition" href="/">
-                <img style="width:300px; height:300px;" class="black-logo" src="/assets/logo.gif"
-                    alt="Forma Producciones Logo">
-                <img style="width:300px; height:300px;" class="white-logo" src="/assets/logo.gif"
-                    alt="Forma Producciones Logo">
+
+                <img src="/assets/logo-solo.png" alt="Forma Producciones Logo">
+
             </a>
         </div>
         <!--/Logo -->
@@ -85,19 +82,33 @@
 
 
         <!-- Menu Burger -->
-        <div class="button-wrap right menu burger-lines">
+        <div class="button-wrap right menu">
+
             <div class="icon-wrap parallax-wrap">
                 <div class="button-icon parallax-element">
                     <div id="burger-wrapper">
+
                         <div id="menu-burger">
-                            <span></span>
-                            <span></span>
-                            <span></span>
+                            <img src="/assets/menu_button.png" alt="Menu">
                         </div>
+
                     </div>
                 </div>
             </div>
-            <div class="button-text sticky right"><span data-hover="Menu">Menu</span></div>
+
+            {{-- <div class="button-box has-animation" data-delay="100">
+                <div class="clapat-button-wrap parallax-wrap hide-ball">
+                    <div class="clapat-button parallax-element">
+                        <div class="button-border parallax-element-second">
+                            <span data-hover="Menu">Menu</span>
+                        </div>
+                    </div>
+                </div>
+            </div> --}}
+
+            {{-- <div class="button-text sticky right"><span data-hover="Menu">Menu</span></div> --}}
+
+
         </div>
         <!--/Menu Burger -->
 

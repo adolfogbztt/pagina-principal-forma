@@ -3,7 +3,8 @@
 
 <head>
     <title>Humpton - Creative Portfolio Template</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    {{-- <meta name="viewport" content="width=device-width, initial-scale=1.0" /> --}}
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta name="description" content="Download the best Creative Portfolio HTML Template in 2022" />
     <meta name="author" content="ClaPat Studio">
     <meta charset="UTF-8" />
@@ -11,10 +12,10 @@
 
     <link href="https://www.clapat.com/templates/humpton/style.css" rel="stylesheet" />
     <link href="https://www.clapat.com/templates/humpton/css/all.min.css" rel="stylesheet" />
-    {{-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@photo-sphere-viewer/markers-plugin/index.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/solid.min.css"
+        integrity="sha512-Hp+WwK4QdKZk9/W0ViDvLunYjFrGJmNDt6sCflZNkjgvNq9mY+0tMbd6tWMiAlcf1OQyqL4gn2rYp7UsfssZPA=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-    <script src="https://cdn.jsdelivr.net/npm/@photo-sphere-viewer/core@5.7.2/index.min.js"></script>
-    <link href="https://cdn.jsdelivr.net/npm/@photo-sphere-viewer/core@5.7.2/index.min.css" rel="stylesheet"> --}}
     <link href="/assets/style.css" rel="stylesheet" />
 </head>
 
@@ -65,7 +66,7 @@
                     <!--/Main -->
 
                     <!-- Footer -->
-                    <x-footer />
+                    @include('components.footer', ['color' => 'light'])
                     <!--/Footer -->
 
 

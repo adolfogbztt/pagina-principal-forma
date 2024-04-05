@@ -60,7 +60,52 @@
   text-align: right; /* Justificar a la derecha */
   color: white !important; /* Color del texto */
 }
+
+.grayscale60 {
+  filter: grayscale(70%) !important; /* Aplicar escala de grises al 100% */
+}
+
 /* Cuando el cursor esté sobre la imagen */
 .grayscale60:hover {
   filter: grayscale(0%) !important; /* Remover el efecto de escala de grises */
+}
+
+.grayscale80 {
+  filter: grayscale(80%) !important; /* Aplicar escala de grises al 100% */
+}
+
+/* Cuando el cursor esté sobre la imagen */
+.grayscale80:hover {
+  filter: grayscale(0%) !important; /* Remover el efecto de escala de grises */
+}
+
+.logo-container {
+  width: 200px; /* El tamaño deseado del contenedor */
+  height: 200px; /* El tamaño deseado del contenedor */
+  overflow: hidden; /* Oculta el contenido que se desborda */
+}
+
+.logo-container img {
+  width: 100%; /* La imagen se ajusta al ancho del contenedor */
+  height: 100%; /* La imagen se ajusta al alto del contenedor */
+  object-fit: cover; /* La imagen se recorta para cubrir el contenedor */
+}
+
+
+.blurred-background {
+  /* position: relative; */
+  /* color: white;  //Color del texto  */
+  padding: 3px;
+}
+
+.blurred-background::before {
+  content: '' !important;
+  position: absolute !important;
+  top: 0 !important;
+  left: 0 !important;
+  width: 100% !important;
+  height: 100% !important; 
+  background-color: rgba(255, 255, 255, 0.185) !important; /* Color blanco con transparencia */
+  backdrop-filter: blur(10px) !important; /* Efecto de desenfoque */
+  z-index: -1 !important; /* Asegura que el fondo desenfocado esté detrás del texto */
 }

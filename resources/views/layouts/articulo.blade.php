@@ -3,8 +3,9 @@
 
 <head>
     <title>Humpton - Creative Portfolio Template</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="Download the best Creative Portfolio HTML Template in 2022" />
+    {{-- <meta name="viewport" content="width=device-width, initial-scale=1.0" /> --}}
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="description" content="{{ $description }}" />
     <meta name="author" content="ClaPat Studio">
     <meta charset="UTF-8" />
     <link rel="icon" type="image/ico" href="favicon.ico" />
@@ -13,9 +14,11 @@
     <link href="https://www.clapat.com/templates/humpton/css/all.min.css" rel="stylesheet" />
     <link href="/assets/style.css" rel="stylesheet" />
     <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/solid.min.css"
+        integrity="sha512-Hp+WwK4QdKZk9/W0ViDvLunYjFrGJmNDt6sCflZNkjgvNq9mY+0tMbd6tWMiAlcf1OQyqL4gn2rYp7UsfssZPA=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 </head>
-
 
 <body class="hidden hidden-ball smooth-scroll" data-primary-color="#ff0000">
 
@@ -26,7 +29,7 @@
         <div class="cd-index cd-main-content">
 
             <!-- Page Content -->
-            <div id="page-content" class="light-content" data-bgcolor="#171717">
+            <div id="page-content" class="{{ $color }}-content" data-bgcolor="#171717">
 
                 <!-- Header -->
 
@@ -46,12 +49,17 @@
                             <div id="hero-styles">
                                 <div id="hero-caption" class="content-max-width marquee-title">
                                     <div class="inner">
-                                        <div class="hero-arrow"><i class="arrow-icon"></i></div>
-                                        <div class="hero-subtitle"><span>Forma</span><span>Producciones
-                                                Audiovisuales</span></div>
-                                        <div class="hero-title-wrapper">
-                                            <div class="hero-title"><span>The</span><span>Beautiful</span><span>Ladies
-                                                    -</span></div>
+                                        <div class="hero-arrow blurred-background"><i class="arrow-icon"></i></div>
+                                        <div class="hero-subtitle blurred-background">
+
+                                            <span>Forma</span><span>Producciones Audiovisuales</span>
+                                        </div>
+                                        <div class="hero-title-wrapper ">
+                                            <div class="hero-title">
+                                                @foreach (explode(' ', $text_move) as $word)
+                                                    <span>{{ $word }}</span>
+                                                @endforeach
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
@@ -71,9 +79,9 @@
                                 <div id="hero-description" class="content-max-width">
                                     <div class="inner">
 
-                                        <div class="hero-text">{{ $description }}</div>
+                                        <div class="hero-text blurred-background">{{ $description }}</div>
 
-                                        <div id="share" class="page-action-content" data-text="Share Project:">
+                                        <div id="share" class="page-action-content" data-text="Compartir en Redes:">
                                         </div>
 
                                     </div>
@@ -82,8 +90,8 @@
                         </div>
                         <div id="hero-image-wrapper">
                             <div id="hero-background-layer" class="parallax-scroll-image">
-                                <div id="hero-bg-image" class="grayscale60"
-                                    style="background-image:url({{ $img_hero }})"></div>
+                                <div id="hero-bg-image" class=""
+                                    style="background-image:url({{ $img_hero }});"></div>
                             </div>
                         </div>
                         <!--/Hero Section -->
@@ -108,14 +116,14 @@
 
                         </div>
 
-                        @include('components.corporativo.about')
+                        @include('components.corporativo.about', ['color' => $color])
                         <!--/Main Content -->
                     </div>
                     <!--/Main -->
 
 
                     <!-- Footer -->
-                    <x-footer />
+                    @include('components.footer', ['color' => $color])
                     <!--/Footer -->
 
 

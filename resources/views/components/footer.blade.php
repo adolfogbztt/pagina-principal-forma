@@ -1,6 +1,7 @@
 <footer class="hidden">
-    <div id="footer-container">
+    {{-- <div id="page-content" class="{{$color}}-content" data-bgcolor="#171717"> --}}
 
+    <div id="footer-container" class="{{ $color == 'light' ? 'dark' : 'light' }}-content">
         <div id="backtotop" class="button-wrap left">
             <div class="icon-wrap parallax-wrap">
                 <div class="button-icon parallax-element">
@@ -12,7 +13,7 @@
 
         <div class="footer-middle">
             <div class="copyright">2024 © <a class="link" target="_blank" href="https://formaproducciones.com/">Forma
-                    Producciones</a>. Todos los Derechos Reservados.
+                    Producciones</a>
             </div>
         </div>
 

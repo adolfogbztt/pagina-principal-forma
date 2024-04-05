@@ -26,8 +26,8 @@
                 </div>
                 <div class="box-icon-content">
                     <h4 class="no-margins">Creacción de Guiones</h4>
-                    {{-- <p>We create interfaces, whether your business sells directly to consumers or other businesses, for
-                        any smart device type or screen size.</p> --}}
+                    <p>We create interfaces, whether your business sells directly to consumers or other businesses, for
+                        any smart device type or screen size.</p>
                 </div>
             </div>
         </div>
@@ -41,8 +41,8 @@
                 </div>
                 <div class="box-icon-content">
                     <h4 class="no-margins">Storytelling</h4>
-                    {{-- <p>We create interfaces, whether your business sells directly to consumers or other businesses, for
-                        any smart device type or screen size.</p> --}}
+                    <p>We create interfaces, whether your business sells directly to consumers or other businesses, for
+                        any smart device type or screen size.</p>
                 </div>
             </div>
         </div>
@@ -73,8 +73,8 @@
                 </div>
                 <div class="box-icon-content">
                     <h4 class="no-margins">Cobertura de Eventos</h4>
-                    {{-- <p>We create interfaces, whether your business sells directly to consumers or other businesses, for --}}
-                    {{-- any smart device type or screen size.</p> --}}
+                    <p>We create interfaces, whether your business sells directly to consumers or other businesses,
+                        forany smart device type or screen size.</p>
                 </div>
             </div>
         </div>
@@ -88,8 +88,7 @@
                 </div>
                 <div class="box-icon-content">
                     <h4 class="no-margins">Locución</h4>
-                    {{-- <p>We create interfaces, whether your business sells directly to consumers or other businesses, for --}}
-                    {{-- any smart device type or screen size.</p> --}}
+                    <p>We create interfaces, whether your business sells directly to consumers or other businesses, for  any smart device type or screen size.</p>
                 </div>
             </div>
         </div>
