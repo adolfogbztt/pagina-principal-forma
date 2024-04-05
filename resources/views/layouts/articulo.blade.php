@@ -107,6 +107,8 @@
                             <!--/Main Page Content -->
 
                         </div>
+
+                        @include('components.corporativo.about')
                         <!--/Main Content -->
                     </div>
                     <!--/Main -->
