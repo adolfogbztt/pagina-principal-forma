@@ -9,3 +9,11 @@ Route::get('/', function () {
 Route::get('/corporativo/cartografia', function () {
     return view('pages.corporativo.cartografia');
 });
+
+Route::get('/corporativo/termografia', function () {
+    return view('pages.corporativo.termografia');
+});
+
+Route::get('/corporativo/fotogrametria', function () {
+    return view('pages.corporativo.fotogrametria');
+});
