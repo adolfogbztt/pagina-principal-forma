@@ -25,15 +25,15 @@
         <h1 class="has-mask-fill no-margins">Streaming &</h1>
         <h1 class="has-mask-fill">Tours 360</h1>
 
-        <hr>
+    <hr>
 
         <p class="has-animation" data-delay="0">There are many variations of passages of Lorem Ipsum available, but the
             majority have suffered alteration in some form by injected humour.</p>
-
     </div>
 
     <div class="one_half last">
-        <video src='/assets/drone/vid-drone2.mov' className="item-image grayscale60" autoPlay muted loop></video>
+        {{-- <video src='/assets/drone/vid-drone2.mov' className="item-image grayscale60" autoPlay muted loop></video> --}}
+        <img src='/assets/1x/streaming.jpg' className="item-image grayscale60" autoPlay muted loop></img>
     </div>
 
 </div>

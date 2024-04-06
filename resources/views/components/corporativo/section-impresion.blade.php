@@ -28,7 +28,7 @@
     <hr>
 
     <div class="one_half">
-        <video src='/assets/drone/vid-drone2.mov' className="item-image grayscale60" autoPlay muted loop></video>
+        <img src='/assets/1x/impresion.jpg' className="item-image grayscale60" autoPlay muted loop></img>
 
     </div>
 
@@ -38,8 +38,10 @@
 
         <hr>
 
-        <p class="has-animation" data-delay="0">There are many variations of passages of Lorem Ipsum available, but the
-            majority have suffered alteration in some form by injected humour.</p>
+        <p class="has-animation" data-delay="0">Brindamos soluciones de impresión personalizadas para 
+            photobooks, anuarios, credenciales y más. Con tecnología de punta y un enfoque en la calidad, 
+            ofrecemos productos impresos de alta definición y durabilidad para satisfacer las necesidades 
+            específicas de nuestros clientes.</p>
 
     </div>
 
