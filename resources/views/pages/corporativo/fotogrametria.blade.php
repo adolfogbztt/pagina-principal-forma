@@ -6,8 +6,10 @@
     $color = 'dark'; // 'dark' || 'light'
     $text_move = ' Fotogrametría · Fotogrametría ·';
     $img_hero = '/assets/drone/1fotogrametria.jpeg';
-    $description = 'Llevamos la termografía a nuevas alturas con el uso de drones termografícos. Nuestra tecnología utiliza cámaras termográficas
-                    montadas en drones para capturar imagenes térmicas desde elevadas alturas';
+    $description = 'Nuestro servicio de fotogrametría utiliza tecnología de vanguardia para capturar datos 
+    precisos del mundo real y convertirlos en modelos 3D detallados. Ya sea para cartografía, inspección 
+    de sitios o creación de contenido visual, ofrecemos soluciones precisas y personalizadas que 
+    satisfacen las necesidades de nuestros clientes con resultados de alta calidad.';
     /*END HERO SECTION*/
 
     /*CONTENT SECTION*/
@@ -26,7 +28,7 @@
         <div class="one_fourth"></div>
 
         <div class="two_fourth">
-            <h1 class="has-mask-fill">¡Descubre lo invisible con la perspectiva aérea!</h1>
+            <h2 class="has-mask-fill">¡Datos precisos, soluciones poderosas: Fotogrametría a tu alcance!</h2>
         </div>
 
         <div class="one_fourth last"></div>
@@ -38,14 +40,11 @@
         </div>
 
         <div class="two_fourth">
-            <p class="has-animation" data-delay="100">Perspectiva Aérea en Agricultura: Nuestros drones termográficos
-                son esenciales para la agricultura. Detectamos problemas de salud de las plantas, la distribución de 
-                riego y otros factores clave para la gestión de cultivos.<br><br>Inspecciones Industriales y de 
-                Infraestructuras: Realizamos inspecciones termográficas en entornos industriales y de infraestructuras, 
-                anticipando problemas antes de que se conviertan en costosas averías.<br><br>Mantenimiento Predictivo: 
-                Ayudamos a mantener equipos y sistemas en óptimas condiciones mediante el monitoreo termográfico 
-                regular.<br><br>Perspectiva Única: Las imágenes térmicas aéreas revelan detalles que podrían pasar 
-                desapercibidos desde el nivel del suelo, mejorando la toma de decisiones informadas.</p>
+            <p class="has-animation" data-delay="100">Precisión: La fotogrametría ofrece mediciones precisas y detalladas 
+                del mundo real, permitiendo la generación de modelos 3D exactos y fieles a la realidad.<br><br>Versatilidad: 
+                Es aplicable en una amplia gama de industrias, desde topografía y cartografía hasta inspecciones 
+                industriales y recreación digital.<br><br>Eficiencia: Permite la captura rápida y eficiente de datos a través 
+                de imágenes aéreas o terrestres, reduciendo los tiempos de relevamiento y aumentando la productividad.</p>
         </div>
 
         <div class="one_fourth last"></div>

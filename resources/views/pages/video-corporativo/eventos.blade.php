@@ -26,7 +26,7 @@
         <div class="one_fourth"></div>
 
         <div class="two_fourth">
-            <h1 class="has-mask-fill">¡Descubre lo invisible con la perspectiva aérea!</h1>
+            <h2 class="has-mask-fill">¡Descubre lo invisible con la perspectiva aérea!</h2>
         </div>
 
         <div class="one_fourth last"></div>

@@ -27,8 +27,10 @@
 
     <hr>
 
-        <p class="has-animation" data-delay="0">There are many variations of passages of Lorem Ipsum available, but the
-            majority have suffered alteration in some form by injected humour.</p>
+        <p class="has-animation" data-delay="0">Ofrecemos servicios de streaming y tours 360 que 
+                levan la experiencia virtual a un nuevo nivel. Desde eventos en vivo hasta recorridos 
+                inmersivos, nuestra plataforma brinda una conexión auténtica y envolvente con audiencias 
+                globales, impulsando la participación y la interacción.</p>
     </div>
 
     <div class="one_half last">

@@ -28,7 +28,7 @@
         <div class="one_fourth"></div>
 
         <div class="two_fourth">
-            <h1 class="has-mask-fill">¡Explora un universo de datos geoespaciales sin limites!</h1>
+            <h2 class="has-mask-fill">¡Explora un universo de datos geoespaciales sin limites!</h2>
         </div>
 
         <div class="one_fourth last"></div>

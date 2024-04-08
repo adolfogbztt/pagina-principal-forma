@@ -1,5 +1,6 @@
 <?php
 
+use Illuminate\Routing\Route as RoutingRoute;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
@@ -28,19 +29,19 @@ Route::get('/corporativo/corporativo', function () {
 });
 
 // Fotografia Digital
-Route::get('/fotografia/f_corporativo', function () {
+Route::get('/fotografia/corporativo', function () {
     return view('pages.fotografia.f_corporativo');
 });
 
-Route::get('/fotografia/f_productos', function () {
+Route::get('/fotografia/productos', function () {
     return view('pages.fotografia.f_productos');
 });
 
-Route::get('/fotografia/f_publicidad', function () {
+Route::get('/fotografia/publicidad', function () {
     return view('pages.fotografia.f_publicidad');
 });
 
-Route::get('/fotografia/f_fotografia', function () {
+Route::get('/fotografia/fotografia', function () {
     return view('pages.fotografia.f_fotografia');
 });
 

@@ -4,10 +4,10 @@
 
     /*HERO SECTION*/
     $color = 'dark'; // 'dark' || 'light'
-    $text_move = '📷 Productos 📷 Productos ';
+    $text_move = ' Productos · Productos ·';
     $img_hero = '/assets/fotografia/productos.jpeg';
-    $description = 'Llevamos la termografía a nuevas alturas con el uso de drones termografícos. Nuestra tecnología utiliza cámaras termográficas
-                    montadas en drones para capturar imagenes térmicas desde elevadas alturas';
+    $description = 'Ofrecemos servicios de fotografía de productos, destacando sus características 
+    y cualidades de manera profesional y atractiva para impulsar su comercialización y ventas.';
     /*END HERO SECTION*/
 
     /*CONTENT SECTION*/
@@ -26,7 +26,7 @@
         <div class="one_fourth"></div>
 
         <div class="two_fourth">
-            <h1 class="has-mask-fill">¡Descubre lo invisible con la perspectiva aérea!</h1>
+            <h2 class="has-mask-fill">¡Destaca tus productos con imágenes que cautivan!</h2>
         </div>
 
         <div class="one_fourth last"></div>
@@ -34,19 +34,59 @@
         <hr>
 
         <div class="one_fourth">
-            <h6 class="has-animation has-icon">Destacamos</h6>
+            <h6 class="has-animation has-icon">Planificación y preparación meticulosas:</h6>
         </div>
 
         <div class="two_fourth">
-            <p class="has-animation" data-delay="100">Perspectiva Aérea en Agricultura: Nuestros drones termográficos
-                son esenciales para la agricultura. Detectamos problemas de salud de las plantas, la distribución de 
-                riego y otros factores clave para la gestión de cultivos.<br><br>Inspecciones Industriales y de 
-                Infraestructuras: Realizamos inspecciones termográficas en entornos industriales y de infraestructuras, 
-                anticipando problemas antes de que se conviertan en costosas averías.<br><br>Mantenimiento Predictivo: 
-                Ayudamos a mantener equipos y sistemas en óptimas condiciones mediante el monitoreo termográfico 
-                regular.<br><br>Perspectiva Única: Las imágenes térmicas aéreas revelan detalles que podrían pasar 
-                desapercibidos desde el nivel del suelo, mejorando la toma de decisiones informadas.</p>
+            <p class="has-animation" data-delay="100">Antes de comenzar la sesión, es crucial planificar 
+                cada detalle. Define el propósito de la sesión y los objetivos específicos que deseas 
+                lograr con las fotografías de los productos. Identifica los productos que serán 
+                fotografiados y establece un cronograma para la sesión. Además, prepara el equipo 
+                necesario, como cámaras, trípodes, luces y fondos, para asegurarte de tener todo 
+                listo cuando llegue el momento de fotografiar.</p>
         </div>
+
+        <div class="one_fourth">
+            <h6 class="has-animation has-icon">Configuración del escenario y los productos:</h6>
+        </div>
+
+        <div class="two_fourth">
+            <p class="has-animation" data-delay="100">Una vez que tengas todo preparado, es hora de 
+                configurar el escenario para la sesión. Elige un espacio bien iluminado con fondos 
+                limpios y simples que complementen los productos sin distraer la atención. Organiza los 
+                productos de manera atractiva y asegúrate de que estén limpios y en perfectas condiciones 
+                antes de comenzar a fotografiar. Además, considera la posibilidad de utilizar accesorios o 
+                props que ayuden a resaltar las características únicas de los productos.</p>
+        </div>
+
+        <div class="one_fourth">
+            <h6 class="has-animation has-icon">Iluminación y composición experta:</h6>
+        </div>
+
+        <div class="two_fourth">
+            <p class="has-animation" data-delay="100">La iluminación adecuada es esencial para obtener 
+                imágenes de alta calidad. Experimenta con diferentes fuentes de luz, como la luz natural 
+                y las luces artificiales, para encontrar la mejor opción para cada producto. Además, 
+                presta atención a la composición de cada fotografía, asegurándote de que los productos 
+                estén bien posicionados y que el encuadre sea limpio y atractivo. Considera el uso de 
+                ángulos interesantes y perspectivas únicas para añadir profundidad y dimensión a tus 
+                imágenes.</p>
+        </div>
+
+        <div class="one_fourth">
+            <h6 class="has-animation has-icon">Captura de imágenes y revisión cuidadosa:</h6>
+        </div>
+
+        <div class="two_fourth">
+            <p class="has-animation" data-delay="100">Una vez que todo esté configurado, comienza a 
+                tomar fotografías de los productos siguiendo tus planes y objetivos establecidos. 
+                Toma una variedad de imágenes desde diferentes ángulos y perspectivas para tener 
+                opciones para elegir más tarde. Después de la sesión, revisa todas las imágenes 
+                cuidadosamente y selecciona las mejores para su edición y postproducción. Asegúrate de 
+                que las imágenes finales cumplan con los estándares de calidad y estén listas para su 
+                entrega o uso según lo planeado.</p>
+        </div>
+
 
         <div class="one_fourth last"></div>
 

@@ -6,8 +6,9 @@
     $color = 'dark'; // 'dark' || 'light'
     $text_move = ' Corporativo · Corporativo ·';
     $img_hero = '/assets/drone/corporativo.jpeg';
-    $description = 'Llevamos la termografía a nuevas alturas con el uso de drones termografícos. Nuestra tecnología utiliza cámaras termográficas
-                    montadas en drones para capturar imagenes térmicas desde elevadas alturas';
+    $description = 'Captura momentos inolvidables con tomas aéreas en calidad 4K y Full HD. Nuestros 
+                    pilotos expertos están preparados para elevar tus eventos, cubriendo una amplia gama de ocasiones 
+                    empresariales.';
     /*END HERO SECTION*/
 
     /*CONTENT SECTION*/
@@ -26,7 +27,7 @@
         <div class="one_fourth"></div>
 
         <div class="two_fourth">
-            <h1 class="has-mask-fill">¡Descubre lo invisible con la perspectiva aérea!</h1>
+            <h2 class="has-mask-fill">¡Elevando tus momentos especiales!</h2>
         </div>
 
         <div class="one_fourth last"></div>
@@ -38,14 +39,11 @@
         </div>
 
         <div class="two_fourth">
-            <p class="has-animation" data-delay="100">Perspectiva Aérea en Agricultura: Nuestros drones termográficos
-                son esenciales para la agricultura. Detectamos problemas de salud de las plantas, la distribución de 
-                riego y otros factores clave para la gestión de cultivos.<br><br>Inspecciones Industriales y de 
-                Infraestructuras: Realizamos inspecciones termográficas en entornos industriales y de infraestructuras, 
-                anticipando problemas antes de que se conviertan en costosas averías.<br><br>Mantenimiento Predictivo: 
-                Ayudamos a mantener equipos y sistemas en óptimas condiciones mediante el monitoreo termográfico 
-                regular.<br><br>Perspectiva Única: Las imágenes térmicas aéreas revelan detalles que podrían pasar 
-                desapercibidos desde el nivel del suelo, mejorando la toma de decisiones informadas.</p>
+            <p class="has-animation" data-delay="100">En Forma Producciones, transformamos tus momentos 
+                especiales, como bodas, cumpleaños, aniversarios, fiestas familiares y bautizos, en 
+                recuerdos únicos. Nuestros drones capturan la belleza de cada ocasión desde las alturas, 
+                con tomas aéreas en calidad 4K y Full HD. Permítenos elevar tus eventos personales y crear 
+                recuerdos que perdurarán por siempre.</p>
         </div>
 
         <div class="one_fourth last"></div>

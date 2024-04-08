@@ -6,8 +6,11 @@
     $color = 'dark'; // 'dark' || 'light'
     $text_move = ' Cafetera Automática · Cafetera Automática ·';
     $img_hero = '/assets/video-corporativo/conferencias.jpeg';
-    $description = 'Llevamos la termografía a nuevas alturas con el uso de drones termografícos. Nuestra tecnología utiliza cámaras termográficas
-                    montadas en drones para capturar imagenes térmicas desde elevadas alturas';
+    $description = 'Nos complace ofrecer una experiencia exclusiva como 
+                    parte de nuestro servicio de catering corporativo, especialmente diseñado para 
+                    nuestros clientes más valiosos. Presentamos con orgullo la cafetera automática JURA. 
+                    Este elegante y sofisticado dispositivo es un auténtico símbolo de elegancia y 
+                    disfrute, diseñado para hacer de cada experiencia un momento memorable.';
     /*END HERO SECTION*/
 
     /*CONTENT SECTION*/
@@ -26,7 +29,7 @@
         <div class="one_fourth"></div>
 
         <div class="two_fourth">
-            <h1 class="has-mask-fill">¡Descubre lo invisible con la perspectiva aérea!</h1>
+            <h2 class="has-mask-fill">¡Un deleite exclusivo para nuestros clientes de incorporaciones!</h2>
         </div>
 
         <div class="one_fourth last"></div>
@@ -34,18 +37,20 @@
         <hr>
 
         <div class="one_fourth">
-            <h6 class="has-animation has-icon">Destacamos</h6>
+            <h6 class="has-animation has-icon">CARACTERÍSTICAS DESTACADAS</h6>
         </div>
 
         <div class="two_fourth">
-            <p class="has-animation" data-delay="100">Perspectiva Aérea en Agricultura: Nuestros drones termográficos
-                son esenciales para la agricultura. Detectamos problemas de salud de las plantas, la distribución de 
-                riego y otros factores clave para la gestión de cultivos.<br><br>Inspecciones Industriales y de 
-                Infraestructuras: Realizamos inspecciones termográficas en entornos industriales y de infraestructuras, 
-                anticipando problemas antes de que se conviertan en costosas averías.<br><br>Mantenimiento Predictivo: 
-                Ayudamos a mantener equipos y sistemas en óptimas condiciones mediante el monitoreo termográfico 
-                regular.<br><br>Perspectiva Única: Las imágenes térmicas aéreas revelan detalles que podrían pasar 
-                desapercibidos desde el nivel del suelo, mejorando la toma de decisiones informadas.</p>
+            <p class="has-animation" data-delay="100">Experiencia excepcional: La cafetera automática JURA ofrece un 
+                impresionante espectro de especialidades de café con tan solo pulsar un botón. Desde Latte Macchiato 
+                hasta Cappuccino, cada taza es un placer instantáneo.<br><br>Máximo aroma y sabor: Gracias 
+                al Proceso de Extracción por Pulsos (P.E.P.®), cada especialidad de café se prepara de 
+                manera óptima, garantizando el máximo aroma y un sabor inigualable en cada 
+                sorbo.<br><br>Elegancia y sofisticación: La cafetera JURA es un testimonio de lujo y distinción. Su 
+                diseño elegante y acabados de alta calidad aportan un toque exclusivo a cada momento de 
+                disfrute.<br><br>Atención personalizada: Nuestro equipo se encargará del mantenimiento y suministro 
+                de la cafetera, asegurando una experiencia perfecta y sin preocupaciones para nuestros clientes 
+                exclusivos.</p>
         </div>
 
         <div class="one_fourth last"></div>

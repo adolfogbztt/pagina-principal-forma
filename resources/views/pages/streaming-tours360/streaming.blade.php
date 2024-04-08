@@ -6,8 +6,9 @@
     $color = 'dark'; // 'dark' || 'light'
     $text_move = ' Streaming · Streaming ·';
     $img_hero = '/assets/video-corporativo/conferencias.jpeg';
-    $description = 'Llevamos la termografía a nuevas alturas con el uso de drones termografícos. Nuestra tecnología utiliza cámaras termográficas
-                    montadas en drones para capturar imagenes térmicas desde elevadas alturas';
+    $description = 'Nuestro servicio de Streaming se distingue por contar con cámaras 
+                    robóticas de transmisión, las cuales brindan una experiencia visual 
+                    dinámica y envolvente.';
     /*END HERO SECTION*/
 
     /*CONTENT SECTION*/
@@ -26,7 +27,7 @@
         <div class="one_fourth"></div>
 
         <div class="two_fourth">
-            <h1 class="has-mask-fill">¡Descubre lo invisible con la perspectiva aérea!</h1>
+            <h2 class="has-mask-fill">¡Conectando personas, transformando experiencias!</h2>
         </div>
 
         <div class="one_fourth last"></div>
@@ -38,14 +39,17 @@
         </div>
 
         <div class="two_fourth">
-            <p class="has-animation" data-delay="100">Perspectiva Aérea en Agricultura: Nuestros drones termográficos
-                son esenciales para la agricultura. Detectamos problemas de salud de las plantas, la distribución de 
-                riego y otros factores clave para la gestión de cultivos.<br><br>Inspecciones Industriales y de 
-                Infraestructuras: Realizamos inspecciones termográficas en entornos industriales y de infraestructuras, 
-                anticipando problemas antes de que se conviertan en costosas averías.<br><br>Mantenimiento Predictivo: 
-                Ayudamos a mantener equipos y sistemas en óptimas condiciones mediante el monitoreo termográfico 
-                regular.<br><br>Perspectiva Única: Las imágenes térmicas aéreas revelan detalles que podrían pasar 
-                desapercibidos desde el nivel del suelo, mejorando la toma de decisiones informadas.</p>
+            <p class="has-animation" data-delay="100">Presentaciones y Lanzamientos: Impacta
+                a tu audiencia global con lanzamientos de productos, servicios o iniciativas.
+                <br><br>Conferencias y Seminarios: Comparte conocimientos y experiencias con 
+                un público amplio, consolidando tu posición como líder en la 
+                industria.<br><br>Eventos de Recursos Humanos: Manténa tu equipo conectado y 
+                comprometido, sin importar la ubicación, mediante transmisiones en vivo de 
+                reuniones y capacitaciones.<br><br>Eventos Virtuales: Crea eventos virtuales
+                o híbridos que lleguen a una audiencia diversa y numerosa.<br><br>Eventos de 
+                Marketing: Potencia estrategias de marketing con campañas en vivo, aumentando 
+                el impacto y la visibilidad.<br><br>Comunicación Interna: Conecta a nivel 
+                interno, manteniendo a los empleados informados y comprometidos con la empresa.</p>
         </div>
 
         <div class="one_fourth last"></div>

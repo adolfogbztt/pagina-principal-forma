@@ -4,10 +4,10 @@
 
     /*HERO SECTION*/
     $color = 'dark'; // 'dark' || 'light'
-    $text_move = '📷 Corporativo 📷 Corporativo ';
+    $text_move = ' Fotografia Corporativa · Fotografia Corporativa ·';
     $img_hero = '/assets/fotografia/corporativo.jpeg';
-    $description = 'Llevamos la termografía a nuevas alturas con el uso de drones termografícos. Nuestra tecnología utiliza cámaras termográficas
-                    montadas en drones para capturar imagenes térmicas desde elevadas alturas';
+    $description = 'Nuestra fotografía corporativa captura la esencia y 
+                    profesionalismo de tu empresa, ideal para branding y comunicación visual efectiva.';
     /*END HERO SECTION*/
 
     /*CONTENT SECTION*/
@@ -26,27 +26,76 @@
         <div class="one_fourth"></div>
 
         <div class="two_fourth">
-            <h1 class="has-mask-fill">¡Descubre lo invisible con la perspectiva aérea!</h1>
+            <h2 class="has-mask-fill">¡Detiene el tiempo en imágenes perfectas!</h2>
         </div>
 
+        
         <div class="one_fourth last"></div>
 
         <hr>
 
         <div class="one_fourth">
-            <h6 class="has-animation has-icon">Destacamos</h6>
+            <h6 class="has-animation has-icon">Comprensión del cliente:</h6>
         </div>
 
         <div class="two_fourth">
-            <p class="has-animation" data-delay="100">Perspectiva Aérea en Agricultura: Nuestros drones termográficos
-                son esenciales para la agricultura. Detectamos problemas de salud de las plantas, la distribución de 
-                riego y otros factores clave para la gestión de cultivos.<br><br>Inspecciones Industriales y de 
-                Infraestructuras: Realizamos inspecciones termográficas en entornos industriales y de infraestructuras, 
-                anticipando problemas antes de que se conviertan en costosas averías.<br><br>Mantenimiento Predictivo: 
-                Ayudamos a mantener equipos y sistemas en óptimas condiciones mediante el monitoreo termográfico 
-                regular.<br><br>Perspectiva Única: Las imágenes térmicas aéreas revelan detalles que podrían pasar 
-                desapercibidos desde el nivel del suelo, mejorando la toma de decisiones informadas.</p>
+            <p class="has-animation" data-delay="100">En Forma, antes de comenzar cualquier sesión, es esencial 
+                tener una comprensión profunda de la empresa, su cultura corporativa, valores, identidad 
+                de marca y los objetivos específicos que desean lograr con las fotografías corporativas. 
+                Esto permite al nuestros fotógrafos alinear su visión con la del cliente y capturar imágenes que 
+                reflejen fielmente la esencia de la empresa.</p>
         </div>
+
+        <div class="one_fourth">
+            <h6 class="has-animation has-icon">Planificación y logística:</h6>
+        </div>
+
+        <div class="two_fourth">
+            <p class="has-animation" data-delay="100">Nuestra planificación es cuidadosa ya que es la clave para el éxito de 
+                cualquier sesión fotográfica corporativa. Esto implica coordinar detalles como la ubicación 
+                de la sesión, el equipo necesario, la disponibilidad del personal clave y cualquier requisito 
+                técnico especial. Ofreciendo una planificación sólida para maximizar el tiempo de la sesión y garantizar 
+                que se capturen todas las imágenes necesarias.</p>
+        </div>
+
+        <div class="one_fourth">
+            <h6 class="has-animation has-icon">Profesionalismo y creatividad:</h6>
+        </div>
+
+        <div class="two_fourth">
+            <p class="has-animation" data-delay="100">Durante la sesión fotográfica, mantenemos un 
+                alto nivel de profesionalismo en todo momento. Esto implica no solo tener habilidades 
+                técnicas sólidas en fotografía, iluminación y composición, sino también la capacidad de 
+                guiar y dirigir a los sujetos de manera efectiva para obtener los mejores resultados. 
+                Además, la creatividad juega un papel importante en la creación de imágenes únicas y 
+                visualmente atractivas que destaquen la marca de su empresa.</p>
+        </div>
+
+        <div class="one_fourth">
+            <h6 class="has-animation has-icon">Comunicación efectiva: </h6>
+        </div>
+
+        <div class="two_fourth">
+            <p class="has-animation" data-delay="100">La comunicación que brinda Forma es clara y constante con el cliente es 
+                fundamental en todas las etapas del proceso, desde la planificación inicial hasta la 
+                entrega final de las imágenes. Esto incluye discutir las expectativas del cliente, 
+                obtener retroalimentación durante la sesión y compartir muestras de imágenes para 
+                asegurarse de que se esté cumpliendo con sus requisitos y preferencias.</p>
+        </div>
+
+        <div class="one_fourth">
+            <h6 class="has-animation has-icon">Postproducción cuidadosa:</h6>
+        </div>
+
+        <div class="two_fourth">
+            <p class="has-animation" data-delay="100">Después de la sesión, el trabajo de edición 
+                y retoque es crucial para garantizar que las imágenes cumplan con los estándares 
+                de calidad esperados. Realizamos los ajustes de color, contraste y nitidez 
+                según sea necesario, así como eliminar imperfecciones menores y asegurarse de que las 
+                imágenes tengan una apariencia profesional y coherente con la identidad visual de la 
+                marca.</p>
+        </div>
+
 
         <div class="one_fourth last"></div>
 

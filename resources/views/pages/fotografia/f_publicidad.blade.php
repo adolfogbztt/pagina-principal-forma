@@ -4,10 +4,11 @@
 
     /*HERO SECTION*/
     $color = 'dark'; // 'dark' || 'light'
-    $text_move = '📷 Publicidad 📷 Publicidad ';
+    $text_move = ' Publicidad · Publicidad ·';
     $img_hero = '/assets/fotografia/publicidad.jpeg';
-    $description = 'Llevamos la termografía a nuevas alturas con el uso de drones termografícos. Nuestra tecnología utiliza cámaras termográficas
-                    montadas en drones para capturar imagenes térmicas desde elevadas alturas';
+    $description = 'Ofrecemos fotografía publicitaria que captura la esencia y el atractivo de productos y 
+                    servicios con creatividad y precisión, destinada a destacar su valor y generar 
+                    interés en el público objetivo.';
     /*END HERO SECTION*/
 
     /*CONTENT SECTION*/
@@ -26,7 +27,7 @@
         <div class="one_fourth"></div>
 
         <div class="two_fourth">
-            <h1 class="has-mask-fill">¡Descubre lo invisible con la perspectiva aérea!</h1>
+            <h2 class="has-mask-fill">¡Transformamos ideas en imágenes cautivadoras que impulsan tu marca hacia el éxito!</h2>
         </div>
 
         <div class="one_fourth last"></div>
@@ -38,14 +39,17 @@
         </div>
 
         <div class="two_fourth">
-            <p class="has-animation" data-delay="100">Perspectiva Aérea en Agricultura: Nuestros drones termográficos
-                son esenciales para la agricultura. Detectamos problemas de salud de las plantas, la distribución de 
-                riego y otros factores clave para la gestión de cultivos.<br><br>Inspecciones Industriales y de 
-                Infraestructuras: Realizamos inspecciones termográficas en entornos industriales y de infraestructuras, 
-                anticipando problemas antes de que se conviertan en costosas averías.<br><br>Mantenimiento Predictivo: 
-                Ayudamos a mantener equipos y sistemas en óptimas condiciones mediante el monitoreo termográfico 
-                regular.<br><br>Perspectiva Única: Las imágenes térmicas aéreas revelan detalles que podrían pasar 
-                desapercibidos desde el nivel del suelo, mejorando la toma de decisiones informadas.</p>
+            <p class="has-animation" data-delay="100">Forma brinda fotografía publicitaria con ella busca 
+                persuadir e invitar al cliente a que compre, desee y haga lo imposible por tener el 
+                producto o servicio que ven en una imagen. La fotografía publicitaria es una de las 
+                actividades más importantes dentro del ramo fotográfico, pues a partir de esta se 
+                genera el deseo de compra en el consumidor final.<br><br>Este tipo de fotografía es de 
+                lo más interesante de explorar, pues te permite jugar con la realidad y la ficción en una 
+                sola imagen, busca crear una escena en la que el producto o servicio sea la prioridad y 
+                todo su entorno gire en torno a eso.<br><br>Es importante no confundir la fotografía de 
+                producto con la fotografía publicitaria pues la primera es para catálogos, páginas web, 
+                e-commerce y demás, mientras que la segunda es utilizada en vallas publicitarias, revistas 
+                o campañas televisivas.</p>
         </div>
 
         <div class="one_fourth last"></div>

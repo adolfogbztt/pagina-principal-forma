@@ -26,7 +26,7 @@
         <div class="one_fourth"></div>
 
         <div class="two_fourth">
-            <h1 class="has-mask-fill">¡Descubre lo invisible con la perspectiva aérea!</h1>
+            <h2 class="has-mask-fill">¡Descubre lo invisible con la perspectiva aérea!</h2>
         </div>
 
         <div class="one_fourth last"></div>
@@ -38,14 +38,18 @@
         </div>
 
         <div class="two_fourth">
-            <p class="has-animation" data-delay="100">Perspectiva Aérea en Agricultura: Nuestros drones termográficos
-                son esenciales para la agricultura. Detectamos problemas de salud de las plantas, la distribución de 
-                riego y otros factores clave para la gestión de cultivos.<br><br>Inspecciones Industriales y de 
-                Infraestructuras: Realizamos inspecciones termográficas en entornos industriales y de infraestructuras, 
-                anticipando problemas antes de que se conviertan en costosas averías.<br><br>Mantenimiento Predictivo: 
-                Ayudamos a mantener equipos y sistemas en óptimas condiciones mediante el monitoreo termográfico 
-                regular.<br><br>Perspectiva Única: Las imágenes térmicas aéreas revelan detalles que podrían pasar 
-                desapercibidos desde el nivel del suelo, mejorando la toma de decisiones informadas.</p>
+            <p class="has-animation" data-delay="100">Nuestro servicio de termografía con drones utiliza 
+                tecnología avanzada para capturar imágenes térmicas de alta resolución desde el aire. 
+                Detectamos y analizamos variaciones de temperatura en estructuras, equipos y terrenos, 
+                proporcionando datos críticos para la identificación temprana de problemas, como fugas de 
+                energía, puntos calientes o fallas en equipos, permitiendo así una gestión proactiva y 
+                eficiente de activos y recursos.<br><br>Detección temprana de anomalías: La termografía 
+                permite identificar variaciones de temperatura que podrían indicar problemas como fugas de 
+                energía, humedad o fallos en equipos, lo que permite abordar los problemas antes de que se 
+                conviertan en costosas averías.<br><br>Mejora de la eficiencia energética: Al identificar 
+                áreas de pérdida de calor o refrigeración, la termografía ayuda a optimizar el rendimiento 
+                energético de edificios, instalaciones industriales y sistemas de climatización, lo que puede 
+                resultar en ahorros significativos de costos energéticos.</p>
         </div>
 
         <div class="one_fourth last"></div>

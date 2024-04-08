@@ -6,8 +6,11 @@
     $color = 'dark'; // 'dark' || 'light'
     $text_move = ' Tour 360 · Tour 360 ·';
     $img_hero = '/assets/video-corporativo/conferencias.jpeg';
-    $description = 'Llevamos la termografía a nuevas alturas con el uso de drones termografícos. Nuestra tecnología utiliza cámaras termográficas
-                    montadas en drones para capturar imagenes térmicas desde elevadas alturas';
+    $description = 'Sumérgete en experiencias virtuales sin igual con nuestros tours 360 
+                    y tours de realidad virtual (VR). Desde explorar destinos turísticos 
+                    hasta recorridos inmersivos en propiedades inmobiliarias, ofrecemos 
+                    una forma innovadora de experimentar lugares desde cualquier parte del 
+                    mundo, brindando una perspectiva única y envolvente para nuestros usuarios.';
     /*END HERO SECTION*/
 
     /*CONTENT SECTION*/
@@ -26,7 +29,7 @@
         <div class="one_fourth"></div>
 
         <div class="two_fourth">
-            <h1 class="has-mask-fill">¡Descubre lo invisible con la perspectiva aérea!</h1>
+            <h2 class="has-mask-fill">¡Viaja a través del tiempo y el espacio sin moverte!</h2>
         </div>
 
         <div class="one_fourth last"></div>
@@ -34,20 +37,39 @@
         <hr>
 
         <div class="one_fourth">
-            <h6 class="has-animation has-icon">Destacamos</h6>
+            <h6 class="has-animation has-icon">Tour 360º</h6>
         </div>
 
         <div class="two_fourth">
-            <p class="has-animation" data-delay="100">Perspectiva Aérea en Agricultura: Nuestros drones termográficos
-                son esenciales para la agricultura. Detectamos problemas de salud de las plantas, la distribución de 
-                riego y otros factores clave para la gestión de cultivos.<br><br>Inspecciones Industriales y de 
-                Infraestructuras: Realizamos inspecciones termográficas en entornos industriales y de infraestructuras, 
-                anticipando problemas antes de que se conviertan en costosas averías.<br><br>Mantenimiento Predictivo: 
-                Ayudamos a mantener equipos y sistemas en óptimas condiciones mediante el monitoreo termográfico 
-                regular.<br><br>Perspectiva Única: Las imágenes térmicas aéreas revelan detalles que podrían pasar 
-                desapercibidos desde el nivel del suelo, mejorando la toma de decisiones informadas.</p>
+            <p class="has-animation" data-delay="100">Sumérgete en una experiencia virtual única con 
+                nuestro servicio de Tour 360º. Utilizando tecnología de vanguardia, capturamos imágenes 
+                panorámicas de alta resolución con equipos profesionales como Matterport, Insta360º y 
+                Drone 360º. Con estos equipos, podemos capturar espacios y dimensiones en medidas reales, 
+                brindándote una representación precisa y detallada.<br><br>Además, contamos con programas 
+                y hosting de alta tecnología que nos permiten entregar un producto digital de Tour 360º 
+                con un óptimo funcionamiento. Explora lugares de forma virtual, disfrutando de una vista 
+                panorámica de 360 grados y una experiencia inmersiva. Sumérgete en una nueva forma de 
+                explorar y disfruta de una experiencia visual envolvente con nuestra tecnología de última 
+                generación.</p>
         </div>
 
+        <div class="one_fourth">
+            <h6 class="has-animation has-icon">Tours VR</h6>
+        </div>
+
+        <div class="two_fourth">
+            <p class="has-animation">¡EXPLORA EL MUNDO VIRTUAL!</p>
+            <p class="has-animation" data-delay="100">Sumérgete en una experiencia virtual única con 
+                nuestro servicio de Tour 360º. Utilizando tecnología de vanguardia, capturamos imágenes 
+                panorámicas de alta resolución con equipos profesionales como Matterport, Insta360º y 
+                Drone 360º. Con estos equipos, podemos capturar espacios y dimensiones en medidas reales, 
+                brindándote una representación precisa y detallada.<br><br>Además, contamos con programas 
+                y hosting de alta tecnología que nos permiten entregar un producto digital de Tour 360º 
+                con un óptimo funcionamiento. Explora lugares de forma virtual, disfrutando de una vista 
+                panorámica de 360 grados y una experiencia inmersiva. Sumérgete en una nueva forma de 
+                explorar y disfruta de una experiencia visual envolvente con nuestra tecnología de última 
+                generación.</p>
+        </div>
         <div class="one_fourth last"></div>
 
     </div>

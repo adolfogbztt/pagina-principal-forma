@@ -4,10 +4,10 @@
 
     /*HERO SECTION*/
     $color = 'dark'; // 'dark' || 'light'
-    $text_move = '📷 Fotografía 📷 Fotografía ';
+    $text_move = ' Fotografía · Fotografía ·';
     $img_hero = '/assets/fotografia/1eventos.jpg';
-    $description = 'Llevamos la termografía a nuevas alturas con el uso de drones termografícos. Nuestra tecnología utiliza cámaras termográficas
-                    montadas en drones para capturar imagenes térmicas desde elevadas alturas';
+    $description = 'Ofrecemos servicios de fotografía profesional, capturando momentos y productos con calidad 
+                    y creatividad excepcionales para satisfacer las necesidades de nuestros clientes.';
     /*END HERO SECTION*/
 
     /*CONTENT SECTION*/
@@ -26,7 +26,7 @@
         <div class="one_fourth"></div>
 
         <div class="two_fourth">
-            <h1 class="has-mask-fill">¡Descubre lo invisible con la perspectiva aérea!</h1>
+            <h2 class="has-mask-fill">¡Capturamos la esencia en cada imagen!</h2>
         </div>
 
         <div class="one_fourth last"></div>
@@ -34,18 +34,36 @@
         <hr>
 
         <div class="one_fourth">
-            <h6 class="has-animation has-icon">Destacamos</h6>
+            <h6 class="has-animation has-icon">Composición y encuadre:</h6>
         </div>
 
         <div class="two_fourth">
-            <p class="has-animation" data-delay="100">Perspectiva Aérea en Agricultura: Nuestros drones termográficos
-                son esenciales para la agricultura. Detectamos problemas de salud de las plantas, la distribución de 
-                riego y otros factores clave para la gestión de cultivos.<br><br>Inspecciones Industriales y de 
-                Infraestructuras: Realizamos inspecciones termográficas en entornos industriales y de infraestructuras, 
-                anticipando problemas antes de que se conviertan en costosas averías.<br><br>Mantenimiento Predictivo: 
-                Ayudamos a mantener equipos y sistemas en óptimas condiciones mediante el monitoreo termográfico 
-                regular.<br><br>Perspectiva Única: Las imágenes térmicas aéreas revelan detalles que podrían pasar 
-                desapercibidos desde el nivel del suelo, mejorando la toma de decisiones informadas.</p>
+            <p class="has-animation" data-delay="100">Dominar la composición y el encuadre es fundamental 
+                para crear imágenes atractivas y efectivas. Esto implica considerar la disposición de 
+                elementos dentro del encuadre, así como la elección de ángulos y perspectivas que resalten 
+                los sujetos de manera favorable.</p>
+        </div>
+
+        <div class="one_fourth">
+            <h6 class="has-animation has-icon">Iluminación:</h6>
+        </div>
+
+        <div class="two_fourth">
+            <p class="has-animation" data-delay="100">La iluminación adecuada puede transformar por 
+                completo una fotografía. Ya sea luz natural o artificial, comprender cómo manipular 
+                la luz para resaltar los sujetos y crear la atmósfera deseada es esencial para obtener 
+                resultados profesionales.</p>
+        </div>
+
+        <div class="one_fourth">
+            <h6 class="has-animation has-icon">Dirección y conexión con el sujeto:</h6>
+        </div>
+
+        <div class="two_fourth">
+            <p class="has-animation" data-delay="100">El éxito de una sesión fotográfica depende en gran 
+                medida de la habilidad del fotógrafo para dirigir y conectar con el sujeto. Esto implica 
+                establecer una relación de confianza, comunicar claramente las instrucciones y capturar 
+                la esencia del individuo o la marca que se está fotografiando.</p>
         </div>
 
         <div class="one_fourth last"></div>

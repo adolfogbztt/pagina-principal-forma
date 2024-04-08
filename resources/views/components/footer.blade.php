@@ -35,6 +35,6 @@
                             href="https://www.instagram.com/clapat.themes/">In</a></span></li>
             </ul>
         </div>
-
+        
     </div>
 </footer>

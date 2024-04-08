@@ -6,8 +6,11 @@
     $color = 'dark'; // 'dark' || 'light'
     $text_move = ' Catering · Catering ·';
     $img_hero = '/assets/video-corporativo/conferencias.jpeg';
-    $description = 'Llevamos la termografía a nuevas alturas con el uso de drones termografícos. Nuestra tecnología utiliza cámaras termográficas
-                    montadas en drones para capturar imagenes térmicas desde elevadas alturas';
+    $description = 'Ofrecemos servicios de catering excepcionales, diseñados para 
+                    deleitar a tus invitados con una experiencia gastronómica inolvidable. 
+                    Desde eventos corporativos hasta celebraciones privadas, nuestro equipo 
+                    experto en cocina y atención al detalle garantiza la satisfacción de tus 
+                    necesidades culinarias con platos exquisitos y presentaciones impecables.';
     /*END HERO SECTION*/
 
     /*CONTENT SECTION*/
@@ -26,7 +29,7 @@
         <div class="one_fourth"></div>
 
         <div class="two_fourth">
-            <h1 class="has-mask-fill">¡Descubre lo invisible con la perspectiva aérea!</h1>
+            <h2 class="has-mask-fill">¡CATERING CORPORATIVO DE EXCELENCIA!</h2>
         </div>
 
         <div class="one_fourth last"></div>
@@ -34,18 +37,47 @@
         <hr>
 
         <div class="one_fourth">
-            <h6 class="has-animation has-icon">Destacamos</h6>
+            <h6 class="has-animation has-icon">Delicias gourmet en cada bocado</h6>
         </div>
 
         <div class="two_fourth">
-            <p class="has-animation" data-delay="100">Perspectiva Aérea en Agricultura: Nuestros drones termográficos
-                son esenciales para la agricultura. Detectamos problemas de salud de las plantas, la distribución de 
-                riego y otros factores clave para la gestión de cultivos.<br><br>Inspecciones Industriales y de 
-                Infraestructuras: Realizamos inspecciones termográficas en entornos industriales y de infraestructuras, 
-                anticipando problemas antes de que se conviertan en costosas averías.<br><br>Mantenimiento Predictivo: 
-                Ayudamos a mantener equipos y sistemas en óptimas condiciones mediante el monitoreo termográfico 
-                regular.<br><br>Perspectiva Única: Las imágenes térmicas aéreas revelan detalles que podrían pasar 
-                desapercibidos desde el nivel del suelo, mejorando la toma de decisiones informadas.</p>
+            <p class="has-animation" data-delay="100">Nuestro compromiso con la calidad es 
+                absoluto. Cada plato que servimos refleja la pasión y la experiencia de nuestros 
+                chefs y pasteleros profesionales. Utilizamos ingredientes frescos y de primera calidad 
+                para crear experiencias culinarias excepcionales que deleitarán a tus invitados.</p>
+        </div>
+
+        <div class="one_fourth">
+            <h6 class="has-animation has-icon">Utensilios de prestigio: Royal Prestige</h6>
+        </div>
+
+        <div class="two_fourth">
+            <p class="has-animation" data-delay="100">En Forma Producciones, nos enorgullece utilizar 
+                utensilios de la prestigiosa marca Royal Prestige. Estos utensilios de calidad superior 
+                son la elección perfecta para nuestros talentosos chefs, asegurando que cada plato que 
+                servimos sea una obra maestra culinaria.</p>
+        </div>
+
+        <div class="one_fourth">
+            <h6 class="has-animation has-icon">Variedad adaptada a tu evento</h6>
+        </div>
+
+        <div class="two_fourth">
+            <p class="has-animation" data-delay="100">Desde desayunos ejecutivos y pausas energéticas 
+                hasta elegantes brindis corporativos, almuerzos de negocios y cenas de gala, nuestro 
+                Catering Corporativo se adapta a una amplia gama de eventos. Especializamos cada menú 
+                y experiencia para satisfacer las necesidades únicas de tu ocasión.</p>
+        </div>
+
+        <div class="one_fourth">
+            <h6 class="has-animation has-icon">Profesionalismo en cada detalle</h6>
+        </div>
+
+        <div class="two_fourth">
+            <p class="has-animation" data-delay="100">Nuestro equipo de mozos uniformados está dedicado 
+                a proporcionar un servicio impecable. Desde la presentación de los platos hasta el trato 
+                amable y profesional a tus invitados, estamos comprometidos a crear un ambiente de 
+                elegancia y satisfacción en tu evento.</p>
         </div>
 
         <div class="one_fourth last"></div>

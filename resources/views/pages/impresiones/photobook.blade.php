@@ -26,7 +26,7 @@
         <div class="one_fourth"></div>
 
         <div class="two_fourth">
-            <h1 class="has-mask-fill">¡Descubre lo invisible con la perspectiva aérea!</h1>
+            <h2 class="has-mask-fill">¡Descubre lo invisible con la perspectiva aérea!</h2>
         </div>
 
         <div class="one_fourth last"></div>
@@ -38,7 +38,7 @@
         </div>
 
         <div class="two_fourth">
-            <p class="has-animation" data-delay="100">Perspectiva Aérea en Agricultura: Nuestros drones termográficos
+            <p class="has-animation" data-delay="200">Perspectiva Aérea en Agricultura: Nuestros drones termográficos
                 son esenciales para la agricultura. Detectamos problemas de salud de las plantas, la distribución de 
                 riego y otros factores clave para la gestión de cultivos.<br><br>Inspecciones Industriales y de 
                 Infraestructuras: Realizamos inspecciones termográficas en entornos industriales y de infraestructuras, 
