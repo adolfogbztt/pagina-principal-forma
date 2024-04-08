@@ -1,4 +1,9 @@
-@extends('layouts.default')
+@extends('layouts.default', [
+    'title'=>'Forma Producciones',
+    'description' => ' Somos una Productora Audiovisual con mas de 30 años de
+experiencia en cubrir la producción y postproducción de
+eventos en el mercado peruano.',
+])
 
 @section('hero')
     @include('components.corporativo.hero-corporativo')

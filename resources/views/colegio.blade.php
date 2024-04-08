@@ -1,4 +1,4 @@
-@extends('layouts.default')
+@extends('layouts.default', ['description' => '', 'title'=>''])
 
 @section('hero')
     @include('components.colegio.hero-colegio')
