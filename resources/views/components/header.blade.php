@@ -110,7 +110,7 @@
 
         </div>
 
-        <a class="ajax-link button-wrap right menu citas_button"  href="#">Citas</a>
+        <a class="ajax-link button-wrap right menu citas_button" data-type="page-transition" href="/citas">Citas</a>
         <!--/Menu Burger -->
 
     </div>
