@@ -6,6 +6,10 @@ Route::get('/', function () {
     return view('corporativo');
 });
 
+Route::get('/colegios', function () {
+    return view('colegio');
+});
+
 // Corporativo
 Route::get('/corporativo/cartografia', function () {
     return view('pages.corporativo.cartografia');
