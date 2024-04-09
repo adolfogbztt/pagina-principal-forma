@@ -9,7 +9,8 @@
     <title>Forma Producciones Audiovisuales Soluciones Colegios</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta name="description" content="{{ $description }}" />
-    <meta name="author" content="Adolfo Gabazutt">
+    <meta name="keywords" content="Forma Producciones Audiovisuales, empresas, eventos corporativos, sesiones fotográficas, photobooks, anuarios, servicios de video, servicios de dron, soluciones audiovisuales, asesoramiento, calidad, experiencia, confianza, profesionalismo">
+    <meta name="author" content="Adolfo Gabazutt" />
     <meta charset="UTF-8" />
 
     <link rel="alternate" hreflang="es" href="{{ $_SERVER['APP_URL'] }}/">
@@ -20,13 +21,13 @@
     <meta property="og:title"
         content='{{ $title }} | formaproducciones.com Producciones Audiovisuales Soluciones Colegios'>
     <meta property="og:type" content="website">
-    <meta property="fb:app_id" content="754192775575289">
+    <meta property="fb:app_id" content="394125557286858">
     <meta property="og:description" content='{{ $description }}'>
     <meta property="og:url" content="{{ $_SERVER['APP_URL'] }}">
     <meta property="og:site_name" content="{{ $_SERVER['APP_URL'] }}">
 
-    <meta property="og:image" content="{{ $_SERVER['APP_CDN'] }}/assets/images/1.png">
-    <meta property="og:image:secure_url" content="{{ $_SERVER['APP_CDN'] }}/assets/images/1.png">
+    <meta property="og:image" content="{{ $_SERVER['APP_CDN'] }}/assets/logo-solo.png">
+    <meta property="og:image:secure_url" content="{{ $_SERVER['APP_CDN'] }}/assets/logo-solo.png">
 
     <meta property="og:image:width" content="499">
     <meta property="og:image:height" content="333">
@@ -39,10 +40,11 @@
     <meta name="twitter:description" content='{{ $description }}'>
     <meta name="twitter:site" content="@formaimagen">
     <meta name="twitter:creator" content="@formaimagen">
-    <meta name="twitter:image" content="{{ $_SERVER['APP_CDN'] }}/assets/images/1.png">
+    <meta name="twitter:image" content="{{ $_SERVER['APP_CDN'] }}/assets/logo-solo.png">
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <!-- CSRF Token -->
+
     <link rel="icon" href="{{ $_SERVER['APP_CDN'] }}/assets/icon/favicon.ico" />
     <link rel="apple-touch-icon" sizes="180x180" href="{{ $_SERVER['APP_CDN'] }}/assets/icon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32"

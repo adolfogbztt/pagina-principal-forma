@@ -7,8 +7,16 @@ Route::get('/', function () {
     return view('corporativo');
 });
 
+// Route::get('/citas', function () {
+//     return view('citas');
+// });
+
 Route::get('/colegios', function () {
     return view('colegio');
+});
+
+Route::get('/cookies', function () {
+    return view('pages.cookies');
 });
 
 // Corporativo

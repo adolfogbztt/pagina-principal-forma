@@ -36,12 +36,12 @@
                                 </ul>
                             </li>
                             <li class="link menu-timeline"><a class="ajax-link" data-type="page-transition"
-                                    href="/corporativo/cartografia">
+                                    href="/corporativo">
                                     <div class="before-span"><span data-hover="Corporativo">Corporativo</span></div>
                                 </a>
                             </li>
                             <li class="link menu-timeline"><a class="ajax-link" data-type="page-transition"
-                                    href="about.html">
+                                    href="/colegios">
                                     <div class="before-span"><span data-hover="Colegios">Colegios</span></div>
                                 </a>
                             </li>
@@ -51,16 +51,18 @@
                                 </a>
                             </li>
                             <li class="link menu-timeline"><a class="ajax-link" data-type="page-transition"
-                                    href="about.html">
-                                    <div class="before-span"><span data-hover="About">About</span></div>
+                                    href="/acerca-de-nosotros">
+                                    <div class="before-span"><span data-hover="Acerca de Nosotros">Acerca de
+                                            Nosotros</span></div>
                                 </a>
                             </li>
                             <li class="link menu-timeline"><a class="ajax-link" data-type="page-transition"
                                     href="contact.html">
                                     <div class="before-span"><span data-hover="Contact">Contact</span>
                                     </div>
-                                </a></li>
-                            <li class="link menu-timeline"><a class="" href="#">
+                                </a>
+                            </li>
+                            {{-- <li class="link menu-timeline"><a class="" href="#">
                                     <div class="before-span"><span data-hover="More">More</span></div>
                                 </a>
                                 <ul>
@@ -71,7 +73,7 @@
                                     <li><a class="ajax-link" href="shortcodes.html"
                                             data-type="page-transition">Shortcodes</a></li>
                                 </ul>
-                            </li>
+                            </li> --}}
                         </ul>
                     </div>
                 </div>
@@ -110,7 +112,7 @@
 
         </div>
 
-        <a class="ajax-link button-wrap right menu citas_button" data-type="page-transition" href="/citas">Citas</a>
+        <a class="button-wrap right menu citas_button" href="http://citas.formaproducciones.com/">Citas</a>
         <!--/Menu Burger -->
 
     </div>

@@ -9,6 +9,8 @@
     <title>Forma Producciones Audiovisuales Soluciones Corporativas</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta name="description" content="{{ $description }}" />
+    <meta name="keywords"
+        content="Forma Producciones Audiovisuales, empresas, eventos corporativos, sesiones fotográficas, photobooks, anuarios, servicios de video, servicios de dron, soluciones audiovisuales, asesoramiento, calidad, experiencia, confianza, profesionalismo">
     <meta name="author" content="Adolfo Gabazutt">
     <meta charset="UTF-8" />
 
@@ -18,15 +20,15 @@
 
     <meta property="og:locale" content="es">
     <meta property="og:title"
-        content='{{ $title }} | formaproducciones.com Producciones Audiovisuales Soluciones Corporativas}}'>
+        content='{{ $title }} | formaproducciones.com Producciones Audiovisuales Soluciones Corporativas'>
     <meta property="og:type" content="website">
-    <meta property="fb:app_id" content="754192775575289">
+    <meta property="fb:app_id" content="394125557286858">
     <meta property="og:description" content='{{ $description }}'>
     <meta property="og:url" content="{{ $_SERVER['APP_URL'] }}">
     <meta property="og:site_name" content="{{ $_SERVER['APP_URL'] }}">
 
-    <meta property="og:image" content="{{ $_SERVER['APP_CDN'] }}/assets/images/1.png">
-    <meta property="og:image:secure_url" content="{{ $_SERVER['APP_CDN'] }}/assets/images/1.png">
+    <meta property="og:image" content="{{ $_SERVER['APP_CDN'] }}/assets/logo-solo.png">
+    <meta property="og:image:secure_url" content="{{ $_SERVER['APP_CDN'] }}/assets/logo-solo.png">
 
     <meta property="og:image:width" content="499">
     <meta property="og:image:height" content="333">
@@ -39,7 +41,7 @@
     <meta name="twitter:description" content='{{ $description }}'>
     <meta name="twitter:site" content="@formaimagen">
     <meta name="twitter:creator" content="@formaimagen">
-    <meta name="twitter:image" content="{{ $_SERVER['APP_CDN'] }}/assets/images/1.png">
+    <meta name="twitter:image" content="{{ $_SERVER['APP_CDN'] }}/assets/logo-solo.png">
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <!-- CSRF Token -->
@@ -120,6 +122,28 @@
                     </div>
                     <!--/Main -->
 
+                    <div id="ov-icono-wa"
+                        class="et_pb_section et_pb_section_2_tb_footer et_pb_with_background et_section_regular et_pb_section--fixed">
+                        <div class="et_pb_row et_pb_row_3_tb_footer">
+                            <div
+                                class="et_pb_column et_pb_column_4_4 et_pb_column_3_tb_footer  et_pb_css_mix_blend_mode_passthrough et-last-child">
+                                <div
+                                    class="et_pb_module et_pb_blurb et_pb_blurb_4_tb_footer  et_pb_text_align_left  et_pb_blurb_position_top et_pb_bg_layout_light">
+                                    <div class="et_pb_blurb_content">
+                                        <div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap"><span
+                                                    class="et-waypoint et_pb_animation_off et_pb_animation_off_tablet et_pb_animation_off_phone et-pb-icon et-animated"><i
+                                                        class="icon ion-social-whatsapp"></i></span></span>
+                                        </div>
+                                        <div class="et_pb_blurb_container">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="elfsight-app-b527d130-c471-4972-9664-d8660abca8dd" data-elfsight-app-lazy></div>
                     <!-- Footer -->
                     @include('components.footer', ['color' => 'light'])
                     <!--/Footer -->
@@ -179,6 +203,8 @@
     <script src="{{ $_SERVER['APP_CDN'] }}/js/common.js"></script>
     <script src="{{ $_SERVER['APP_CDN'] }}/js/contact.js"></script>
     <script src="{{ $_SERVER['APP_CDN'] }}/js/scripts.js"></script>
+
+    <script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
 
 
 

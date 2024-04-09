@@ -1,4 +1,11 @@
-@extends('layouts.default', ['description' => '', 'title'=>''])
+@extends('layouts.default', [
+    'description' => '
+    ¡Forma Producciones Audiovisuales, expertos en capturar la esencia de cada evento escolar!
+    Con más de 30 años de experiencia, ofrecemos servicios integrales de fotografía, video y dron.
+    Nos enorgullece ser el socio estratégico de colegios y promociones, garantizando recuerdos
+    inolvidables y éxito asegurado.',
+    'title' => 'Forma Producciones',
+])
 
 @section('hero')
     @include('components.colegio.hero-colegio')

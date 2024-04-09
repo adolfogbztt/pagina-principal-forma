@@ -1,8 +1,9 @@
 @extends('layouts.default', [
-    'title'=>'Forma Producciones',
-    'description' => ' Somos una Productora Audiovisual con mas de 30 años de
-experiencia en cubrir la producción y postproducción de
-eventos en el mercado peruano.',
+    'title' => 'Forma Producciones',
+    'description' => 'Forma Producciones Audiovisuales: Su socio confiable en el ámbito empresarial.
+    Con más de 30 años de experiencia, ofrecemos soluciones audiovisuales excepcionales
+    para empresas y eventos corporativos. Desde sesiones fotográficas hasta servicios de dron,
+    garantizamos calidad superior y asesoramiento personalizado para llevar su visión empresarial al siguiente nivel.',
 ])
 
 @section('hero')
@@ -12,7 +13,6 @@ eventos en el mercado peruano.',
 
 @section('content')
     <div class="content-row full light-section" data-bgcolor="#fff">
-
         @include('components.corporativo.section-drone')
     </div>
 
