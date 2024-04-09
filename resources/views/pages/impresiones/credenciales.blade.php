@@ -6,8 +6,8 @@
     $color = 'dark'; // 'dark' || 'light'
     $text_move = ' Credenciales · Credenciales ·';
     $img_hero = '/assets/video-corporativo/conferencias.jpeg';
-    $description = 'Llevamos la termografía a nuevas alturas con el uso de drones termografícos. Nuestra tecnología utiliza cámaras termográficas
-                    montadas en drones para capturar imagenes térmicas desde elevadas alturas';
+    $description = 'Explora el mundo de las credenciales y descubre cómo estas 
+                    pequeñas tarjetas pueden abrir grandes puertas para tu identidad y seguridad.';
     /*END HERO SECTION*/
 
     /*CONTENT SECTION*/
@@ -26,7 +26,7 @@
         <div class="one_fourth"></div>
 
         <div class="two_fourth">
-            <h2 class="has-mask-fill">¡Descubre lo invisible con la perspectiva aérea!</h2>
+            <h2 class="has-mask-fill">¡Tu identidad, nuestra impresión: credenciales que hablan por ti!</h2>
         </div>
 
         <div class="one_fourth last"></div>
@@ -34,18 +34,58 @@
         <hr>
 
         <div class="one_fourth">
-            <h6 class="has-animation has-icon">Destacamos</h6>
+            <h6 class="has-animation has-icon">El Poder de las Credenciales: Más que un Pedazo de Plástico</h6>
         </div>
 
         <div class="two_fourth">
-            <p class="has-animation" data-delay="100">Perspectiva Aérea en Agricultura: Nuestros drones termográficos
-                son esenciales para la agricultura. Detectamos problemas de salud de las plantas, la distribución de 
-                riego y otros factores clave para la gestión de cultivos.<br><br>Inspecciones Industriales y de 
-                Infraestructuras: Realizamos inspecciones termográficas en entornos industriales y de infraestructuras, 
-                anticipando problemas antes de que se conviertan en costosas averías.<br><br>Mantenimiento Predictivo: 
-                Ayudamos a mantener equipos y sistemas en óptimas condiciones mediante el monitoreo termográfico 
-                regular.<br><br>Perspectiva Única: Las imágenes térmicas aéreas revelan detalles que podrían pasar 
-                desapercibidos desde el nivel del suelo, mejorando la toma de decisiones informadas.</p>
+            <p class="has-animation" data-delay="100">Las credenciales son más que simples tarjetas; son 
+                la puerta de acceso a tu identidad en diferentes entornos. Desde eventos corporativos 
+                hasta instituciones académicas, estas pequeñas piezas de plástico son la llave que 
+                garantiza tu presencia legítima y seguridad.</p>
+        </div>
+
+        <div class="one_fourth">
+            <h6 class="has-animation has-icon">Personalización para Dejar Huella</h6>
+        </div>
+
+        <div class="two_fourth">
+            <p class="has-animation" data-delay="100">En Forma Producciones Audiovisuales, entendemos 
+                que cada credencial es única, al igual que cada persona que la lleva. Nuestro 
+                servicio de impresión de credenciales se enfoca en la personalización, desde el 
+                diseño hasta los detalles más finos. ¡Tu identidad merece destacarse!</p>
+        </div>
+
+        <div class="one_fourth">
+            <h6 class="has-animation has-icon">Seguridad en Cada Impresión</h6>
+        </div>
+
+        <div class="two_fourth">
+            <p class="has-animation" data-delay="100">La seguridad es primordial cuando se trata de 
+                credenciales. Con tecnología de vanguardia y estándares de calidad rigurosos, nos 
+                aseguramos de que cada impresión sea segura y confiable. Protege tu identidad con 
+                nuestras credenciales de calidad superior.</p>
+        </div>
+
+        <div class="one_fourth">
+            <h6 class="has-animation has-icon">Credenciales para Todos los Propósitos</h6>
+        </div>
+
+        <div class="two_fourth">
+            <p class="has-animation" data-delay="100">Ya sea para eventos corporativos, conferencias 
+                académicas o acceso a instalaciones, tenemos la solución perfecta para tus necesidades 
+                de credenciales. ¡Déjanos ser tu socio en el camino hacia una identidad segura y 
+                profesional!</p>
+        </div>
+
+        <div class="one_fourth">
+            <h6 class="has-animation has-icon">Conclusión: Tu Identidad, Nuestra Prioridad</h6>
+        </div>
+
+        <div class="two_fourth">
+            <p class="has-animation" data-delay="100">En Forma Producciones Audiovisuales, entendemos 
+                la importancia de una identidad segura y profesional. Con nuestro servicio de impresión 
+                de credenciales, puedes estar seguro de que tu identidad estará en buenas manos. ¡Confía 
+                en nosotros para dejar una impresión duradera en cada tarjeta!</p>
         </div>
 
         <div class="one_fourth last"></div>
