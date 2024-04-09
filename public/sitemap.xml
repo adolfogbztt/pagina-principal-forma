@@ -36,22 +36,22 @@
         <priority>0.8</priority>
             </url>
     <url>
-        <loc>http://localhost:8000/fotografia/f_corporativo</loc>
+        <loc>http://localhost:8000/fotografia/corporativo</loc>
             <changefreq>daily</changefreq>
         <priority>0.8</priority>
             </url>
     <url>
-        <loc>http://localhost:8000/fotografia/f_productos</loc>
+        <loc>http://localhost:8000/fotografia/productos</loc>
             <changefreq>daily</changefreq>
         <priority>0.8</priority>
             </url>
     <url>
-        <loc>http://localhost:8000/fotografia/f_publicidad</loc>
+        <loc>http://localhost:8000/fotografia/publicidad</loc>
             <changefreq>daily</changefreq>
         <priority>0.8</priority>
             </url>
     <url>
-        <loc>http://localhost:8000/fotografia/f_fotografia</loc>
+        <loc>http://localhost:8000/fotografia/fotografia</loc>
             <changefreq>daily</changefreq>
         <priority>0.8</priority>
             </url>
