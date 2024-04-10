@@ -1,7 +1,4 @@
 /* Estilo para la imagen */
-.grayscale60 {
-  filter: grayscale(70%) !important; /* Aplicar escala de grises al 100% */
-}
 
 .drone {
   /* transform: ; Centrar la imagen */
@@ -59,6 +56,15 @@
   margin-bottom: 0 !important;
   text-align: right; /* Justificar a la derecha */
   color: white !important; /* Color del texto */
+}
+
+.grayscale20 {
+  filter: grayscale(20%) !important; /* Aplicar escala de grises al 100% */
+}
+
+/* Cuando el cursor esté sobre la imagen */
+.grayscale20:hover {
+  filter: grayscale(0%) !important; /* Remover el efecto de escala de grises */
 }
 
 .grayscale60 {
