@@ -27,7 +27,7 @@
         <div class="one_fourth"></div>
 
         <div class="two_fourth">
-            <h2 class="has-mask-fill">¡Transformamos ideas en imágenes cautivadoras que impulsan tu marca hacia el éxito!</h2>
+            <h3 class="has-mask-fill">¡Transformamos ideas en imágenes cautivadoras que impulsan tu marca hacia el éxito!</h3>
         </div>
 
         <div class="one_fourth last"></div>

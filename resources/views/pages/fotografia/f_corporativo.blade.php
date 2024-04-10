@@ -26,7 +26,7 @@
         <div class="one_fourth"></div>
 
         <div class="two_fourth">
-            <h2 class="has-mask-fill">¡Detiene el tiempo en imágenes perfectas!</h2>
+            <h3 class="has-mask-fill">¡Detiene el tiempo en imágenes perfectas!</h3>
         </div>
 
         

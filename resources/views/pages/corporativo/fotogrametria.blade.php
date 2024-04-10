@@ -28,7 +28,7 @@
         <div class="one_fourth"></div>
 
         <div class="two_fourth">
-            <h2 class="has-mask-fill">¡Datos precisos, soluciones poderosas: Fotogrametría a tu alcance!</h2>
+            <h3 class="has-mask-fill">¡Datos precisos, soluciones poderosas: Fotogrametría a tu alcance!</h3>
         </div>
 
         <div class="one_fourth last"></div>

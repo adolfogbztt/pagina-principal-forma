@@ -6,8 +6,11 @@
     $color = 'dark'; // 'dark' || 'light'
     $text_move = ' Eventos · Eventos ·';
     $img_hero = '/assets/video-corporativo/eventos.jpg';
-    $description = 'Llevamos la termografía a nuevas alturas con el uso de drones termografícos. Nuestra tecnología utiliza cámaras termográficas
-                    montadas en drones para capturar imagenes térmicas desde elevadas alturas';
+    $description = 'En Forma Producciones Audiovisuales, nos especializamos en la captura de estos 
+                    momentos memorables a través de nuestros servicios de producción y posproducción 
+                    de videos para eventos. Desde la cobertura completa del evento hasta la edición final 
+                    del video, nuestro equipo está comprometido a crear un recuerdo duradero que refleje 
+                    la esencia y la emoción del día.';
     /*END HERO SECTION*/
 
     /*CONTENT SECTION*/
@@ -26,7 +29,7 @@
         <div class="one_fourth"></div>
 
         <div class="two_fourth">
-            <h2 class="has-mask-fill">¡Descubre lo invisible con la perspectiva aérea!</h2>
+            <h3 class="has-mask-fill">¡Servicios de video para eventos que dejan una impresión duradera!</h3>
         </div>
 
         <div class="one_fourth last"></div>
@@ -34,18 +37,43 @@
         <hr>
 
         <div class="one_fourth">
-            <h6 class="has-animation has-icon">Destacamos</h6>
+            <h6 class="has-animation has-icon">Introducción:</h6>
         </div>
 
         <div class="two_fourth">
-            <p class="has-animation" data-delay="100">Perspectiva Aérea en Agricultura: Nuestros drones termográficos
-                son esenciales para la agricultura. Detectamos problemas de salud de las plantas, la distribución de 
-                riego y otros factores clave para la gestión de cultivos.<br><br>Inspecciones Industriales y de 
-                Infraestructuras: Realizamos inspecciones termográficas en entornos industriales y de infraestructuras, 
-                anticipando problemas antes de que se conviertan en costosas averías.<br><br>Mantenimiento Predictivo: 
-                Ayudamos a mantener equipos y sistemas en óptimas condiciones mediante el monitoreo termográfico 
-                regular.<br><br>Perspectiva Única: Las imágenes térmicas aéreas revelan detalles que podrían pasar 
-                desapercibidos desde el nivel del suelo, mejorando la toma de decisiones informadas.</p>
+            <p class="has-animation" data-delay="100">Los eventos son momentos especiales que merecen ser recordados y compartidos. Ya sea una boda emotiva, una conferencia inspiradora o un lanzamiento de producto emocionante, cada evento tiene su propia historia que contar. En Forma Producciones Audiovisuales, nos especializamos en la captura de estos momentos memorables a través de nuestros servicios de producción y posproducción de videos para eventos. Desde la cobertura completa del evento hasta la edición final del video, nuestro equipo está comprometido a crear un recuerdo duradero que refleje la esencia y la emoción del día.</p>
+        </div>
+
+        <div class="one_fourth">
+            <h6 class="has-animation has-icon">Capturando la Esencia del Evento:</h6>
+        </div>
+
+        <div class="two_fourth">
+            <p class="has-animation" data-delay="100">Nuestro objetivo es capturar la esencia única de cada evento que filmamos. Desde la emoción de los discursos hasta la alegría de la celebración, nos esforzamos por capturar cada momento significativo con cuidado y atención al detalle. Utilizando equipos de alta calidad y técnicas cinematográficas innovadoras, nuestro equipo trabaja discretamente para documentar el evento de manera auténtica y sin interrupciones.</p>
+        </div>
+
+        <div class="one_fourth">
+            <h6 class="has-animation has-icon">Creando Videos que Resonan con la Audiencia:</h6>
+        </div>
+
+        <div class="two_fourth">
+            <p class="has-animation" data-delay="100">Nuestro enfoque en la producción de videos para eventos es crear contenido que resuene con la audiencia y capture su atención desde el primer momento. Utilizando una combinación de imágenes impresionantes, música evocadora y narrativa emocional, creamos videos que no solo informan, sino también emocionan e inspiran a quienes los ven. Ya sea que estés planeando un evento corporativo, una celebración familiar o una ceremonia especial, nuestro equipo está aquí para ayudarte a crear un video que destaque y celebre los momentos más importantes del día.</p>
+        </div>
+
+        <div class="one_fourth">
+            <h6 class="has-animation has-icon">Recuerdos que Perduran para Siempre:</h6>
+        </div>
+
+        <div class="two_fourth">
+            <p class="has-animation" data-delay="100">Los videos de eventos son mucho más que simples grabaciones; son recuerdos tangibles que perduran para siempre. Ya sea que estés reviviendo el día de tu boda años después o compartiendo los momentos especiales de un evento corporativo con colegas y clientes, un video bien producido puede transportarte de vuelta al momento y hacer que sientas la emoción y la alegría una y otra vez.</p>
+        </div>
+
+        <div class="one_fourth">
+            <h6 class="has-animation has-icon">Conclusión:</h6>
+        </div>
+
+        <div class="two_fourth">
+            <p class="has-animation" data-delay="100">En Forma Producciones Audiovisuales, entendemos la importancia de los eventos y la necesidad de capturar y preservar los momentos más significativos de estos momentos especiales. Permítenos ser tu socio en el viaje hacia la creación de un video que celebre y honre la esencia única de tu evento. Juntos, crearemos un recuerdo duradero que te permitirá revivir y compartir los momentos más preciosos una y otra vez.</p>
         </div>
 
         <div class="one_fourth last"></div>

@@ -1,13 +1,12 @@
 @php
 
-    $title = 'Credenciales';
+    $title = 'Album';
 
     /*HERO SECTION*/
     $color = 'dark'; // 'dark' || 'light'
-    $text_move = ' Credenciales · Credenciales ·';
+    $text_move = ' Album · Album ·';
     $img_hero = '/assets/video-corporativo/conferencias.jpeg';
-    $description = 'Explora el mundo de las credenciales y descubre cómo estas 
-                    pequeñas tarjetas pueden abrir grandes puertas para tu identidad y seguridad.';
+    $description = '';
     /*END HERO SECTION*/
 
     /*CONTENT SECTION*/

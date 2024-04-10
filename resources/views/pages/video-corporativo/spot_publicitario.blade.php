@@ -6,8 +6,9 @@
     $color = 'dark'; // 'dark' || 'light'
     $text_move = ' Spot Publicitario · Spot Publicitario ·';
     $img_hero = '/assets/video-corporativo/spot-publicitario.jpg';
-    $description = 'Llevamos la termografía a nuevas alturas con el uso de drones termografícos. Nuestra tecnología utiliza cámaras termográficas
-                    montadas en drones para capturar imagenes térmicas desde elevadas alturas';
+    $description = 'En Forma Producciones Audiovisuales, nos especializamos en la creación de spots 
+                    publicitarios impactantes que capturan la esencia de tu marca y dejan una impresión 
+                    duradera en la mente del espectador.';
     /*END HERO SECTION*/
 
     /*CONTENT SECTION*/
@@ -26,7 +27,7 @@
         <div class="one_fourth"></div>
 
         <div class="two_fourth">
-            <h2 class="has-mask-fill">¡Descubre lo invisible con la perspectiva aérea!</h2>
+            <h3 class="has-mask-fill">¡Destaca en la multitud: Crea un impacto duradero con nuestros spots publicitarios!</h3>
         </div>
 
         <div class="one_fourth last"></div>
@@ -34,18 +35,58 @@
         <hr>
 
         <div class="one_fourth">
-            <h6 class="has-animation has-icon">Destacamos</h6>
+            <h6 class="has-animation has-icon">Creatividad que Marca la Diferencia:</h6>
         </div>
 
         <div class="two_fourth">
-            <p class="has-animation" data-delay="100">Perspectiva Aérea en Agricultura: Nuestros drones termográficos
-                son esenciales para la agricultura. Detectamos problemas de salud de las plantas, la distribución de 
-                riego y otros factores clave para la gestión de cultivos.<br><br>Inspecciones Industriales y de 
-                Infraestructuras: Realizamos inspecciones termográficas en entornos industriales y de infraestructuras, 
-                anticipando problemas antes de que se conviertan en costosas averías.<br><br>Mantenimiento Predictivo: 
-                Ayudamos a mantener equipos y sistemas en óptimas condiciones mediante el monitoreo termográfico 
-                regular.<br><br>Perspectiva Única: Las imágenes térmicas aéreas revelan detalles que podrían pasar 
-                desapercibidos desde el nivel del suelo, mejorando la toma de decisiones informadas.</p>
+            <p class="has-animation" data-delay="100">En un mundo donde la atención del espectador es un 
+                bien preciado, la creatividad es clave para destacar en el panorama publicitario. 
+                Nuestro equipo de producción está compuesto por expertos creativos que están 
+                constantemente ideando nuevas y emocionantes formas de transmitir tu mensaje de manera 
+                memorable y persuasiva. Ya sea a través de humor, emoción o narrativa, nos aseguramos de 
+                que cada spot publicitario sea único y cautivador, dejando una impresión duradera en la 
+                audiencia.</p>
+        </div>
+
+        <div class="one_fourth">
+            <h6 class="has-animation has-icon">Enfoque en la Efectividad y Resultados:</h6>
+        </div>
+
+        <div class="two_fourth">
+            <p class="has-animation" data-delay="100">Entendemos que la efectividad de un spot 
+                publicitario se mide en su capacidad para generar resultados tangibles para tu 
+                negocio. Es por eso que nos comprometemos a trabajar en estrecha colaboración 
+                contigo para entender tus objetivos comerciales y crear un spot que no solo sea 
+                creativo y atractivo, sino también efectivo en la generación de interés, engagement y 
+                conversiones. Desde la planificación inicial hasta la distribución final, nuestro objetivo 
+                es ayudarte a alcanzar tus metas de marketing y hacer que tu inversión en publicidad valga 
+                la pena.</p>
+        </div>
+
+        <div class="one_fourth">
+            <h6 class="has-animation has-icon">Tecnología de Vanguardia para un Impacto Óptimo:</h6>
+        </div>
+
+        <div class="two_fourth">
+            <p class="has-animation" data-delay="100">Utilizamos equipos de última generación y técnicas 
+                de producción innovadoras para garantizar que cada spot publicitario cumpla con los más 
+                altos estándares de calidad y tenga el mayor impacto posible en tu audiencia. Desde 
+                cámaras de alta definición hasta efectos visuales impresionantes, nos aseguramos de que 
+                cada aspecto de la producción esté cuidadosamente considerado para garantizar que tu spot 
+                se destaque en un mar de publicidad.</p>
+        </div>
+
+        <div class="one_fourth">
+            <h6 class="has-animation has-icon">Conclusión:</h6>
+        </div>
+
+        <div class="two_fourth">
+            <p class="has-animation" data-delay="100">En Forma Producciones Audiovisuales, entendemos la 
+                importancia de los spots publicitarios como una herramienta para destacar en el mercado 
+                y generar resultados tangibles para tu negocio. Permítenos ser tu socio en el viaje hacia 
+                la creación de un spot publicitario que capture la esencia de tu marca y conecte 
+                emocionalmente con tu audiencia. Juntos, crearemos un spot que destaque entre la multitud 
+                y deje una impresión duradera en la mente y el corazón de quienes lo vean.</p>
         </div>
 
         <div class="one_fourth last"></div>

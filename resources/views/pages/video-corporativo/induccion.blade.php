@@ -6,8 +6,9 @@
     $color = 'dark'; // 'dark' || 'light'
     $text_move = ' Inducción · Inducción ·';
     $img_hero = '/assets/video-corporativo/induccion.jpeg';
-    $description = 'Llevamos la termografía a nuevas alturas con el uso de drones termografícos. Nuestra tecnología utiliza cámaras termográficas
-                    montadas en drones para capturar imagenes térmicas desde elevadas alturas';
+    $description = 'En Forma Producciones Audiovisuales, entendemos la importancia de estos momentos y 
+                    nos comprometemos a crear videos de inducción que informen, inspiren y conecten a los 
+                    participantes desde el primer día.';
     /*END HERO SECTION*/
 
     /*CONTENT SECTION*/
@@ -26,7 +27,7 @@
         <div class="one_fourth"></div>
 
         <div class="two_fourth">
-            <h2 class="has-mask-fill">¡Descubre lo invisible con la perspectiva aérea!</h2>
+            <h3 class="has-mask-fill">¡Videos de inducción que orientan, motivan y conectan!</h3>
         </div>
 
         <div class="one_fourth last"></div>
@@ -34,18 +35,43 @@
         <hr>
 
         <div class="one_fourth">
-            <h6 class="has-animation has-icon">Destacamos</h6>
+            <h6 class="has-animation has-icon">Introducción:</h6>
         </div>
 
         <div class="two_fourth">
-            <p class="has-animation" data-delay="100">Perspectiva Aérea en Agricultura: Nuestros drones termográficos
-                son esenciales para la agricultura. Detectamos problemas de salud de las plantas, la distribución de 
-                riego y otros factores clave para la gestión de cultivos.<br><br>Inspecciones Industriales y de 
-                Infraestructuras: Realizamos inspecciones termográficas en entornos industriales y de infraestructuras, 
-                anticipando problemas antes de que se conviertan en costosas averías.<br><br>Mantenimiento Predictivo: 
-                Ayudamos a mantener equipos y sistemas en óptimas condiciones mediante el monitoreo termográfico 
-                regular.<br><br>Perspectiva Única: Las imágenes térmicas aéreas revelan detalles que podrían pasar 
-                desapercibidos desde el nivel del suelo, mejorando la toma de decisiones informadas.</p>
+            <p class="has-animation" data-delay="100">Los eventos de inducción marcan el comienzo de un nuevo capítulo, ya sea en una empresa, una institución educativa o cualquier otro ámbito. Estos eventos son cruciales para brindar a los nuevos miembros una comprensión clara de lo que pueden esperar y cómo pueden contribuir al éxito de la organización.</p>
+        </div>
+
+        <div class="one_fourth">
+            <h6 class="has-animation has-icon">Orientación para un Comienzo Exitoso:</h6>
+        </div>
+
+        <div class="two_fourth">
+            <p class="has-animation" data-delay="100">Los videos de inducción son una herramienta invaluable para proporcionar orientación a los nuevos miembros de una organización. Desde la presentación de la misión y visión de la empresa hasta la descripción de las políticas y procedimientos internos, nuestros videos están diseñados para brindar a los participantes la información y el contexto que necesitan para comenzar con confianza y claridad.</p>
+        </div>
+
+        <div class="one_fourth">
+            <h6 class="has-animation has-icon">Motivación para el Éxito:</h6>
+        </div>
+
+        <div class="two_fourth">
+            <p class="has-animation" data-delay="100">Además de proporcionar información práctica, los videos de inducción también tienen el poder de motivar y inspirar a los nuevos miembros. Utilizando testimonios de empleados destacados, imágenes inspiradoras y mensajes de liderazgo, nuestros videos están diseñados para transmitir la cultura y los valores de la organización de una manera convincente y emocional, motivando a los participantes a comprometerse con su trabajo y contribuir al éxito de la empresa.</p>
+        </div>
+
+        <div class="one_fourth">
+            <h6 class="has-animation has-icon">Conexión con la Cultura Organizacional:</h6>
+        </div>
+
+        <div class="two_fourth">
+            <p class="has-animation" data-delay="100">Los videos de inducción son una oportunidad única para introducir a los nuevos miembros en la cultura y la comunidad de la organización. Desde la presentación de los líderes clave hasta la destacada de los logros y valores de la empresa, nuestros videos están diseñados para crear una conexión emocional y personal con la organización desde el primer día, fomentando un sentido de pertenencia y compromiso entre los participantes.</p>
+        </div>
+
+        <div class="one_fourth">
+            <h6 class="has-animation has-icon">Un Comienzo Inolvidable:</h6>
+        </div>
+
+        <div class="two_fourth">
+            <p class="has-animation" data-delay="100">En Forma Producciones Audiovisuales, entendemos la importancia de los eventos de inducción y nos comprometemos a crear videos que hagan que el primer día de los nuevos miembros sea memorable y significativo. Permítenos ser tu socio en el viaje hacia la creación de un video de inducción que informe, inspire y conecte a tus participantes desde el primer día. Juntos, crearemos un comienzo inolvidable que establezca el tono para el éxito futuro de la organización y de sus miembros.</p>
         </div>
 
         <div class="one_fourth last"></div>

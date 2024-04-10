@@ -1,10 +1,10 @@
 @php
 
-    $title = 'Credenciales';
+    $title = 'Promociones';
 
     /*HERO SECTION*/
     $color = 'dark'; // 'dark' || 'light'
-    $text_move = ' Credenciales · Credenciales ·';
+    $text_move = ' Promociones · Promociones ·';
     $img_hero = '/assets/video-corporativo/conferencias.jpeg';
     $description = 'Explora el mundo de las credenciales y descubre cómo estas 
                     pequeñas tarjetas pueden abrir grandes puertas para tu identidad y seguridad.';

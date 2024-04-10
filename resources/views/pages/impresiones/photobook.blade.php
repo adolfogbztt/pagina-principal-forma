@@ -29,7 +29,7 @@
         <div class="one_fourth"></div>
 
         <div class="two_fourth">
-            <h2 class="has-mask-fill">¡Explorando el Arte de Preservar Recuerdos: Descubre el Mundo de los Photobooks!</h2>
+            <h3 class="has-mask-fill">¡Explorando el Arte de Preservar Recuerdos: Descubre el Mundo de los Photobooks!</h3>
         </div>
 
         <div class="one_fourth last"></div>

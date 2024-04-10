@@ -29,7 +29,7 @@
         <div class="one_fourth"></div>
 
         <div class="two_fourth">
-            <h2 class="has-mask-fill">¡Honrando Logros: La Importancia de los Títulos y Diplomas!</h2>
+            <h3 class="has-mask-fill">¡Honrando Logros: La Importancia de los Títulos y Diplomas!</h3>
         </div>
 
         <div class="one_fourth last"></div>

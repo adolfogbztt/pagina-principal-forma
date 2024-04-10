@@ -2,9 +2,9 @@
 <div class="content-row fadeout-element row_padding_top light-section change-header-color" data-bgcolor="#fff">
     <div class="one_half">
         <h1 class="has-mask-fill">Confirmacion</h1>
-        <p class="has-animation" data-delay="50">The driving force of all
-            speeches, we believe that creation should be the point around which any
-            communication strategy revolves.</p>
+        <p class="has-animation" data-delay="50">Te acompañamos con un registro inédito 
+            de los momentos más significativos, todo esto en fotos y videos en alta 
+            definición.</p>
     </div>
 
     <div class="one_half last">

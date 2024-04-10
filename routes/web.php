@@ -74,7 +74,7 @@ Route::get('/video-corporativo/institucional', function () {
     return view('pages.video-corporativo.institucional');
 });
 
-Route::get('/video-corporativo/spot_publicitario', function () {
+Route::get('/video-corporativo/spotpublicitario', function () {
     return view('pages.video-corporativo.spot_publicitario');
 });
 
@@ -83,7 +83,7 @@ Route::get('/streaming-tours360/streaming', function () {
     return view('pages.streaming-tours360.streaming');
 });
 
-Route::get('/streaming-tours360/tour-360', function () {
+Route::get('/streaming-tours360/tour360', function () {
     return view('pages.streaming-tours360.tour-360');
 });
 
@@ -96,15 +96,79 @@ Route::get('/impresiones/photobook', function () {
     return view('pages.impresiones.photobook');
 });
 
-Route::get('/impresiones/titulos_diplomas', function () {
+Route::get('/impresiones/titulosdiplomas', function () {
     return view('pages.impresiones.titulos_diplomas');
 });
 
 // Catering Corporativo
-Route::get('/catering-corporativo/cafetera_automatica', function () {
+Route::get('/catering-corporativo/cafetera', function () {
     return view('pages.catering-corporativo.cafetera_automatica');
 });
 
 Route::get('/catering-corporativo/catering', function () {
     return view('pages.catering-corporativo.catering');
 });
+
+// Blogs colegios
+
+
+// Promociones
+Route::get('/colegios/promociones', function () {
+    return view('pages.colegios.promociones');
+});
+
+// Comuniones
+Route::get('/colegios/comuniones', function () {
+    return view('pages.colegios.comuniones');
+});
+
+// Confirmación
+Route::get('/colegios/confirmacion', function () {
+    return view('pages.colegios.confirmacion');
+});
+
+// Kinder
+Route::get('/colegios/kinder', function () {
+    return view('pages.colegios.kinder');
+});
+
+// Photobook tapa dura
+Route::get('/colegios/tapadura', function () {
+    return view('pages.colegios.photobook_tapa_dura');
+});
+
+// Photobook Tapa con cuero
+Route::get('/colegios/tapacuero', function () {
+    return view('pages.colegios.photobook_tapa_cuero');
+});
+
+// Photobook Tapa acolchada
+Route::get('/colegios/acolchada', function () {
+    return view('pages.colegios.photobook_tapa_acolchada');
+});
+
+// Bipack
+Route::get('/colegios/bipack', function () {
+    return view('pages.colegios.bipack');
+});
+
+// Tripack
+Route::get('/colegios/tripack', function () {
+    return view('pages.colegios.tripack');
+});
+
+// Album 2 en 1 (Photobook y album de estampas)
+Route::get('/colegios/album', function () {
+    return view('pages.colegios.album_2x1');
+});
+
+// Anuarios
+Route::get('/colegios/anuarios', function () {
+    return view('pages.colegios.anuarios');
+});
+
+// Anuarios tipo revista
+Route::get('/colegios/revistas', function () {
+    return view('pages.colegios.anuarios_revistas');
+});
+

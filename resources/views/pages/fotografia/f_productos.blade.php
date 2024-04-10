@@ -26,7 +26,7 @@
         <div class="one_fourth"></div>
 
         <div class="two_fourth">
-            <h2 class="has-mask-fill">¡Destaca tus productos con imágenes que cautivan!</h2>
+            <h3 class="has-mask-fill">¡Destaca tus productos con imágenes que cautivan!</h3>
         </div>
 
         <div class="one_fourth last"></div>
