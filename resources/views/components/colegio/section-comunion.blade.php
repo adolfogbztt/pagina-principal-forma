@@ -11,7 +11,6 @@
         <p class="has-animation" data-delay="50">The driving force of all
             speeches, we believe that creation should be the point around which any
             communication strategy revolves.</p>
-
     </div>
 
     <hr class="destroy">
