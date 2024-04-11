@@ -3,7 +3,7 @@
     <div class="one_fourth"></div>
 
     <div class="two_fourth">
-        <h1 class="big-title has-mask-fill">Nuestros Clientes</h1>
+        <h3 class="big-title has-mask-fill">Nuestros Clientes</h3>
     </div>
 
     <div class="one_fourth last"></div>
@@ -15,9 +15,8 @@
     </div>
 
     <div class="two_fourth">
-        <p class="has-animation" data-delay="50">There are many variations of passages of Lorem Ipsum available, but the
-            majority have suffered alteration in some form, by injected humour, or randomised words which don't look
-            even slightly believable. If you are going to use a passage of Lorem Ipsum.</p>
+        <p class="has-animation" data-delay="50">En Forma Producciones Audiovisuales prestamos 
+            el mejor servicio a nuestros clientes.</p>
     </div>
 
     <div class="one_fourth last"></div>

@@ -2,9 +2,13 @@
 <div class="content-row fadeout-element row_padding_top light-section change-header-color" data-bgcolor="#fff">
     <div class="one_half">
         <h1 class="has-mask-fill">Confirmacion</h1>
-        <p class="has-animation" data-delay="50">Te acompañamos con un registro inédito 
-            de los momentos más significativos, todo esto en fotos y videos en alta 
-            definición.</p>
+        <p class="has-animation" data-delay="50">La Confirmación es un momento 
+            significativo en la vida de un joven, marcando su compromiso personal 
+            con su fe y su comunidad religiosa. En Forma Producciones Audiovisuales, 
+            comprendemos la importancia de este evento sagrado y nos comprometemos a 
+            capturar cada momento con sensibilidad y profesionalismo. A través de 
+            nuestros servicios de fotografía y video, ayudamos a las familias a 
+            preservar los recuerdos de este día especial para toda la vida.</p>
     </div>
 
     <div class="one_half last">

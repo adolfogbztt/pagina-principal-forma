@@ -1,50 +1,26 @@
 @php
     $services = [
         [
-            'img' => '/assets/fotografia/corporativo.jpeg',
-            'title' => 'Photobook Tapa Dura',
+            'img' => '/assets/colegios/productos/photobook_portada.webp',
+            'title' => 'Photobook 20cm x 20cm',
             'description' => 'Descripcion',
             'link' => '/servicios/fotografia-corporativo',
         ],
         [
-            'img' => '/assets/fotografia/productos.jpeg',
-            'title' => 'Photobook tapa con cuero sintetico repujado',
+            'img' => '/assets/colegios/productos/book_tapacuero.webp',
+            'title' => 'Photobook 25cm x 25cm',
             'description' => 'Descripcion',
             'link' => '/servicios/fotografia-productos',
         ],
         [
-            'img' => '/assets/fotografia/publicidad.jpeg',
-            'title' => 'Photobook tapa acolchonada',
+            'img' => '/assets/colegios/productos/book_tapaacolchada.webp',
+            'title' => 'Photobook 30cm x 30cm',
             'description' => 'Descripcion',
             'link' => '/servicios/publicidad',
         ],
         [
-            'img' => '/assets/fotografia/eventos.jpg',
-            'title' => 'Bipack',
-            'description' => 'Descripcion',
-            'link' => '/servicios/fotografia-cartografia',
-        ],
-        [
-            'img' => '/assets/fotografia/eventos.jpg',
-            'title' => 'Tripack',
-            'description' => 'Descripcion',
-            'link' => '/servicios/fotografia-cartografia',
-        ],
-        [
-            'img' => '/assets/fotografia/eventos.jpg',
-            'title' => 'Álbum 2 en 1 (Photobook y álbum de estampas)',
-            'description' => 'Descripcion',
-            'link' => '/servicios/fotografia-cartografia',
-        ],
-        [
-            'img' => '/assets/fotografia/eventos.jpg',
-            'title' => 'Anuarios',
-            'description' => 'Descripcion',
-            'link' => '/servicios/fotografia-cartografia',
-        ],
-        [
-            'img' => '/assets/fotografia/eventos.jpg',
-            'title' => 'Anuarios tipo revista',
+            'img' => '/assets/colegios/productos/bipack.webp',
+            'title' => 'Photobook A4',
             'description' => 'Descripcion',
             'link' => '/servicios/fotografia-cartografia',
         ],
@@ -65,9 +41,16 @@
 
         <hr>
 
-        <p class="has-animation" data-delay="0">There are many variations of passages of Lorem Ipsum available, but the
-            majority have suffered alteration in some form by injected humour.</p>
+        <p class="has-animation" data-delay="0">Es un libro que contiene fotografías 
+            de momentos u objetos especiales para recordar y compartir. Hoy en día 
+            existe una gran variedad de elementos con los que puedes complementarlos 
+            y lograr que tu álbum digital tenga un estilo propio y original.</p>
 
+    </div>
+
+    <div class="one_half last">
+        <h5 class="has-mask-fill">Medidas disponibles</h5>
+        <img src="/assets/colegios/productos/medida.webp" class="item-image grayscale20" alt="forma producciones comunion">
     </div>
 
     <div class="one_half last"></div>

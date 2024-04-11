@@ -113,13 +113,13 @@ Route::get('/catering-corporativo/catering', function () {
 
 
 // Promociones
-Route::get('/colegios/promociones', function () {
-    return view('pages.colegios.promociones');
+Route::get('/colegios/promocion', function () {
+    return view('pages.colegios.promocion');
 });
 
 // Comuniones
-Route::get('/colegios/comuniones', function () {
-    return view('pages.colegios.comuniones');
+Route::get('/colegios/comunion', function () {
+    return view('pages.colegios.comunion');
 });
 
 // Confirmación
@@ -132,43 +132,23 @@ Route::get('/colegios/kinder', function () {
     return view('pages.colegios.kinder');
 });
 
-// Photobook tapa dura
-Route::get('/colegios/tapadura', function () {
-    return view('pages.colegios.photobook_tapa_dura');
+// Photobook 20X20
+Route::get('/colegios/p20', function () {
+    return view('pages.colegios.photobook20');
 });
 
-// Photobook Tapa con cuero
-Route::get('/colegios/tapacuero', function () {
-    return view('pages.colegios.photobook_tapa_cuero');
+// Photobook 25X25
+Route::get('/colegios/p25', function () {
+    return view('pages.colegios.photobook25');
 });
 
-// Photobook Tapa acolchada
-Route::get('/colegios/acolchada', function () {
-    return view('pages.colegios.photobook_tapa_acolchada');
+// Photobook 30X30
+Route::get('/colegios/p30', function () {
+    return view('pages.colegios.photobook30');
 });
 
-// Bipack
-Route::get('/colegios/bipack', function () {
-    return view('pages.colegios.bipack');
-});
-
-// Tripack
-Route::get('/colegios/tripack', function () {
-    return view('pages.colegios.tripack');
-});
-
-// Album 2 en 1 (Photobook y album de estampas)
-Route::get('/colegios/album', function () {
-    return view('pages.colegios.album_2x1');
-});
-
-// Anuarios
-Route::get('/colegios/anuarios', function () {
-    return view('pages.colegios.anuarios');
-});
-
-// Anuarios tipo revista
-Route::get('/colegios/revistas', function () {
-    return view('pages.colegios.anuarios_revistas');
+// Photobook A4
+Route::get('/colegios/pa4', function () {
+    return view('pages.colegios.photobookA4');
 });
 

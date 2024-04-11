@@ -6,9 +6,10 @@
                 Promociones
             </h1>
         </a>
-        <p class="has-animation" data-delay="50">The driving force of all
-            speeches, we believe that creation should be the point around which any
-            communication strategy revolves.</p>
+        <p class="has-animation" data-delay="50">La graduación es un momento 
+            emocionante en la vida de cualquier estudiante, marcando el final de una 
+            etapa y el comienzo de una nueva aventura. En Forma, entendemos la importancia de capturar estos recuerdos 
+            inolvidables de una manera especial y significativa.</p>
     </div>
 
     <div class="one_half last">

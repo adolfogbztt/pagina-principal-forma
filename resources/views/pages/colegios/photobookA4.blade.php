@@ -1,10 +1,10 @@
 @php
 
-    $title = 'Promociones';
+    $title = 'Photobook A4';
 
     /*HERO SECTION*/
-    $color = 'dark'; // 'dark' || 'light'
-    $text_move = ' Promociones · Promociones ·';
+    $color = 'light'; // 'dark' || 'light'
+    $text_move = ' Photobook A4 · Photobook A4 ·';
     $img_hero = '/assets/video-corporativo/conferencias.jpeg';
     $description = 'Explora el mundo de las credenciales y descubre cómo estas 
                     pequeñas tarjetas pueden abrir grandes puertas para tu identidad y seguridad.';
