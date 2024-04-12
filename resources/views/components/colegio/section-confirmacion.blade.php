@@ -12,7 +12,7 @@
     </div>
 
     <div class="one_half last">
-        <video src='/assets/drone/vid-drone2.mov' className="item-image grayscale60" autoPlay muted loop></video>
+        <img src='/assets/colegios/confirmacion/c0.webp' class="item-image grayscale20" alt="forma producciones comunion"></img>
     </div>
 
     <hr class="destroy">
@@ -25,16 +25,16 @@
     <div class="moving-gallery fw-gallery">
         <ul class="wrapper-gallery">
             <li>
-                <img src="https://www.clapat.com/templates/humpton/images/shortcodes/image01.jpg">
+                <img src='/assets/colegios/confirmacion/c1.webp' class="item-image grayscale20" alt="forma producciones confirmacion"></img>
             </li>
             <li>
-                <img src="https://www.clapat.com/templates/humpton/images/shortcodes/image02.jpg">
+                <img src='/assets/colegios/confirmacion/c2.webp' class="item-image grayscale20" alt="forma producciones confirmacion"></img>
             </li>
             <li>
-                <img src="https://www.clapat.com/templates/humpton/images/shortcodes/image03.jpg">
+                <img src='/assets/colegios/confirmacion/c3.webp' class="item-image grayscale20" alt="forma producciones confirmacion"></img>
             </li>
             <li>
-                <img src="https://www.clapat.com/templates/humpton/images/shortcodes/image04.jpg">
+                <img src='/assets/colegios/confirmacion/c4.webp' class="item-image grayscale20" alt="forma producciones confirmacion"></img>
             </li>
         </ul>
     </div>

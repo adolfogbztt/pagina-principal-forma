@@ -53,8 +53,7 @@
 <div class="content-row fadeout-element light-section change-header-color" data-bgcolor="#fff">
 
     <div class="marquee-text-wrapper">
-        <h1 class="marquee-text big-title bw">Make brands attractive and connect
-            them to their audiences.</h1>
+        <h1 class="marquee-text big-title bw">servicios especializados</h1>
     </div>
 
 </div>

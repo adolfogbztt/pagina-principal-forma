@@ -1,7 +1,7 @@
 <!-- Row -->
 <div class="content-row fadeout-element row_padding_top light-section change-header-color" data-bgcolor="#fff">
     <div class="one_half">
-        <video src='/assets/drone/vid-drone2.mov' className="item-image grayscale60" autoPlay muted loop></video>
+        <img src='/assets/colegios/kinder/k0.webp' class="item-image grayscale20" alt="forma producciones kinder"></img>
     </div>
 
     <div class="one_half last">
@@ -28,16 +28,16 @@
     <div class="moving-gallery fw-gallery">
         <ul class="wrapper-gallery">
             <li>
-                <img src="https://www.clapat.com/templates/humpton/images/shortcodes/image01.jpg">
+                <img src='/assets/colegios/kinder/k1.webp' class="item-image grayscale20" alt="forma producciones kinder"></img>
             </li>
             <li>
-                <img src="https://www.clapat.com/templates/humpton/images/shortcodes/image02.jpg">
+                <img src='/assets/colegios/kinder/k2.webp' class="item-image grayscale20" alt="forma producciones kinder"></img>
             </li>
             <li>
-                <img src="https://www.clapat.com/templates/humpton/images/shortcodes/image03.jpg">
+                <img src='/assets/colegios/kinder/k3.webp' class="item-image grayscale20" alt="forma producciones kinder"></img>
             </li>
             <li>
-                <img src="https://www.clapat.com/templates/humpton/images/shortcodes/image04.jpg">
+                <img src='/assets/colegios/kinder/k4.webp' class="item-image grayscale20" alt="forma producciones kinder"></img>
             </li>
         </ul>
     </div>
@@ -45,16 +45,16 @@
     <div class="moving-gallery bw-gallery">
         <ul class="wrapper-gallery">
             <li>
-                <img src="https://www.clapat.com/templates/humpton/images/shortcodes/image04.jpg">
+                <img src='/assets/colegios/kinder/k5.webp' class="item-image grayscale20" alt="forma producciones kinder"></img>
             </li>
             <li>
-                <img src="https://www.clapat.com/templates/humpton/images/shortcodes/image03.jpg">
+                <img src='/assets/colegios/kinder/k6.webp' class="item-image grayscale20" alt="forma producciones kinder"></img>
             </li>
             <li>
-                <img src="https://www.clapat.com/templates/humpton/images/shortcodes/image02.jpg">
+                <img src='/assets/colegios/kinder/k4.webp' class="item-image grayscale20" alt="forma producciones kinder"></img>
             </li>
             <li>
-                <img src="https://www.clapat.com/templates/humpton/images/shortcodes/image01.jpg">
+                <img src='/assets/colegios/kinder/k5.webp' class="item-image grayscale20" alt="forma producciones kinder"></img>
             </li>
         </ul>
     </div>
