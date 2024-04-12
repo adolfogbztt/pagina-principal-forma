@@ -34,9 +34,10 @@
 
     <div class="one_half">
         <h1 class="has-mask-fill">Drone</h1>
-        <p class="has-animation" data-delay="50">The driving force of all
-            speeches, we believe that creation should be the point around which any
-            communication strategy revolves.</p>
+        <p class="has-animation" data-delay="50">Estamos a la vanguardia de la tecnología. 
+            Contamos con los mejores drones en el mercado, ofreciendo servicios con 
+            especialistas calificados.
+        </p>
     </div>
 
     <div class="one_half last">
@@ -53,7 +54,7 @@
 <div class="content-row fadeout-element light-section change-header-color" data-bgcolor="#fff">
 
     <div class="marquee-text-wrapper">
-        <h1 class="marquee-text big-title bw">servicios especializados</h1>
+        <h1 class="marquee-text big-title bw"> Cartografía · Termografía · Fotogrametría · Corporativo · </h1>
     </div>
 
 </div>
@@ -82,9 +83,11 @@
             </div>
 
             <div class="pinned-element right">
-                <h5 class="has-mask-fill">Pinned Section</h5>
-                <p class="has-animation">This will stay in frame until the next content row <br class="destroy">
-                    will reach the bottom</p>
+                <h5 class="has-mask-fill">Servisios con drone</h5>
+                <p class="has-animation">Tenemos las soluciones para su proyecto de ingeniería,
+                    energía, construcción, industriales, urbanismo, vialidad, agricultura, forestales y medio ambiente.
+                    Capturamos imágenes aéreas en calidad 4K y Full HD. Garantizando tomas suaves y vibrantes.
+                </p>
             </div>
         </div>
     </div>

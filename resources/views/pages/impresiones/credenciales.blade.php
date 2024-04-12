@@ -3,9 +3,9 @@
     $title = 'Credenciales';
 
     /*HERO SECTION*/
-    $color = 'dark'; // 'dark' || 'light'
+    $color = 'light'; // 'dark' || 'light'
     $text_move = ' Credenciales · Credenciales ·';
-    $img_hero = '/assets/video-corporativo/conferencias.jpeg';
+    $img_hero = '/assets/corp-blogs/credenciales/cre1.webp';
     $description = 'Explora el mundo de las credenciales y descubre cómo estas 
                     pequeñas tarjetas pueden abrir grandes puertas para tu identidad y seguridad.';
     /*END HERO SECTION*/
@@ -97,7 +97,7 @@
 @section('adds')
     <div class="content-row full dark-section" data-bgcolor="#000">
         <figure class="has-parallax has-parallax-content" data-delay="100">
-            <img src="https://www.clapat.com/templates/humpton/images/projects/ladies01.jpg" alt="Image Title">
+            <img src="/assets/corp-blogs/credenciales/cre2.webp" alt="Image Title">
             <div class="parallax-image-content content-max-width text-align-center">
                 <div class="outer">
                     <div class="inner">

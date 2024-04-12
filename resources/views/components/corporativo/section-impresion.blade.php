@@ -28,7 +28,7 @@
     <hr>
 
     <div class="one_half">
-        <img src='/assets/1x/impresion.jpg' className="item-image grayscale60" autoPlay muted loop></img>
+        <img src='/assets/img-corporativo/impresion.jpg' className="item-image grayscale60" autoPlay muted loop></img>
 
     </div>
 

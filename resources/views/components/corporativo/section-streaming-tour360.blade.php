@@ -35,7 +35,7 @@
 
     <div class="one_half last">
         {{-- <video src='/assets/drone/vid-drone2.mov' className="item-image grayscale60" autoPlay muted loop></video> --}}
-        <img src='/assets/1x/streaming.jpg' className="item-image grayscale60" autoPlay muted loop></img>
+        <img src='/assets/img-corporativo/streaming.jpg' className="item-image grayscale60" autoPlay muted loop></img>
     </div>
 
 </div>
