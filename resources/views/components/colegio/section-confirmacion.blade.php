@@ -1,5 +1,6 @@
 <!-- Row -->
 <div class="content-row fadeout-element row_padding_top light-section change-header-color" data-bgcolor="#fff">
+    <a href="/colegios/confirmacion" class="ajax-link" data-type="page-transition">
     <div class="one_half">
         <h1 class="has-mask-fill">Confirmacion</h1>
         <p class="has-animation" data-delay="50">La Confirmación es un momento 
@@ -16,6 +17,7 @@
     </div>
 
     <hr class="destroy">
+    </a>
 
 </div>
 <!--/Row -->

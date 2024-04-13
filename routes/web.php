@@ -109,7 +109,7 @@ Route::get('/catering-corporativo/catering', function () {
     return view('pages.catering-corporativo.catering');
 });
 
-// Blogs colegios
+// Colegios /Blogs colegios
 
 
 // Promociones

@@ -5,25 +5,25 @@
             'img' => 'assets/drone/cartografia.jpeg',
             'title' => 'Cartografía',
             'description' => 'Descripción',
-            'link' => '/servicios/cartografia',
+            'link' => '/corporativo/cartografia',
         ],
         [
             'img' => 'assets/drone/termonometria.jpeg',
             'title' => 'Termografía',
             'description' => 'Descripción',
-            'link' => '/servicios/termografia',
+            'link' => '/corporativo/termografia',
         ],
         [
             'img' => 'assets/drone/fotogrametria.jpeg',
             'title' => 'Fotogrametría',
             'description' => 'Descripción',
-            'link' => '/servicios/fotogrametria',
+            'link' => '/corporativo/fotogrametria',
         ],
         [
             'img' => 'assets/drone/corporativo.jpeg',
             'title' => 'Corporativo',
             'description' => 'Descripción',
-            'link' => '/servicios/corporativo',
+            'link' => '/corporativo/corporativo',
         ],
     ];
 
@@ -70,10 +70,11 @@
 
                 @foreach ($services as $k => $v)
                     <figure class="has-animation">
-                        <a href="{{ $v['img'] }}" class="image-link imagen-container">
+                        <a href="{{ $v['link'] }}" class="ajax-link" data-type="page-transition">
                             <img src="{{ $v['img'] }}" alt="{{ $v['title'] }}" class="grayscale60" />
+                            {{-- <a class="ajax-link" href="{{ $item['link'] }}" data-type="page-transition"> --}}
                             <div class="overlay">
-                                <h2>{{ $v['title'] }}</h2>
+                                <h2>{{ $v['title']}}</h2>
                             </div>
                         </a>
                     </figure>

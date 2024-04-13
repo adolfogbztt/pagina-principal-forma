@@ -4,37 +4,37 @@
             'img' => '/assets/video-corporativo/conferencias.jpeg',
             'title' => 'Conferencias',
             'description' => 'Descripcion',
-            'link' => '/servicios/video-corporativo-conferencias',
+            'link' => '/video-corporativo/conferencias',
         ],
         [
             'img' => '/assets/video-corporativo/spot-publicitario.jpg',
             'title' => 'Sport Publicitario',
             'description' => 'Descripcion',
-            'link' => '/servicios/video-corporativo-spot-publicitario',
+            'link' => '/video-corporativo/spotpublicitario',
         ],
         [
             'img' => '/assets/video-corporativo/institucional.jpg',
             'title' => 'Institucional',
             'description' => 'Descripcion',
-            'link' => '/servicios/video-corporativo-institucional',
+            'link' => '/video-corporativo/institucional',
         ],
         [
             'img' => '/assets/video-corporativo/induccion.jpeg',
             'title' => 'Inducción',
             'description' => 'Descripcion',
-            'link' => '/servicios/video-corporativo-induccion',
+            'link' => '/video-corporativo/induccion',
         ],
         [
             'img' => '/assets/video-corporativo/eventos.jpg',
             'title' => 'Eventos',
             'description' => 'Descripcion',
-            'link' => '/servicios/video-corporativo-eventos',
+            'link' => '/video-corporativo/eventos',
         ],
         [
             'img' => '/assets/video-corporativo/documentales.jpeg',
             'title' => 'Documentales',
             'description' => 'Descripcion',
-            'link' => '/servicios/video-corporativo-documentales',
+            'link' => '/video-corporativo/documentales',
         ],
     ];
 @endphp
@@ -57,7 +57,7 @@
     </div>
 
     <div class="one_half last">
-        <video src='/assets/drone/vid-drone2.mov' className="item-image grayscale60" autoPlay muted loop></video>
+        <img src='/assets/img-corporativo/vc1.webp' className="item-image grayscale60"></img>
     </div>
 
 </div>

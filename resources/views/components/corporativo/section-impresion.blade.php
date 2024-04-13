@@ -4,19 +4,19 @@
             'img' => '/assets/video-corporativo/conferencias.jpeg',
             'title' => 'Photobooks',
             'description' => 'Descripcion',
-            'link' => '/servicios/video-corporativo-conferencias',
+            'link' => '/impresiones/photobook',
         ],
         [
             'img' => '/assets/video-corporativo/spot-publicitario.jpg',
             'title' => 'Titulos y Diplomas',
             'description' => 'Descripcion',
-            'link' => '/servicios/video-corporativo-spot-publicitario',
+            'link' => '/impresiones/titulosdiplomas',
         ],
         [
             'img' => '/assets/video-corporativo/spot-publicitario.jpg',
             'title' => 'Credenciales & fotochecks',
             'description' => 'Descripcion',
-            'link' => '/servicios/video-corporativo-spot-publicitario',
+            'link' => '/impresiones/credenciales',
         ],
     ];
 @endphp

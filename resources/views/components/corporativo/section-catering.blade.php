@@ -4,13 +4,13 @@
             'img' => '/assets/video-corporativo/conferencias.jpeg',
             'title' => 'Catering',
             'description' => 'Descripcion',
-            'link' => '/servicios/video-corporativo-conferencias',
+            'link' => '/catering-corporativo/catering',
         ],
         [
             'img' => '/assets/video-corporativo/spot-publicitario.jpg',
             'title' => 'Cafetera Automática',
             'description' => 'Descripcion',
-            'link' => '/servicios/video-corporativo-spot-publicitario',
+            'link' => '/catering-corporativo/cafetera',
         ],
     ];
 @endphp
@@ -27,8 +27,8 @@
 
         <hr>
 
-        <p class="has-animation" data-delay="0">There are many variations of passages of Lorem Ipsum available, but the
-            majority have suffered alteration in some form by injected humour.</p>
+        <p class="has-animation" data-delay="0">Deléitate con nuestro servicio de catering y disfruta 
+            de la comodidad de una cafetera automática en tus eventos con Forma Producciones.</p>
 
     </div>
 
@@ -50,15 +50,16 @@
                 <div class="panel" data-color="#000" data-firstline="Read" data-secondline="Story">
                     <div class="panel-content-wrapper">
                         <div class="panel-image">
-                            <a class="ajax-link" href="{{ $item['link'] }}" data-type="page-transition"><img
-                                    class="grayscale60" src="{{ $item['img'] }}"> </img></a>
+                            <a class="ajax-link" href="{{ $item['link'] }}" data-type="page-transition">
+                                <img class="grayscale60" src="{{ $item['img'] }}" />
+                            </a>
                         </div>
                         <div class="panel-content">
                             <div class="entry-meta entry-categories">
                                 <ul class="post-categories">
                                     <li class="link"><a href="#"><span data-hover="Forma">Forma</span></a>
                                     </li>
-                                    <li class="link"><a href="#"><span data-hover="Video">Video</span></a>
+                                    <li class="link"><a href="#"><span data-hover="Video">Sabores</span></a>
                                     </li>
                                 </ul>
                             </div>

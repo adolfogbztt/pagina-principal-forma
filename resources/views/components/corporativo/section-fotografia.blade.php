@@ -4,25 +4,25 @@
             'img' => '/assets/fotografia/corporativo.jpeg',
             'title' => 'Corporativo',
             'description' => 'Descripcion',
-            'link' => '/servicios/fotografia-corporativo',
+            'link' => '/fotografia/corporativo',
         ],
         [
             'img' => '/assets/fotografia/productos.jpeg',
             'title' => 'Productos',
             'description' => 'Descripcion',
-            'link' => '/servicios/fotografia-productos',
+            'link' => '/fotografia/productos',
         ],
         [
             'img' => '/assets/fotografia/publicidad.jpeg',
             'title' => 'Publicidad',
             'description' => 'Descripcion',
-            'link' => '/servicios/publicidad',
+            'link' => '/fotografia/publicidad',
         ],
         [
             'img' => '/assets/fotografia/eventos.jpg',
             'title' => 'Fotografía',
             'description' => 'Descripcion',
-            'link' => '/servicios/fotografia-cartografia',
+            'link' => '/fotografia/fotografia',
         ],
     ];
 @endphp

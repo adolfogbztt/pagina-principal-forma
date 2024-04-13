@@ -4,13 +4,13 @@
             'img' => '/assets/video-corporativo/conferencias.jpeg',
             'title' => 'Streaming',
             'description' => 'Descripcion',
-            'link' => '/servicios/video-corporativo-conferencias',
+            'link' => '/streaming-tours360/streaming',
         ],
         [
             'img' => '/assets/video-corporativo/spot-publicitario.jpg',
             'title' => 'Tour 360',
             'description' => 'Descripcion',
-            'link' => '/servicios/video-corporativo-spot-publicitario',
+            'link' => '/streaming-tours360/tour360',
         ],
     ];
 @endphp

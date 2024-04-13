@@ -1,10 +1,10 @@
 @php
 
-    $title = 'Promociones';
+    $title = 'Comunión';
 
     /*HERO SECTION*/
     $color = 'dark'; // 'dark' || 'light'
-    $text_move = ' Promociones · Promociones ·';
+    $text_move = ' Comunión · Comunión ·';
     $img_hero = '/assets/video-corporativo/conferencias.jpeg';
     $description = 'Explora el mundo de las credenciales y descubre cómo estas 
                     pequeñas tarjetas pueden abrir grandes puertas para tu identidad y seguridad.';
@@ -38,9 +38,9 @@
         </div>
 
         <div class="two_fourth">
-            <p class="has-animation" data-delay="100">Las credenciales son más que simples tarjetas; son 
-                la puerta de acceso a tu identidad en diferentes entornos. Desde eventos corporativos 
-                hasta instituciones académicas, estas pequeñas piezas de plástico son la llave que 
+            <p class="has-animation" data-delay="100">Las credenciales son más que simples tarjetas; son
+                la puerta de acceso a tu identidad en diferentes entornos. Desde eventos corporativos
+                hasta instituciones académicas, estas pequeñas piezas de plástico son la llave que
                 garantiza tu presencia legítima y seguridad.</p>
         </div>
 
@@ -49,9 +49,9 @@
         </div>
 
         <div class="two_fourth">
-            <p class="has-animation" data-delay="100">En Forma Producciones Audiovisuales, entendemos 
-                que cada credencial es única, al igual que cada persona que la lleva. Nuestro 
-                servicio de impresión de credenciales se enfoca en la personalización, desde el 
+            <p class="has-animation" data-delay="100">En Forma Producciones Audiovisuales, entendemos
+                que cada credencial es única, al igual que cada persona que la lleva. Nuestro
+                servicio de impresión de credenciales se enfoca en la personalización, desde el
                 diseño hasta los detalles más finos. ¡Tu identidad merece destacarse!</p>
         </div>
 
@@ -60,9 +60,9 @@
         </div>
 
         <div class="two_fourth">
-            <p class="has-animation" data-delay="100">La seguridad es primordial cuando se trata de 
-                credenciales. Con tecnología de vanguardia y estándares de calidad rigurosos, nos 
-                aseguramos de que cada impresión sea segura y confiable. Protege tu identidad con 
+            <p class="has-animation" data-delay="100">La seguridad es primordial cuando se trata de
+                credenciales. Con tecnología de vanguardia y estándares de calidad rigurosos, nos
+                aseguramos de que cada impresión sea segura y confiable. Protege tu identidad con
                 nuestras credenciales de calidad superior.</p>
         </div>
 
@@ -71,9 +71,9 @@
         </div>
 
         <div class="two_fourth">
-            <p class="has-animation" data-delay="100">Ya sea para eventos corporativos, conferencias 
-                académicas o acceso a instalaciones, tenemos la solución perfecta para tus necesidades 
-                de credenciales. ¡Déjanos ser tu socio en el camino hacia una identidad segura y 
+            <p class="has-animation" data-delay="100">Ya sea para eventos corporativos, conferencias
+                académicas o acceso a instalaciones, tenemos la solución perfecta para tus necesidades
+                de credenciales. ¡Déjanos ser tu socio en el camino hacia una identidad segura y
                 profesional!</p>
         </div>
 
@@ -82,9 +82,9 @@
         </div>
 
         <div class="two_fourth">
-            <p class="has-animation" data-delay="100">En Forma Producciones Audiovisuales, entendemos 
-                la importancia de una identidad segura y profesional. Con nuestro servicio de impresión 
-                de credenciales, puedes estar seguro de que tu identidad estará en buenas manos. ¡Confía 
+            <p class="has-animation" data-delay="100">En Forma Producciones Audiovisuales, entendemos
+                la importancia de una identidad segura y profesional. Con nuestro servicio de impresión
+                de credenciales, puedes estar seguro de que tu identidad estará en buenas manos. ¡Confía
                 en nosotros para dejar una impresión duradera en cada tarjeta!</p>
         </div>
 
@@ -105,5 +105,5 @@
                 </div>
             </div>
         </figure>
-    </div> 
+    </div>
 @endsection

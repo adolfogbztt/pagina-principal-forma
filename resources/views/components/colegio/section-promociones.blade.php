@@ -1,22 +1,24 @@
 <!-- Row -->
 <div class="content-row fadeout-element row_padding_top light-section change-header-color" data-bgcolor="#fff">
-    <div class="one_half">
-        <a class="ajax-link" href="/colegios/promociones" data-type="page-transition">
+    <a href="/colegios/promocion" class="ajax-link" data-type="page-transition">
+        <div class="one_half">
             <h1 class="has-mask-fill">
                 Promociones
             </h1>
-        </a>
-        <p class="has-animation" data-delay="50">La graduación es un momento 
-            emocionante en la vida de cualquier estudiante, marcando el final de una 
-            etapa y el comienzo de una nueva aventura. En Forma, entendemos la importancia de capturar estos recuerdos 
-            inolvidables de una manera especial y significativa.</p>
-    </div>
+            <p class="has-animation" data-delay="50">La graduación es un momento
+                emocionante en la vida de cualquier estudiante, marcando el final de una
+                etapa y el comienzo de una nueva aventura. En Forma, entendemos la importancia de capturar estos
+                recuerdos
+                inolvidables de una manera especial y significativa.</p>
+        </div>
 
-    <div class="one_half last">
-        <img src="/assets/colegios/promocion/promocion.jpg" class="item-image grayscale20" alt="forma producciones promociones">
-    </div>
+        <div class="one_half last">
+            <img src="/assets/colegios/promocion/promocion.jpg" class="item-image grayscale20"
+                alt="forma producciones promociones">
+        </div>
 
-    <hr class="destroy">
+        <hr class="destroy">
+    </a>
 
 </div>
 <!--/Row -->
