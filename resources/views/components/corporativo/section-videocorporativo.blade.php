@@ -51,8 +51,11 @@
 
         <hr>
 
-        <p class="has-animation" data-delay="0">There are many variations of passages of Lorem Ipsum available, but the
-            majority have suffered alteration in some form by injected humour.</p>
+        <p class="has-animation" data-delay="0">Potencie la presencia de su empresa con nuestros 
+            videos corporativos de alta calidad. Desde la cobertura de conferencias y eventos hasta 
+            la creación de emocionantes spots publicitarios e inspiradores videos institucionales y 
+            de inducción, en Forma Producciones nos comprometemos a contar la historia de su empresa 
+            de manera impactante y memorable.</p>
 
     </div>
 

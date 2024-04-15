@@ -4,25 +4,25 @@
             'img' => '/assets/colegios/productos/photobook_portada.webp',
             'title' => 'Photobook 20cm x 20cm',
             'description' => 'Descripcion',
-            'link' => '/servicios/fotografia-corporativo',
+            'link' => '/colegios/p20',
         ],
         [
             'img' => '/assets/colegios/productos/book_tapacuero.webp',
             'title' => 'Photobook 25cm x 25cm',
             'description' => 'Descripcion',
-            'link' => '/servicios/fotografia-productos',
+            'link' => '/colegios/p25',
         ],
         [
             'img' => '/assets/colegios/productos/book_tapaacolchada.webp',
             'title' => 'Photobook 30cm x 30cm',
             'description' => 'Descripcion',
-            'link' => '/servicios/publicidad',
+            'link' => '/colegios/p30',
         ],
         [
             'img' => '/assets/colegios/productos/bipack.webp',
             'title' => 'Photobook A4',
             'description' => 'Descripcion',
-            'link' => '/servicios/fotografia-cartografia',
+            'link' => '/colegios/pa4',
         ],
     ];
 @endphp
@@ -50,7 +50,9 @@
 
     <div class="one_half last">
         <h5 class="has-mask-fill">Medidas disponibles</h5>
+        <a href="/assets/colegios/productos/medida.webp" class="image-link imagen-container">
         <img src="/assets/colegios/productos/medida.webp" class="item-image grayscale20" alt="forma producciones comunion">
+        </a>
     </div>
 
     <div class="one_half last"></div>

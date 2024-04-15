@@ -84,7 +84,7 @@
             </div>
 
             <div class="pinned-element right">
-                <h5 class="has-mask-fill">Servisios con drone</h5>
+                <h3 class="has-mask-fill">Servisios con drone</h3>
                 <p class="has-animation">Tenemos las soluciones para su proyecto de ingeniería,
                     energía, construcción, industriales, urbanismo, vialidad, agricultura, forestales y medio ambiente.
                     Capturamos imágenes aéreas en calidad 4K y Full HD. Garantizando tomas suaves y vibrantes.

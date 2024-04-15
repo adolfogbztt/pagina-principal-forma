@@ -36,7 +36,7 @@
                                 </ul>
                             </li>
                             <li class="link menu-timeline"><a class="ajax-link" data-type="page-transition"
-                                    href="/corporativo">
+                                    href="/">
                                     <div class="before-span"><span data-hover="Corporativo">Corporativo</span></div>
                                 </a>
                             </li>

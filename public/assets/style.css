@@ -127,9 +127,54 @@
   padding-bottom: 12px;
   padding-left: 18px;
   padding-right: 18px;
-  color: white !important;
   border-radius: 20px;
-  border: 2px solid white;
   font-weight: bold;
   /* border-color: white; */
+}
+
+/*Clientes*/
+.clientes {
+  background: #171717;
+}
+
+@keyframes slide {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-100%);
+  }
+}
+
+.logos {
+  overflow: hidden;
+  padding: 60px 0;
+  background: #171717;
+  white-space: nowrap;
+  position: relative;
+}
+
+.logos:before,
+.logos:after {
+  position: absolute;
+  top: 0;
+  width: 350px;
+  height: 200%;
+  content: "";
+  z-index: 2;
+}
+
+.logos:hover .logos-slide {
+  animation-play-state: paused;
+}
+
+.logos-slide {
+  display: inline-block;
+  animation: 35s slide infinite linear;
+}
+
+.logos-slide img {
+  width: 200px;
+  height: 150px;
+  margin: 0 40px;
 }

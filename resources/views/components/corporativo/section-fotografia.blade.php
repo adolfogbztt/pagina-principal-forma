@@ -41,8 +41,10 @@
 
         <hr>
 
-        <p class="has-animation" data-delay="0">There are many variations of passages of Lorem Ipsum available, but the
-            majority have suffered alteration in some form by injected humour.</p>
+        <p class="has-animation" data-delay="0">Capturamos la esencia de su empresa con 
+            fotografía digital de calidad profesional. Desde retratos corporativos hasta imágenes 
+            impactantes de productos y publicidad, en Forma Producciones, transformamos momentos en 
+            memorias perdurables.</p>
 
     </div>
 
