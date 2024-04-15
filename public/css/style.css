@@ -1322,6 +1322,7 @@
 	.show-loader a, .show-loader nav, .scale-up a, .scale-up .hide-ball, scale-up .link, .scale-up .button-wrap, .scale-up #burger-wrapper, .scale-up .disable-drag, .scale-drag a, .scale-drag .move-title {
 		pointer-events:none!important;
 	}
+
 	
 	.disable-cursor #magic-cursor {
 		display:none;

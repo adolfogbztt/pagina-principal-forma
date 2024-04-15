@@ -112,7 +112,7 @@
 
         </div>
 
-        <a class="button-wrap right menu citas_button" href="http://citas.formaproducciones.com/">Citas</a>
+        <a class="button-wrap right citas_button" href="http://citas.formaproducciones.com/">Citas</a>
         <!--/Menu Burger -->
         
     </div>

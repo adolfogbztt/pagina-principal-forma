@@ -11,6 +11,7 @@
             'title' => 'Tour 360',
             'description' => 'Descripcion',
             'link' => '/streaming-tours360/tour360',
+            // 'video' => '/assets/ejemplo',
         ],
     ];
 @endphp
