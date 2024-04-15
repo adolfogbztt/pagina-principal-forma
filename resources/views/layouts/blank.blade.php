@@ -18,7 +18,7 @@
     <link rel="canonical" href="{{ url()->current() }}">
 
 
-    <meta property="og:locale" content="es">
+    <meta property="og:locale" content="pe">
     <meta property="og:title" content='{{ $title }} | formaproducciones.com Producciones Audiovisuales'>
     <meta property="og:type" content="website">
     <meta property="fb:app_id" content="394125557286858">
@@ -56,7 +56,6 @@
     <meta name="theme-color" content="#2563eb">
 
     <link rel="stylesheet" href="{{ $_SERVER['APP_CDN'] }}/css/style.css" />
-
 
     <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large">
 
