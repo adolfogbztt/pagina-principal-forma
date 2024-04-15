@@ -8,7 +8,7 @@
                     <i class="fa-solid fa-angle-up"></i>
                 </div>
             </div>
-            <div class="button-text sticky left"><span data-hover="Back Top">Back Top</span></div>
+            <div class="button-text sticky left"><span data-hover="▲">Subir</span></div>
         </div>
 
         <div class="footer-middle">

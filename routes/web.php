@@ -15,6 +15,10 @@ Route::get('/colegios', function () {
     return view('colegio');
 });
 
+Route::get('/contactanos', function () {
+    return view('contactanos');
+});
+
 Route::get('/cookies', function () {
     return view('pages.cookies');
 });

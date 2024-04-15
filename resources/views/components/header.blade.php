@@ -58,7 +58,7 @@
                             </li>
                             <li class="link menu-timeline"><a class="ajax-link" data-type="page-transition"
                                     href="contact.html">
-                                    <div class="before-span"><span data-hover="Contactanos">Contactanos</span>
+                                    <div class="before-span"><span data-hover="Contáctanos">Contáctanos</span>
                                     </div>
                                 </a>
                             </li>
