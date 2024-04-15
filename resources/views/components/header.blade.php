@@ -17,7 +17,7 @@
                 <div class="outer">
                     <div class="inner">
                         <ul data-breakpoint="10025" class="flexnav">
-                            <li class="link menu-timeline"><a class="" href="#">
+                            {{-- <li class="link menu-timeline"><a class="" href="#">
                                     <div class="before-span"><span data-hover="Portfolio">Portfolio</span></div>
                                 </a>
                                 <ul>
@@ -34,7 +34,7 @@
                                     <li><a class="ajax-link" href="portfolio-grid.html"
                                             data-type="page-transition">Random Portfolio</a></li>
                                 </ul>
-                            </li>
+                            </li> --}}
                             <li class="link menu-timeline"><a class="ajax-link" data-type="page-transition"
                                     href="/">
                                     <div class="before-span"><span data-hover="Corporativo">Corporativo</span></div>
@@ -58,7 +58,7 @@
                             </li>
                             <li class="link menu-timeline"><a class="ajax-link" data-type="page-transition"
                                     href="contact.html">
-                                    <div class="before-span"><span data-hover="Contact">Contact</span>
+                                    <div class="before-span"><span data-hover="Contactanos">Contactanos</span>
                                     </div>
                                 </a>
                             </li>
