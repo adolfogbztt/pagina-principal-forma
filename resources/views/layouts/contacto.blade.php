@@ -6,7 +6,7 @@
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="Expires" content="0">
 
-    <title>Forma Producciones Audiovisuales Soluciones Colegios</title>
+    <title>Contáctanos</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta name="description" content="{{ $description }}" />
     <meta name="keywords" content="Forma Producciones Audiovisuales, empresas, eventos corporativos, sesiones fotográficas, photobooks, anuarios, servicios de video, servicios de dron, soluciones audiovisuales, asesoramiento, calidad, experiencia, confianza, profesionalismo">
@@ -70,10 +70,6 @@
         crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link href="{{ $_SERVER['APP_CDN'] }}/assets/style.css" rel="stylesheet" />
 
-
-    @include('components.schema-home', ['description' => $description])
-
-
 </head>
 
 
@@ -129,19 +125,7 @@
 
                 </div>
                 <!--/Content Scroll -->
-
-
-                {{-- <div class="thumb-wrapper">
-                    <div class="thumb-container">
-                        <div class="thumb-page" data-src="images/01hero.jpg"></div>
-                        <div class="thumb-page" data-src="images/02hero.jpg"></div>
-                        <div class="thumb-page" data-src="images/03hero.jpg"></div>
-                        <div class="thumb-page" data-src="images/04hero.jpg"></div>
-                        <div class="thumb-page" data-src="images/05hero.jpg"></div>
-                        <div class="thumb-page" data-src="images/06hero.jpg"></div>
-                    </div>
-                </div> --}}
-
+                
                 <div id="app"></div>
 
             </div>

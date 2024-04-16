@@ -15,8 +15,8 @@ Route::get('/colegios', function () {
     return view('colegio');
 });
 
-Route::get('/contactanos', function () {
-    return view('contactanos');
+Route::get('/contacto', function () {
+    return view('pages.contacto');
 });
 
 Route::get('/cookies', function () {

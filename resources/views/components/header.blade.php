@@ -46,7 +46,7 @@
                                 </a>
                             </li>
                             <li class="link menu-timeline"><a class="ajax-link" data-type="page-transition"
-                                    href="about.html">
+                                    href="/eventos">
                                     <div class="before-span"><span data-hover="Eventos">Eventos</span></div>
                                 </a>
                             </li>
@@ -57,7 +57,7 @@
                                 </a>
                             </li>
                             <li class="link menu-timeline"><a class="ajax-link" data-type="page-transition"
-                                    href="contact.html">
+                                    href="/contacto">
                                     <div class="before-span"><span data-hover="Contáctanos">Contáctanos</span>
                                     </div>
                                 </a>
