@@ -19,6 +19,10 @@ Route::get('/contacto', function () {
     return view('pages.contacto');
 });
 
+Route::get('/nosotros', function () {
+    return view('pages.nosotros');
+});
+
 Route::get('/cookies', function () {
     return view('pages.cookies');
 });

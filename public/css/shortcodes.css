@@ -856,13 +856,13 @@ Buttons
 }
 
 .light-content .button-border, .dark-section .button-border {
-    border: solid 2px #fff;
+    border: solid 2px #000;
     background-color:#fff;
 }
 
 .light-content .light-section .button-border {
     border: solid 2px #000;
-    background-color:#000;
+    background-color:#fff;
 }
 
 .light-content .button-border a, .dark-section .button-border a {
@@ -870,7 +870,7 @@ Buttons
 }
 
 .light-content .light-section .button-border a {
-    color:#fff;
+    color:#000;
 }
 
 .button-border.rounded {

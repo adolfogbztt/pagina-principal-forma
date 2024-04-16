@@ -3,13 +3,13 @@
     <div class="outer">
         <div class="inner">
             <div class="trackbar">
-                <video src="/assets/loader.mov" autoplay loop muted></video>
+                <video src="/assets/loader.mov" autoplay loop muted style="max-width: 100%"></video>
                 <div class="loadbar"></div>
             </div>
             <div class="percentage-wrapper">
                 <div class="percentage" id="precent"></div>
             </div>
-            <div class="percentage-intro">Please Wait</div>
+            <div class="percentage-intro">Cargando....</div>
         </div>
     </div>
 </div>

@@ -71,7 +71,7 @@
                     <i class="fa fa-phone fa-2x" aria-hidden="true"></i>
                 </div>
                 <div class="box-icon-content">
-                    <h5 class="no-margins">(+51) 956-903-319</h5>
+                    <h5 class="no-margins">(+51) 998032690 - 012561244 - 012751312</h5>
                     <p>Teléfono</p>
                 </div>
             </div>
