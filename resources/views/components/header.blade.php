@@ -51,7 +51,7 @@
                                 </a>
                             </li>
                             <li class="link menu-timeline"><a class="ajax-link" data-type="page-transition"
-                                    href="/acerca-de-nosotros">
+                                    href="/nosotros">
                                     <div class="before-span"><span data-hover="Acerca de Nosotros">Acerca de
                                             Nosotros</span></div>
                                 </a>

@@ -43,7 +43,7 @@
                 </div>
                 <div class="box-icon-content">
                     <h5 class="no-margins"><a href="mailto:office@framework.com"
-                            class="link"><span>forma@gmail.com</span></a></h5>
+                            class="link"><span>imagen@formaproducciones.com</span></a></h5>
                     <p>Email Corporativo</p>
                 </div>
             </div>
