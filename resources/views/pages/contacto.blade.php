@@ -57,9 +57,9 @@
                     <i class="fa fa-map-marker fa-2x" aria-hidden="true"></i>
                 </div>
                 <div class="box-icon-content">
-                    <h5 class="no-margins"><a href="https://maps.app.goo.gl/mZ3trpG4tSXWffW19"
-                        class="link"><span>Calle Cerro Prieto, 429 - Santiago de Surco</span></a></h5>
-                <p>Ubicación</p>
+                    <h5 class="no-margins"><a href="https://maps.app.goo.gl/mZ3trpG4tSXWffW19" class="link"><span>Calle
+                                Cerro Prieto, 429 - Santiago de Surco</span></a></h5>
+                    <p>Ubicación</p>
                 </div>
             </div>
 
