@@ -42,7 +42,9 @@
     <div class="content-row light-section" data-bgcolor="#fff">
         <br>
 
-        <blockquote>Forma Producciones Audiovisuales</blockquote>
+        <blockquote>
+            <h3>Forma Producciones Audiovisuales</h3>
+        </blockquote>
         <p class="has-indent">Somos una productora audiovisual con más de 29 años realizando trabajos artísticos, cubriendo
             cada evento especial para usted o su compañía. Nos sentimos orgullos de brindarles un servicio
             integral desde el día del evento hasta la producción de los recuerdos y merchandising. Cuidando
@@ -78,8 +80,8 @@
 
             <div class="two_fourth">
                 <p class="has-animation" data-delay="50"><mark>➤ Ser el socio estratégico de nuestros clientes con
-                    personal profesional, planificando, asesorando y ayudando a sus clientes, enfatizando la
-                    gestión audiovisual y brindando soluciones adaptada al éxito de nuestros clientes.</mark></p>
+                        personal profesional, planificando, asesorando y ayudando a sus clientes, enfatizando la
+                        gestión audiovisual y brindando soluciones adaptada al éxito de nuestros clientes.</mark></p>
             </div>
 
             <div class="one_fourth last"></div>
@@ -90,8 +92,8 @@
 
             <div class="two_fourth">
                 <p class="has-animation" data-delay="50"><mark>➤ Ser la mejor consultora audiovisual a
-                    nivel departamental y nacional con el mejor staff audiovisual brindando confianza y
-                    seguridad a nuestros clientes.</mark></p>
+                        nivel departamental y nacional con el mejor staff audiovisual brindando confianza y
+                        seguridad a nuestros clientes.</mark></p>
             </div>
 
             <div class="one_fourth last"></div>
@@ -170,7 +172,8 @@
                         </div>
                     </div>
                 </dt>
-                <dd class="accordion-content">Ofrecemos una perspectiva única y espectacular de tus momentos más importantes.
+                <dd class="accordion-content">Ofrecemos una perspectiva única y espectacular de tus momentos más
+                    importantes.
                     Desde impresionantes paisajes hasta eventos emocionantes, nuestro equipo de pilotos expertos utiliza la
                     última tecnología en drones para capturar imágenes aéreas de alta calidad que dejarán una impresión
                     duradera. Ya sea que estés planeando una boda, un evento corporativo o simplemente quieras destacar tu
@@ -198,7 +201,7 @@
 
 
             <div class="one_fourth">
-                <h6 class="has-animation has-icon">Objetivo</h6>
+                
             </div>
 
             <div class="two_fourth">

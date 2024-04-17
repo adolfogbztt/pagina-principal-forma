@@ -25,8 +25,8 @@
 
         <hr><br>
 
-        <h1 class="has-mask-fill no-margins">Ponte</h1>
-        <h1 class="has-mask-fill">en Contacto</h1>
+        <h1 class="has-mask-fill no-margins">Contáctanos</h1>
+        {{-- <h1 class="has-mask-fill">en Contacto</h1> --}}
 
         <hr><br>
 
@@ -43,7 +43,7 @@
                 </div>
                 <div class="box-icon-content">
                     <h5 class="no-margins"><a href="mailto:office@framework.com"
-                            class="link"><span>imagen@formaproducciones.com</span></a></h5>
+                            class="link" target="blank"><span>imagen@formaproducciones.com</span></a></h5>
                     <p>Email Corporativo</p>
                 </div>
             </div>
@@ -57,7 +57,7 @@
                     <i class="fa fa-map-marker fa-2x" aria-hidden="true"></i>
                 </div>
                 <div class="box-icon-content">
-                    <h5 class="no-margins"><a href="https://maps.app.goo.gl/mZ3trpG4tSXWffW19" class="link"><span>Calle
+                    <h5 class="no-margins"><a href="https://maps.app.goo.gl/mZ3trpG4tSXWffW19" class="link" target="blank"><span>Calle
                                 Cerro Prieto, 429 - Santiago de Surco</span></a></h5>
                     <p>Ubicación</p>
                 </div>
