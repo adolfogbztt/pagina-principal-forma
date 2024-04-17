@@ -42,23 +42,145 @@
     <div class="content-row light-section" data-bgcolor="#fff">
         <br>
 
-        <h5>Forma Producciones Audiovisuales</h5>
-        <p>Somos una productora audiovisual con más de 29 años realizando trabajos artísticos, cubriendo
+        <blockquote>Forma Producciones Audiovisuales</blockquote>
+        <p class="has-indent">Somos una productora audiovisual con más de 29 años realizando trabajos artísticos, cubriendo
             cada evento especial para usted o su compañía. Nos sentimos orgullos de brindarles un servicio
             integral desde el día del evento hasta la producción de los recuerdos y merchandising. Cuidando
             cada detalle de nuestro servicio y la calidad de los materiales utilizados. Con el fin de que sus
             recuerdos perduren en el tiempo.</p>
         <br>
+        <!-- Row -->
+        <!-- Row -->
+        <div class="content-row light-section" data-bgcolor="#fff">
+            <h5>Nuestros Inicios</h5>
+            <p>Todo inicia un "fecha" en la ciudad de lima, con nuestro <span class="has-hover-image hide-ball"
+                    data-img="/assets/historiaforma.webp">primer local</span> teniendo como fundador de la empre a <span
+                    class="has-hover-image vertical hide-ball" data-img="/assets/historiaforma.webp">many times</span> you
+                want in each paragraph.</p>
+        </div>
+        <!--/Row -->
 
-        <h6>Nos destacamos en los siguientes aspectos:</h6>
+        <!-- Row -->
+        <div class="content-row row_padding_left row_padding_right full light-section change-header-color"
+            data-bgcolor="#fff">
 
-        <h6 class="has-mask-fill">✘ Sesiones fotográficas</h6>
-        <h6 class="has-mask-fill">✘ Photobooks y Anuarios</h6>
-        <h6 class="has-mask-fill">✘ Servicios de video</h6>
-        <h6 class="has-mask-fill">✘ Servicios de dron</h6>
+            <div class="one_fourth"></div>
 
-        <hr>
-        <hr>
+            >
+
+            <div class="one_fourth last"></div>
+
+            <hr>
+
+            <div class="one_fourth">
+                <h3 class="has-animation has-icon">Misión</h3>
+            </div>
+
+            <div class="two_fourth">
+                <p class="has-animation" data-delay="50"><mark>➤ Ser el socio estratégico de nuestros clientes con
+                    personal profesional, planificando, asesorando y ayudando a sus clientes, enfatizando la
+                    gestión audiovisual y brindando soluciones adaptada al éxito de nuestros clientes.</mark></p>
+            </div>
+
+            <div class="one_fourth last"></div>
+
+            <div class="one_fourth">
+                <h3 class="has-animation has-icon">Visión</h3>
+            </div>
+
+            <div class="two_fourth">
+                <p class="has-animation" data-delay="50"><mark>➤ Ser la mejor consultora audiovisual a
+                    nivel departamental y nacional con el mejor staff audiovisual brindando confianza y
+                    seguridad a nuestros clientes.</mark></p>
+            </div>
+
+            <div class="one_fourth last"></div>
+
+            <hr>
+
+        </div>
+        <!--/Row -->
+
+        <div class="content-row row_padding_bottom light-section" data-bgcolor="#fff">
+
+            <h5 class="has-mask no-margins">Nos destacamos en los siguientes aspectos:</h5>
+
+            <hr>
+
+            <dl class="accordion has-animation">
+                <dt>
+                    <span class="link">
+                        <div>✘ Sesiones fotográficas</div>
+                    </span>
+                    <div class="acc-icon-wrap parallax-wrap">
+                        <div class="acc-button-icon parallax-element">
+                            <i class="fa fa-arrow-right"></i>
+                        </div>
+                    </div>
+                </dt>
+                <dd class="accordion-content">Nuestro servicio de sesiones fotográficas es tu puerta de entrada a la
+                    creación de recuerdos invaluables. Desde retratos íntimos hasta eventos grandiosos, estamos aquí para
+                    capturar la esencia de cada momento. Con una atención meticulosa al detalle y una pasión por la
+                    excelencia, te guiaremos a través de cada fase, asegurando que tus imágenes sean verdaderamente
+                    memorables. Confía en nosotros para transformar tus momentos en recuerdos que perdurarán toda la vida.
+                    ¡Contáctanos hoy mismo y comencemos a crear magia juntos!</dd>
+
+                <dt>
+                    <span class="link">
+                        <div>✘ Photobooks y Anuarios</div>
+                    </span>
+                    <div class="acc-icon-wrap parallax-wrap">
+                        <div class="acc-button-icon parallax-element">
+                            <i class="fa fa-arrow-right"></i>
+                        </div>
+                    </div>
+                </dt>
+                <dd class="accordion-content">Nuestro servicio de Photobooks y Anuarios es la manera perfecta de dar vida a
+                    tus recuerdos más preciados. Con una combinación de diseño creativo y calidad excepcional, transformamos
+                    tus imágenes en obras maestras que perdurarán para siempre. Ya sea que estés buscando conservar los
+                    momentos especiales de un evento, el crecimiento de tu familia o simplemente quieras revivir tus
+                    aventuras más memorables, estamos aquí para hacerlo realidad. Confía en nosotros para crear un libro que
+                    cuente tu historia de una manera única y emocionante. ¡Contáctanos hoy mismo y comienza a crear tu
+                    legado visual!</dd>
+
+                <dt>
+                    <span class="link">
+                        <div>✘ Servicios de video</div>
+                    </span>
+                    <div class="acc-icon-wrap parallax-wrap">
+                        <div class="acc-button-icon parallax-element">
+                            <i class="fa fa-arrow-right"></i>
+                        </div>
+                    </div>
+                </dt>
+                <dd class="accordion-content">Desde eventos emocionantes hasta historias personales, nuestro equipo experto
+                    transforma cada momento en una obra maestra visual. Con una combinación de habilidades creativas y
+                    tecnología de vanguardia, creamos videos que no solo cuentan tu historia, sino que también la hacen
+                    vibrar con emoción y autenticidad. Confía en nosotros para capturar cada detalle y crear un video que te
+                    transporte de vuelta a esos momentos inolvidables una y otra vez. ¡Contáctanos hoy mismo y déjanos dar
+                    vida a tus recuerdos en movimiento!</dd>
+
+                <dt>
+                    <span class="link">
+                        <div>✘ Servicios de dron</div>
+                    </span>
+                    <div class="acc-icon-wrap parallax-wrap">
+                        <div class="acc-button-icon parallax-element">
+                            <i class="fa fa-arrow-right"></i>
+                        </div>
+                    </div>
+                </dt>
+                <dd class="accordion-content">Ofrecemos una perspectiva única y espectacular de tus momentos más importantes.
+                    Desde impresionantes paisajes hasta eventos emocionantes, nuestro equipo de pilotos expertos utiliza la
+                    última tecnología en drones para capturar imágenes aéreas de alta calidad que dejarán una impresión
+                    duradera. Ya sea que estés planeando una boda, un evento corporativo o simplemente quieras destacar tu
+                    propiedad desde nuevas alturas, estamos aquí para hacerlo realidad. Con un enfoque en la seguridad y la
+                    precisión, garantizamos resultados impresionantes que superarán tus expectativas. ¡Contáctanos hoy mismo
+                    y déjanos elevar tus proyectos a nuevos niveles!</dd>
+            </dl>
+
+        </div>
+        <!--/Row -->
 
         <!-- Row -->
         <div class="content-row row_padding_left row_padding_right full light-section change-header-color"
@@ -67,7 +189,7 @@
             <div class="one_fourth"></div>
 
             <div class="two_fourth">
-                <h2 class="big-title has-mask-fill">EL Mejor Equipo</h2>
+                <h3 class="big-title has-mask-fill">Nuestro Equipo</h3>
             </div>
 
             <div class="one_fourth last"></div>
@@ -130,26 +252,31 @@
     <!--/Row -->
     <!-- Row -->
     <div class="content-row row_padding_bottom light-section text-align-center" data-bgcolor="#fff">
-                                
-        <h3>Nuestros Premios</h3> 
+
+        <h3>Nuestros Premios</h3>
         <p>En Forma Producciones Audiovisuales Nos preocupamos por realizar un trabajo excepcional para su empresa.</p>
-        
+
         <hr>
-        
+
         <div class="swiper-container content-looped-carousel has-animation autocenter light-cursor" data-delay="0">
             <div class="swiper-wrapper">
-                <div class="swiper-slide"><div class="slide-img"><img src="/assets/nosotros/premios/premio1.webp" alt="Image Title"></div></div>
-                <div class="swiper-slide"><div class="slide-img"><img src="/assets/nosotros/premios/premio2.webp" alt="Image Title"></div></div>
-                <div class="swiper-slide"><div class="slide-img"><img src="/assets/nosotros/premios/premio3.webp" alt="Image Title"></div></div>
+                <div class="swiper-slide">
+                    <div class="slide-img"><img src="/assets/nosotros/premios/premio1.webp" alt="Image Title"></div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="slide-img"><img src="/assets/nosotros/premios/premio2.webp" alt="Image Title"></div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="slide-img"><img src="/assets/nosotros/premios/premio3.webp" alt="Image Title"></div>
+                </div>
             </div>
             <div class="slider-button-next"></div>
             <div class="slider-button-prev"></div>
-            <div class="swiper-pagination"></div>    
+            <div class="swiper-pagination"></div>
         </div>
-        
-    </div> 
-    <!--/Row -->
 
+    </div>
+    <!--/Row -->
 @endsection
 
 @section('adds')

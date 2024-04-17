@@ -32,20 +32,20 @@
     <!-- Clients Table -->
     <ul class="clients-table has-animation no-borders" data-delay="100">
         <li class="link">
-            <a target="_blank" href="https://www.clapat.com/"><img
-                    src="/assets/clientes/empresas/Recurso 1.png" alt="client" style="max-width: 70%"></a>
+            <a target="_blank" href="https://www.cal.org.pe/v1/"><img src="/assets/clientes/principal/cal.png"
+                    alt="client" style="max-width: 70%"></a>
         </li>
         <li class="link">
-            <a target="_blank" href="https://www.clapat.com/"><img
-                    src="/assets/clientes/empresas/Recurso 2.png" alt="client" style="max-width: 70%"></a>
+            <a target="_blank" href="https://www.urp.edu.pe/"><img
+                    src="/assets/clientes/principal/uni_ricardo_palma.png" alt="client" style="max-width: 70%"></a>
         </li>
         <li class="link">
-            <a target="_blank" href="https://www.clapat.com/"><img
-                    src="/assets/clientes/empresas/Recurso 3.png" alt="client" style="max-width: 70%"></a>
+            <a target="_blank" href="https://www.ulima.edu.pe/"><img src="/assets/clientes/principal/unilima.png"
+                    alt="client" style="max-width: 70%"></a>
         </li>
         <li class="link">
-            <a target="_blank" href="https://www.clapat.com/"><img
-                    src="/assets/clientes/empresas/Recurso 4.png" alt="client" style="max-width: 70%"></a>
+            <a target="_blank" href="https://www.utp.edu.pe/web/"><img src="/assets/clientes/principal/UTP.png"
+                    alt="client" style="max-width: 70%"></a>
         </li>
     </ul>
     <!--/Clients Table -->
