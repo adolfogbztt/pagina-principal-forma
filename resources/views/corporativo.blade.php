@@ -4,6 +4,7 @@
     Con más de 30 años de experiencia, ofrecemos soluciones audiovisuales excepcionales
     para empresas y eventos corporativos. Desde sesiones fotográficas hasta servicios de dron,
     garantizamos calidad superior y asesoramiento personalizado para llevar su visión empresarial al siguiente nivel.',
+    'faq' => $faq,
 ])
 
 @section('hero')
@@ -41,7 +42,7 @@
     </div>
 
     <div class="content-row full light-section" data-bgcolor="#fff">
-        @include('components.corporativo.section-faq')
+        @include('components.corporativo.section-faq', ['faq' => $faq])
     </div>
 
     <div class="content-row full dark-section" data-bgcolor="#000">

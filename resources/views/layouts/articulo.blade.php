@@ -163,10 +163,15 @@
         <!--/Main Page Content -->
 
     </div>
+    @include('components.corporativo.section-faq', ['faq' => $faq])
 
     @include('components.corporativo.about', ['color' => $color])
+
     <!--/Main Content -->
     </div>
+
+    
+
     <!--/Main -->
 
 

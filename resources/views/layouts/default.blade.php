@@ -71,7 +71,7 @@
     <link href="{{ $_SERVER['APP_CDN'] }}/assets/style.css" rel="stylesheet" />
 
 
-    @include('components.schema-home', ['description' => $description])
+    @include('components.schema-home', ['description' => $description, 'faq' => $faq])
 
 
 </head>

@@ -18,7 +18,7 @@
     /*CONTENT SECTION*/
 @endphp
 
-@extends('layouts.articulo', ['title' => $title, 'img_hero' => $img_hero, 'text_move' => $text_move, 'description' => $description, 'color' => $color])
+@extends('layouts.articulo', ['title' => $title, 'img_hero' => $img_hero, 'text_move' => $text_move, 'description' => $description, 'color' => $color, 'faq' => $faq])
 
 @section('content')
     <!-- Row -->
