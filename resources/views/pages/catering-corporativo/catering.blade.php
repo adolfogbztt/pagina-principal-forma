@@ -5,7 +5,7 @@
     /*HERO SECTION*/
     $color = 'dark'; // 'dark' || 'light'
     $text_move = ' Catering · Catering ·';
-    $img_hero = '/assets/video-corporativo/conferencias.jpeg';
+    $img_hero = '/assets/video-corporativo/conferencias.webp';
     $description = 'Ofrecemos servicios de catering excepcionales, diseñados para 
                     deleitar a tus invitados con una experiencia gastronómica inolvidable. 
                     Desde eventos corporativos hasta celebraciones privadas, nuestro equipo 

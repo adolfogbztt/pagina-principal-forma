@@ -2,7 +2,7 @@
 <div class="content-row fadeout-element row_padding_top light-section change-header-color" data-bgcolor="#fff">
     <a href="/colegios/confirmacion" class="ajax-link" data-type="page-transition">
     <div class="one_half">
-        <h1 class="has-mask-fill">Confirmacion</h1>
+        <h1 class="has-mask-fill">Confirmación</h1>
         <p class="has-animation" data-delay="50">La Confirmación es un momento 
             significativo en la vida de un joven, marcando su compromiso personal 
             con su fe y su comunidad religiosa. En Forma Producciones Audiovisuales, 

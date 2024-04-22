@@ -5,7 +5,7 @@
     /*HERO SECTION*/
     $color = 'dark'; // 'dark' || 'light'
     $text_move = ' Eventos · Eventos ·';
-    $img_hero = '/assets/video-corporativo/eventos.jpg';
+    $img_hero = '/assets/video-corporativo/eventos.webp';
     $description = 'En Forma Producciones Audiovisuales, nos especializamos en la captura de estos 
                     momentos memorables a través de nuestros servicios de producción y posproducción 
                     de videos para eventos. Desde la cobertura completa del evento hasta la edición final 

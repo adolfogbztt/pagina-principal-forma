@@ -10,9 +10,9 @@
                 </div>
                 <div class="hero-title-wrapper">
                     <div class="hero-title">
-                        <span>Promociones </span>
-                        <span>Confirmaciones </span>
-                        <span>Comunion</span>
+                        <span>Promoción</span>
+                        <span>Confirmación</span>
+                        <span>Comunión</span>
                         <span>Kinder</span>
                         <span>Photobooks</span>
                     </div>

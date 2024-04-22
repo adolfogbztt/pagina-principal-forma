@@ -2,25 +2,25 @@
 
     $services = [
         [
-            'img' => 'assets/drone/cartografia.jpeg',
+            'img' => 'assets/drone/cartografia.webp',
             'title' => 'Cartografía',
             'description' => 'Descripción',
             'link' => '/corporativo/cartografia',
         ],
         [
-            'img' => 'assets/drone/termonometria.jpeg',
+            'img' => 'assets/drone/termonometria.webp',
             'title' => 'Termografía',
             'description' => 'Descripción',
             'link' => '/corporativo/termografia',
         ],
         [
-            'img' => 'assets/drone/fotogrametria.jpeg',
+            'img' => 'assets/drone/fotogrametria.webp',
             'title' => 'Fotogrametría',
             'description' => 'Descripción',
             'link' => '/corporativo/fotogrametria',
         ],
         [
-            'img' => 'assets/drone/corporativo.jpeg',
+            'img' => 'assets/drone/corporativo.webp',
             'title' => 'Corporativo',
             'description' => 'Descripción',
             'link' => '/corporativo/corporativo',

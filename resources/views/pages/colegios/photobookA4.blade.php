@@ -5,7 +5,7 @@
     /*HERO SECTION*/
     $color = 'light'; // 'dark' || 'light'
     $text_move = ' Photobook A4 · Photobook A4 ·';
-    $img_hero = '/assets/video-corporativo/conferencias.jpeg';
+    $img_hero = '/assets/video-corporativo/conferencias.webp';
     $description = 'Explora el mundo de las credenciales y descubre cómo estas 
                     pequeñas tarjetas pueden abrir grandes puertas para tu identidad y seguridad.';
     /*END HERO SECTION*/

@@ -5,7 +5,7 @@
     /*HERO SECTION*/
     $color = 'dark'; // 'dark' || 'light'
     $text_move = ' Publicidad · Publicidad ·';
-    $img_hero = '/assets/fotografia/publicidad.jpeg';
+    $img_hero = '/assets/fotografia/publicidad.webp';
     $description = 'Ofrecemos fotografía publicitaria que captura la esencia y el atractivo de productos y 
                     servicios con creatividad y precisión, destinada a destacar su valor y generar 
                     interés en el público objetivo.';

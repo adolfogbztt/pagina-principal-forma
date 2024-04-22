@@ -5,7 +5,7 @@
     /*HERO SECTION*/
     $color = 'dark'; // 'dark' || 'light'
     $text_move = ' Fotografia Corporativa · Fotografia Corporativa ·';
-    $img_hero = '/assets/fotografia/corporativo.jpeg';
+    $img_hero = '/assets/fotografia/corporativo.webp';
     $description = 'Nuestra fotografía corporativa captura la esencia y 
                     profesionalismo de tu empresa, ideal para branding y comunicación visual efectiva.';
     /*END HERO SECTION*/

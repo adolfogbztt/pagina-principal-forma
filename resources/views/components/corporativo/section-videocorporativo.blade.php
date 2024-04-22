@@ -1,43 +1,43 @@
 @php
     $services = [
         [
-            'img' => '/assets/video-corporativo/conferencias.jpeg',
+            'img' => '/assets/video-corporativo/conferencias.webp',
             'title' => 'Conferencias',
             'description' => 'Descripcion',
             'link' => '/video-corporativo/conferencias',
         ],
         [
-            'img' => '/assets/video-corporativo/spot-publicitario.jpg',
+            'img' => '/assets/video-corporativo/spot-publicitario.webp',
             'title' => 'Sport Publicitario',
             'description' => 'Descripcion',
             'link' => '/video-corporativo/spotpublicitario',
         ],
         [
-            'img' => '/assets/video-corporativo/institucional.jpg',
+            'img' => '/assets/video-corporativo/institucional.webp',
             'title' => 'Institucional',
             'description' => 'Descripcion',
             'link' => '/video-corporativo/institucional',
         ],
         [
-            'img' => '/assets/video-corporativo/induccion.jpeg',
+            'img' => '/assets/video-corporativo/induccion.webp',
             'title' => 'Inducción',
             'description' => 'Descripcion',
             'link' => '/video-corporativo/induccion',
         ],
         [
-            'img' => '/assets/video-corporativo/eventos.jpg',
+            'img' => '/assets/video-corporativo/eventos.webp',
             'title' => 'Eventos',
             'description' => 'Descripcion',
             'link' => '/video-corporativo/eventos',
         ],
         [
-            'img' => '/assets/video-corporativo/documentales.jpeg',
+            'img' => '/assets/video-corporativo/documentales.webp',
             'title' => 'Documentales',
             'description' => 'Descripcion',
             'link' => '/video-corporativo/documentales',
         ],
         [
-            'img' => '/assets/video-corporativo/conferencias.jpeg',
+            'img' => '/assets/video-corporativo/conferencias.webp',
             'title' => 'Conferencias',
             'description' => 'Descripcion',
             'link' => '/video-corporativo/conferencias',

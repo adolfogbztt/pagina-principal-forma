@@ -5,7 +5,7 @@
     /*HERO SECTION*/
     $color = 'dark'; // 'dark' || 'light'
     $text_move = ' Streaming · Streaming ·';
-    $img_hero = '/assets/video-corporativo/conferencias.jpeg';
+    $img_hero = '/assets/video-corporativo/conferencias.webp';
     $description = 'Nuestro servicio de Streaming se distingue por contar con cámaras 
                     robóticas de transmisión, las cuales brindan una experiencia visual 
                     dinámica y envolvente.';

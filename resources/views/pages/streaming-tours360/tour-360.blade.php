@@ -5,7 +5,7 @@
     /*HERO SECTION*/
     $color = 'dark'; // 'dark' || 'light'
     $text_move = ' Tour 360 · Tour 360 ·';
-    $img_hero = '/assets/video-corporativo/conferencias.jpeg';
+    $img_hero = '/assets/video-corporativo/conferencias.webp';
     $description = 'Sumérgete en experiencias virtuales sin igual con nuestros tours 360 
                     y tours de realidad virtual (VR). Desde explorar destinos turísticos 
                     hasta recorridos inmersivos en propiedades inmobiliarias, ofrecemos 

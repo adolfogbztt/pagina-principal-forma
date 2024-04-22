@@ -5,7 +5,7 @@
     /*HERO SECTION*/
     $color = 'dark'; // 'dark' || 'light'
     $text_move = ' Productos · Productos ·';
-    $img_hero = '/assets/fotografia/productos.jpeg';
+    $img_hero = '/assets/fotografia/productos.webp';
     $description = 'Ofrecemos servicios de fotografía de productos, destacando sus características 
     y cualidades de manera profesional y atractiva para impulsar su comercialización y ventas.';
     /*END HERO SECTION*/

@@ -5,7 +5,7 @@
     /*HERO SECTION*/
     $color = 'dark'; // 'dark' || 'light'
     $text_move = ' Fotografía · Fotografía ·';
-    $img_hero = '/assets/fotografia/1eventos.jpg';
+    $img_hero = '/assets/fotografia/1eventos.webp';
     $description = 'Ofrecemos servicios de fotografía profesional, capturando momentos y productos con calidad 
                     y creatividad excepcionales para satisfacer las necesidades de nuestros clientes.';
     /*END HERO SECTION*/

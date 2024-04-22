@@ -5,7 +5,7 @@
     /*HERO SECTION*/
     $color = 'dark'; // 'dark' || 'light'
     $text_move = ' Spot Publicitario · Spot Publicitario ·';
-    $img_hero = '/assets/video-corporativo/spot-publicitario.jpg';
+    $img_hero = '/assets/video-corporativo/spot-publicitario.webp';
     $description = 'En Forma Producciones Audiovisuales, nos especializamos en la creación de spots 
                     publicitarios impactantes que capturan la esencia de tu marca y dejan una impresión 
                     duradera en la mente del espectador.';

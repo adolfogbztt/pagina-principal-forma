@@ -5,7 +5,7 @@
     /*HERO SECTION*/
     $color = 'dark'; // 'dark' || 'light'
     $text_move = ' Termografía · Termografía ·';
-    $img_hero = '/assets/drone/1termonometria.jpeg';
+    $img_hero = '/assets/drone/1termonometria.webp';
     $description = 'Llevamos la termografía a nuevas alturas con el uso de drones termografícos. Nuestra tecnología utiliza cámaras termográficas
                     montadas en drones para capturar imagenes térmicas desde elevadas alturas';
     /*END HERO SECTION*/

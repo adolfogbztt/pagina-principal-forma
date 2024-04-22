@@ -1,19 +1,19 @@
 @php
     $services = [
         [
-            'img' => '/assets/fotografia/corporativo.jpeg',
+            'img' => '/assets/fotografia/corporativo.webp',
             'title' => 'Corporativo',
             'description' => 'Descripcion',
             'link' => '/fotografia/corporativo',
         ],
         [
-            'img' => '/assets/fotografia/productos.jpeg',
+            'img' => '/assets/fotografia/productos.webp',
             'title' => 'Productos',
             'description' => 'Descripcion',
             'link' => '/fotografia/productos',
         ],
         [
-            'img' => '/assets/fotografia/publicidad.jpeg',
+            'img' => '/assets/fotografia/publicidad.webp',
             'title' => 'Publicidad',
             'description' => 'Descripcion',
             'link' => '/fotografia/publicidad',
@@ -25,7 +25,7 @@
             'link' => '/fotografia/fotografia',
         ],
         [
-            'img' => '/assets/fotografia/corporativo.jpeg',
+            'img' => '/assets/fotografia/corporativo.webp',
             'title' => 'Corporativo',
             'description' => 'Descripcion',
             'link' => '/fotografia/corporativo',

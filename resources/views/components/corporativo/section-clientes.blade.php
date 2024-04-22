@@ -32,20 +32,26 @@
     <!-- Clients Table -->
     <ul class="clients-table has-animation no-borders" data-delay="100">
         <li class="link">
-            <a target="_blank" href="https://www.cal.org.pe/v1/"><img src="/assets/clientes/principal/cal.png"
+            <a target="_blank" href="https://www.cal.org.pe/v1/"><img src="/assets/clientes/principal/cal.webp"
                     alt="client" style="max-width: 70%"></a>
+                    <p>Colegio de Abogado de Lima</p>
         </li>
         <li class="link">
             <a target="_blank" href="https://www.urp.edu.pe/"><img
-                    src="/assets/clientes/principal/uni_ricardo_palma.png" alt="client" style="max-width: 70%"></a>
+                    src="/assets/clientes/principal/uni_ricardo_palma.webp" alt="client" style="max-width: 70%"></a>
+                    <p>Universidad Ricardo Palma</p>
         </li>
         <li class="link">
-            <a target="_blank" href="https://www.ulima.edu.pe/"><img src="/assets/clientes/principal/unilima.png"
+            <a target="_blank" href="https://www.ulima.edu.pe/"><img src="/assets/clientes/principal/unilima.webp"
                     alt="client" style="max-width: 70%"></a>
+                    <p>Universidad de Lima</p>
+
         </li>
         <li class="link">
-            <a target="_blank" href="https://www.utp.edu.pe/web/"><img src="/assets/clientes/principal/UTP.png"
+            <a target="_blank" href="https://www.utp.edu.pe/web/"><img src="/assets/clientes/principal/UTP.webp"
                     alt="client" style="max-width: 70%"></a>
+                    <p>Universidad Tecnológica del Perú</p>
+
         </li>
     </ul>
     <!--/Clients Table -->
@@ -67,36 +73,36 @@
 <div class="clientes clients-table has-animation no-borders" data-delay="100""></div>
 <div class="logos">
     <div class="logos-slide">
-        <img src="/assets/clientes/empresas/Recurso 1.png" />
-        <img src="/assets/clientes/empresas/Recurso 2.png" />
-        <img src="/assets/clientes/empresas/Recurso 3.png" />
-        <img src="/assets/clientes/empresas/Recurso 4.png" />
-        <img src="/assets/clientes/empresas/Recurso 5.png" />
-        <img src="/assets/clientes/empresas/Recurso 6.png" />
-        <img src="/assets/clientes/empresas/Recurso 7.png" />
-        <img src="/assets/clientes/empresas/Recurso 8.png" />
-        <img src="/assets/clientes/empresas/Recurso 9.png" />
-        <img src="/assets/clientes/empresas/Recurso 10.png" />
-        <img src="/assets/clientes/empresas/Recurso 11.png" />
-        <img src="/assets/clientes/empresas/Recurso 13.png" />
-        <img src="/assets/clientes/empresas/Recurso 14.png" />
-        <img src="/assets/clientes/empresas/Recurso 15.png" />
-        <img src="/assets/clientes/empresas/Recurso 16.png" />
-        <img src="/assets/clientes/empresas/Recurso 17.png" />
-        <img src="/assets/clientes/empresas/Recurso 18.png" />
-        <img src="/assets/clientes/empresas/Recurso 19.png" />
-        <img src="/assets/clientes/empresas/Recurso 20.png" />
-        <img src="/assets/clientes/empresas/Recurso 21.png" />
-        <img src="/assets/clientes/empresas/Recurso 22.png" />
-        <img src="/assets/clientes/empresas/Recurso 23.png" />
-        <img src="/assets/clientes/empresas/Recurso 24.png" />
-        <img src="/assets/clientes/empresas/Recurso 25.png" />
-        <img src="/assets/clientes/empresas/Recurso 26.png" />
-        <img src="/assets/clientes/empresas/Recurso 27.png" />
-        <img src="/assets/clientes/empresas/Recurso 28.png" />
-        <img src="/assets/clientes/empresas/Recurso 29.png" />
-        <img src="/assets/clientes/empresas/Recurso 30.png" />
-        <img src="/assets/clientes/empresas/Recurso 31.png" />
+        <img src="/assets/clientes/empresas/Recurso 1.webp" />
+        <img src="/assets/clientes/empresas/Recurso 2.webp" />
+        <img src="/assets/clientes/empresas/Recurso 3.webp" />
+        <img src="/assets/clientes/empresas/Recurso 4.webp" />
+        <img src="/assets/clientes/empresas/Recurso 5.webp" />
+        <img src="/assets/clientes/empresas/Recurso 6.webp" />
+        <img src="/assets/clientes/empresas/Recurso 7.webp" />
+        <img src="/assets/clientes/empresas/Recurso 8.webp" />
+        <img src="/assets/clientes/empresas/Recurso 9.webp" />
+        <img src="/assets/clientes/empresas/Recurso 10.webp" />
+        <img src="/assets/clientes/empresas/Recurso 11.webp" />
+        <img src="/assets/clientes/empresas/Recurso 13.webp" />
+        <img src="/assets/clientes/empresas/Recurso 14.webp" />
+        <img src="/assets/clientes/empresas/Recurso 15.webp" />
+        <img src="/assets/clientes/empresas/Recurso 16.webp" />
+        <img src="/assets/clientes/empresas/Recurso 17.webp" />
+        <img src="/assets/clientes/empresas/Recurso 18.webp" />
+        <img src="/assets/clientes/empresas/Recurso 19.webp" />
+        <img src="/assets/clientes/empresas/Recurso 20.webp" />
+        <img src="/assets/clientes/empresas/Recurso 21.webp" />
+        <img src="/assets/clientes/empresas/Recurso 22.webp" />
+        <img src="/assets/clientes/empresas/Recurso 23.webp" />
+        <img src="/assets/clientes/empresas/Recurso 24.webp" />
+        <img src="/assets/clientes/empresas/Recurso 25.webp" />
+        <img src="/assets/clientes/empresas/Recurso 26.webp" />
+        <img src="/assets/clientes/empresas/Recurso 27.webp" />
+        <img src="/assets/clientes/empresas/Recurso 28.webp" />
+        <img src="/assets/clientes/empresas/Recurso 29.webp" />
+        <img src="/assets/clientes/empresas/Recurso 30.webp" />
+        <img src="/assets/clientes/empresas/Recurso 31.webp" />
 
 
     </div>
@@ -116,22 +122,22 @@
 <div class="clientes  clients-table has-animation no-borders" data-delay="100""></div>
 <div class="logos">
     <div class="logos-slide">
-        <img src="/assets/clientes/colegios/Recurso 32.png" />
-        <img src="/assets/clientes/colegios/Recurso 33.png" />
-        <img src="/assets/clientes/colegios/Recurso 34.png" />
-        <img src="/assets/clientes/colegios/Recurso 35.png" />
-        <img src="/assets/clientes/colegios/Recurso 36.png" />
-        <img src="/assets/clientes/colegios/Recurso 37.png" />
-        <img src="/assets/clientes/colegios/Recurso 38.png" />
-        <img src="/assets/clientes/colegios/Recurso 39.png" />
-        <img src="/assets/clientes/colegios/Recurso 40.png" />
-        <img src="/assets/clientes/colegios/Recurso 41.png" />
-        <img src="/assets/clientes/colegios/Recurso 42.png" />
-        <img src="/assets/clientes/colegios/Recurso 43.png" />
-        <img src="/assets/clientes/colegios/Recurso 44.png" />
-        <img src="/assets/clientes/colegios/Recurso 45.png" />
-        <img src="/assets/clientes/colegios/Recurso 46.png" />
-        <img src="/assets/clientes/colegios/Recurso 47.png" />
+        <img src="/assets/clientes/colegios/Recurso 32.webp" />
+        <img src="/assets/clientes/colegios/Recurso 33.webp" />
+        <img src="/assets/clientes/colegios/Recurso 34.webp" />
+        <img src="/assets/clientes/colegios/Recurso 35.webp" />
+        <img src="/assets/clientes/colegios/Recurso 36.webp" />
+        <img src="/assets/clientes/colegios/Recurso 37.webp" />
+        <img src="/assets/clientes/colegios/Recurso 38.webp" />
+        <img src="/assets/clientes/colegios/Recurso 39.webp" />
+        <img src="/assets/clientes/colegios/Recurso 40.webp" />
+        <img src="/assets/clientes/colegios/Recurso 41.webp" />
+        <img src="/assets/clientes/colegios/Recurso 42.webp" />
+        <img src="/assets/clientes/colegios/Recurso 43.webp" />
+        <img src="/assets/clientes/colegios/Recurso 44.webp" />
+        <img src="/assets/clientes/colegios/Recurso 45.webp" />
+        <img src="/assets/clientes/colegios/Recurso 46.webp" />
+        <img src="/assets/clientes/colegios/Recurso 47.webp" />
 
     </div>
 </div>

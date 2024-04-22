@@ -5,7 +5,7 @@
     /*HERO SECTION*/
     $color = 'light'; // 'dark' || 'light'
     $text_move = ' Cartografia · Cartografia ·';
-    $img_hero = '/assets/drone/2cartografia.jpg';
+    $img_hero = '/assets/drone/2cartografia.webp';
     $description = 'Ofrecemos servicios de cartografía en 2D y 3D para empresas que
                     buscan una representación precisa y detallada del terreno. 
                     Somos expertos en tecnología avanzada para crear mapas digitales 

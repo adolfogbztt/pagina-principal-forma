@@ -5,7 +5,7 @@
     /*HERO SECTION*/
     $color = 'dark'; // 'dark' || 'light'
     $text_move = ' Cafetera Automática · Cafetera Automática ·';
-    $img_hero = '/assets/video-corporativo/conferencias.jpeg';
+    $img_hero = '/assets/video-corporativo/conferencias.webp';
     $description = 'Nos complace ofrecer una experiencia exclusiva como 
                     parte de nuestro servicio de catering corporativo, especialmente diseñado para 
                     nuestros clientes más valiosos. Presentamos con orgullo la cafetera automática JURA. 

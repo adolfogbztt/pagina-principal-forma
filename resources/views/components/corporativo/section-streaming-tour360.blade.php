@@ -1,20 +1,20 @@
 @php
     $services = [
         [
-            'img' => '/assets/video-corporativo/conferencias.jpeg',
+            'img' => '/assets/video-corporativo/conferencias.webp',
             'title' => 'Streaming',
             'description' => 'Descripcion',
             'link' => '/streaming-tours360/streaming',
         ],
         [
-            'img' => '/assets/video-corporativo/spot-publicitario.jpg',
+            'img' => '/assets/video-corporativo/spot-publicitario.webp',
             'title' => 'Tour 360',
             'description' => 'Descripcion',
             'link' => '/streaming-tours360/tour360',
             // 'video' => '/assets/ejemplo',
         ],
         [
-            'img' => '/assets/video-corporativo/conferencias.jpeg',
+            'img' => '/assets/video-corporativo/conferencias.webp',
             'title' => 'Streaming',
             'description' => 'Descripcion',
             'link' => '/streaming-tours360/streaming',
@@ -42,7 +42,7 @@
 
     <div class="one_half last">
         {{-- <video src='/assets/drone/vid-drone2.mov' className="item-image grayscale60" autoPlay muted loop></video> --}}
-        <img src='/assets/img-corporativo/streaming.jpg' className="item-image grayscale60" autoPlay muted loop></img>
+        <img src='/assets/img-corporativo/streaming.webp' className="item-image grayscale60" autoPlay muted loop></img>
     </div>
 
 </div>

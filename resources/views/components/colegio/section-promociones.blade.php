@@ -3,7 +3,7 @@
     <a href="/colegios/promocion" class="ajax-link" data-type="page-transition">
         <div class="one_half">
             <h1 class="has-mask-fill">
-                Promociones
+                Promoción
             </h1>
             <p class="has-animation" data-delay="50">La graduación es un momento
                 emocionante en la vida de cualquier estudiante, marcando el final de una

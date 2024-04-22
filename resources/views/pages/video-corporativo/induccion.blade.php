@@ -5,7 +5,7 @@
     /*HERO SECTION*/
     $color = 'dark'; // 'dark' || 'light'
     $text_move = ' Inducción · Inducción ·';
-    $img_hero = '/assets/video-corporativo/induccion.jpeg';
+    $img_hero = '/assets/video-corporativo/induccion.webp';
     $description = 'En Forma Producciones Audiovisuales, entendemos la importancia de estos momentos y 
                     nos comprometemos a crear videos de inducción que informen, inspiren y conecten a los 
                     participantes desde el primer día.';

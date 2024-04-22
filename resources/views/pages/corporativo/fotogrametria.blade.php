@@ -5,7 +5,7 @@
     /*HERO SECTION*/
     $color = 'dark'; // 'dark' || 'light'
     $text_move = ' Fotogrametría · Fotogrametría ·';
-    $img_hero = '/assets/drone/1fotogrametria.jpeg';
+    $img_hero = '/assets/drone/1fotogrametria.webp';
     $description = 'Nuestro servicio de fotogrametría utiliza tecnología de vanguardia para capturar datos 
     precisos del mundo real y convertirlos en modelos 3D detallados. Ya sea para cartografía, inspección 
     de sitios o creación de contenido visual, ofrecemos soluciones precisas y personalizadas que 

@@ -5,7 +5,7 @@
     /*HERO SECTION*/
     $color = 'dark'; // 'dark' || 'light'
     $text_move = ' Documentales · Documentales ·';
-    $img_hero = '/assets/video-corporativo/documentales.jpeg';
+    $img_hero = '/assets/video-corporativo/documentales.webp';
     $description = 'Los documentales tienen el poder único de transportar a los espectadores a nuevos 
                     mundos, contar historias fascinantes y explorar temas importantes de una manera 
                     profunda y significativa. En Forma Producciones Audiovisuales, estamos apasionados 

@@ -5,7 +5,7 @@
     /*HERO SECTION*/
     $color = 'dark'; // 'dark' || 'light'
     $text_move = ' Conferencias · Conferencias ·';
-    $img_hero = '/assets/video-corporativo/conferencias.jpeg';
+    $img_hero = '/assets/video-corporativo/conferencias.webp';
     $description = 'Las conferencias son mucho más que simples eventos; son oportunidades para compartir conocimientos, experiencias y perspectivas que pueden inspirar y transformar vidas. En Forma Producciones Audiovisuales, entendemos la importancia de capturar cada momento de estos encuentros significativos, 
                     desde las presentaciones magistrales hasta las interacciones entre los asistentes. ';
     /*END HERO SECTION*/

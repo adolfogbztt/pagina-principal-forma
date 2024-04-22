@@ -5,7 +5,7 @@
     /*HERO SECTION*/
     $color = 'dark'; // 'dark' || 'light'
     $text_move = ' Institucional · Institucional ·';
-    $img_hero = '/assets/video-corporativo/institucional.jpg';
+    $img_hero = '/assets/video-corporativo/institucional.webp';
     $description = 'Los videos institucionales son una poderosa herramienta de comunicación que permite a 
                     las organizaciones transmitir su identidad, misión y valores de una manera efectiva 
                     y convincente.';

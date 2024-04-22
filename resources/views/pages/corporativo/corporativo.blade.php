@@ -5,7 +5,7 @@
     /*HERO SECTION*/
     $color = 'dark'; // 'dark' || 'light'
     $text_move = ' Corporativo · Corporativo ·';
-    $img_hero = '/assets/drone/corporativo.jpeg';
+    $img_hero = '/assets/drone/corporativo.webp';
     $description = 'Captura momentos inolvidables con tomas aéreas en calidad 4K y Full HD. Nuestros 
                     pilotos expertos están preparados para elevar tus eventos, cubriendo una amplia gama de ocasiones 
                     empresariales.';
