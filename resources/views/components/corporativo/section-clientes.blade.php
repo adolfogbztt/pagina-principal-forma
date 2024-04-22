@@ -34,7 +34,7 @@
         <li class="link">
             <a target="_blank" href="https://www.cal.org.pe/v1/"><img src="/assets/clientes/principal/cal.webp"
                     alt="client" style="max-width: 70%"></a>
-                    <p>Colegio de Abogado de Lima</p>
+                    <p>Colegio de Abogados de Lima</p>
         </li>
         <li class="link">
             <a target="_blank" href="https://www.urp.edu.pe/"><img

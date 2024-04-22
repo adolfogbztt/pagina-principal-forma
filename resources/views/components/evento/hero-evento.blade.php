@@ -4,17 +4,17 @@
             <div class="inner">
                 <div class="hero-arrow"><i class="arrow-icon"></i></div>
                 <div class="hero-subtitle">
-                    <span>Forma</span>
-                    <span>Producciones Audiovisuales</span>
-                    <span>Colegios</span>
+                    <span>Forma Producciones Audiovisuales</span>
+                    {{-- <span>Producciones Audiovisuales</span> --}}
+                    <span>Eventos</span>
                 </div>
                 <div class="hero-title-wrapper">
                     <div class="hero-title">
-                        <span>Promoción</span>
-                        <span>Confirmación</span>
-                        <span>Comunión</span>
-                        <span>Kinder</span>
-                        <span>Photobooks</span>
+                        <span>Bodas</span>
+                        <span>15 Años</span>
+                        <span>Cumpleaños</span>
+                        <span>Incorporación</span>
+                        <span>Entrevistas</span>
                     </div>
                 </div>
             </div>

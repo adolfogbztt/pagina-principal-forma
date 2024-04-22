@@ -10,11 +10,11 @@
                 </div>
                 <div class="hero-title-wrapper">
                     <div class="hero-title">
-                        <span>Producción </span>
-                        <span>Fotografía </span>
+                        <span>Producción</span>
+                        <span>Fotografía</span>
                         <span>Diseño</span>
                         <span>Eventos</span>
-                        <span>Impresiones</span>
+                        <span>Impresión</span>
                     </div>
                 </div>
             </div>

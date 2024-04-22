@@ -52,8 +52,7 @@
                             </li>
                             <li class="link menu-timeline"><a class="ajax-link" data-type="page-transition"
                                     href="/nosotros">
-                                    <div class="before-span"><span data-hover="Acerca de Nosotros">Acerca de
-                                            Nosotros</span></div>
+                                    <div class="before-span"><span data-hover="Nosotros">Nosotros</span></div>
                                 </a>
                             </li>
                             <li class="link menu-timeline"><a class="ajax-link" data-type="page-transition"

@@ -24,10 +24,10 @@
             <div id="hero-caption" class="content-max-width parallax-onscroll">
                 <div class="inner">
                     <div class="hero-arrow"><i class="arrow-icon"></i></div>
-                    <h5 class="hero-subtitle"><span>Descubre</span></h5>
+                    <h5 class="hero-subtitle"><span>Forma</span></h5>
                     <div class="hero-title-wrapper">
                         <h1 class="hero-title">
-                            <h2>Nuestra Historia</h2>
+                            <h2>Nosotros</h2>
                         </h1>
                     </div>
                 </div>
@@ -45,11 +45,15 @@
         <blockquote>
             <h3>Forma Producciones Audiovisuales</h3>
         </blockquote>
-        <p class="has-indent">Somos una productora audiovisual con más de 29 años realizando trabajos artísticos, cubriendo
-            cada evento especial para usted o su compañía. Nos sentimos orgullos de brindarles un servicio
-            integral desde el día del evento hasta la producción de los recuerdos y merchandising. Cuidando
-            cada detalle de nuestro servicio y la calidad de los materiales utilizados. Con el fin de que sus
-            recuerdos perduren en el tiempo.</p>
+        <p class="has-indent">Somos una Productora Audiovisual con más de 30 años de experiencia en cubrir la producción y
+            postproducción de eventos en el mercado peruano, asegurándonos de entregar la mejor calidad en foto, video e
+            impresiones, gracias a que contamos con nuestros propios equipos de última tecnología.</p>
+
+        <p>liderando la industria audiovisual en el mercado peruano. Somos una productora especializada
+            en la producción y postproducción de eventos, utilizando tecnología de vanguardia y equipos audiovisuales de
+            última generación, incluyendo drones para tomas aéreas, streaming en vivo para llegar a audiencias globales y
+            experiencias inmersivas con tour 360. Nuestro enfoque se centra en ofrecer servicios de máxima calidad en
+            fotografía, video e impresiones.</p>
         <br>
         <!-- Row -->
         <!-- Row -->
@@ -78,7 +82,7 @@
                 <h3 class="has-animation has-icon">Misión</h3>
             </div>
 
-            <div class="two_fourth">
+            <div class="two_fourth" style="border-radius: 30px">
                 <p class="has-animation" data-delay="50"><mark>➤ Ser el socio estratégico de nuestros clientes con
                         personal profesional, planificando, asesorando y ayudando a sus clientes, enfatizando la
                         gestión audiovisual y brindando soluciones adaptada al éxito de nuestros clientes.</mark></p>
@@ -105,7 +109,7 @@
 
         <div class="content-row row_padding_bottom light-section" data-bgcolor="#fff">
 
-            <h5 class="has-mask no-margins">Nos destacamos en los siguientes aspectos:</h5>
+            <h5 class="has-mask no-margins">Somos especialistas en:</h5>
 
             <hr>
 
@@ -201,7 +205,7 @@
 
 
             <div class="one_fourth">
-                
+
             </div>
 
             <div class="two_fourth">

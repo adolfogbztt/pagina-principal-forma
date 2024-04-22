@@ -71,6 +71,14 @@ Route::get('/colegios', function () {
     return view('colegio', compact('faq'));
 });
 
+Route::get('/eventos', function () {
+
+    $faq = [
+    ];
+
+    return view('evento', compact('faq'));
+});
+
 Route::get('/contacto', function () {
     return view('pages.contacto');
 });
