@@ -4,14 +4,14 @@
             <div class="inner">
                 <div class="hero-arrow"><i class="arrow-icon"></i></div>
                 <div class="hero-subtitle">
-                    <span>Forma</span>
-                    <span>Producciones Audiovisuales</span>
+                    <span>Forma Producciones Audiovisuales</span>
+                    {{-- <span>Producciones Audiovisuales</span> --}}
                     <span>Soluciones Corporativas</span>
                 </div>
                 <div class="hero-title-wrapper">
                     <div class="hero-title">
                         <span>Producción </span>
-                        <span>Fotografia </span>
+                        <span>Fotografía </span>
                         <span>Diseño</span>
                         <span>Eventos</span>
                         <span>Impresiones</span>
@@ -52,7 +52,7 @@
                                 <i class="fa-solid fa-arrow-right"></i>
                             </div>
                         </div>
-                        <a class="ajax-link" href="about.html" data-type="page-transition">
+                        <a class="ajax-link" href="/nosotros" data-type="page-transition">
                             <div class="button-text sticky right"><span data-hover="Read More">Conocer Mas</span></div>
                         </a>
                     </div>

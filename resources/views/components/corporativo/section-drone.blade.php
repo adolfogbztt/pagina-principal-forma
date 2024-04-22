@@ -34,9 +34,12 @@
 
     <div class="one_half">
         <h1 class="has-mask-fill">Drone</h1>
-        <p class="has-animation" data-delay="50">Estamos a la vanguardia de la tecnología. 
-            Contamos con los mejores drones en el mercado, ofreciendo servicios con 
-            especialistas calificados.
+        <p class="has-animation" data-delay="50">Nuestro servicio de drone te ofrece una experiencia 
+            audiovisual única y sorprendente. Con tecnología de vanguardia y pilotos expertos, somos 
+            especialistas en Fotogrametría y Termografía Aérea Avanzada, Cartografía 2D y 3D, Ortofotografía, 
+            así como en producciones cinematográficas y eventos. También ofrecemos soluciones para proyectos 
+            de ingeniería, energía, construcción, industriales, urbanismo, vialidad, agricultura, forestales 
+            y medio ambiente.
         </p>
     </div>
 
