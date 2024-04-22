@@ -97,27 +97,30 @@
                 </div>
             </div>
 
-            <div class="button-box has-animation" data-delay="100">
-                <div class="clapat-button-wrap parallax-wrap hide-ball">
-                    <div class="clapat-button parallax-element">
-                        <div class="button-border rounded parallax-element-second">
-                            <a target="_blank" href="http://citas.formaproducciones.com/">
-                                <span data-hover="Citas">Citas</span>
-                             </a>
+
+            @if (Illuminate\Support\Str::contains(request()->path(), 'colegios'))
+                <div class="button-box has-animation" data-delay="100">
+                    <div class="clapat-button-wrap parallax-wrap hide-ball">
+                        <div class="clapat-button parallax-element">
+                            <div class="button-border rounded parallax-element-second">
+                                <a target="_blank" href="http://citas.formaproducciones.com/">
+                                    <span data-hover="Citas">Citas</span>
+                                </a>
+                            </div>
                         </div>
                     </div>
                 </div>
-            </div>
+            @endif
 
             {{-- <div class="button-text sticky right"><span data-hover="Menu">Menu</span></div> --}}
 
 
         </div>
 
-{{-- 
+        {{-- 
         <a class="button-wrap right citas_button" href="http://citas.formaproducciones.com/">Citas</a> --}}
         <!--/Menu Burger -->
-        
+
     </div>
 </header>
 <!--/Header -->
