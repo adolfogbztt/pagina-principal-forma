@@ -121,7 +121,7 @@
 }
 
 .citas_button {
-  margin-top: 20px !important;
+  margin-top: 20px !important; /* Mantienes el margen superior original */
   background-color: black;
   padding-top: 12px;
   padding-bottom: 12px;
@@ -130,6 +130,26 @@
   border-radius: 20px;
   font-weight: bold;
   /* border-color: white; */
+}
+
+/* Agregamos reglas para dispositivos con ancho menor a 768px (puedes ajustar este valor según tus necesidades) */
+@media (max-width: 390px) {
+  .button-box {
+    margin-top: 20px; /* Ajustamos el espacio entre el botón y el header */
+  }
+
+  .citas_button {
+    position: relative;
+    margin-top: 0;
+    margin-bottom: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 10px; /* Reducimos el tamaño de la fuente */
+    padding-top: 5px; /* Reducimos el relleno superior */
+    padding-bottom: 5px; /* Reducimos el relleno inferior */
+    padding-left: 10px; /* Reducimos el relleno izquierdo */
+    padding-right: 10px; /* Reducimos el relleno derecho */
+  }
 }
 
 /*Clientes*/
