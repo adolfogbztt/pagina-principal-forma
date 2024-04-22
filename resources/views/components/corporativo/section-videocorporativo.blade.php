@@ -36,6 +36,12 @@
             'description' => 'Descripcion',
             'link' => '/video-corporativo/documentales',
         ],
+        [
+            'img' => '/assets/video-corporativo/conferencias.jpeg',
+            'title' => 'Conferencias',
+            'description' => 'Descripcion',
+            'link' => '/video-corporativo/conferencias',
+        ]
     ];
 @endphp
 

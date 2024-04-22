@@ -18,6 +18,12 @@
             'description' => 'Descripcion',
             'link' => '/impresiones/credenciales',
         ],
+        [
+            'img' => '/assets/video-corporativo/conferencias.jpeg',
+            'title' => 'Photobooks',
+            'description' => 'Descripcion',
+            'link' => '/impresiones/photobook',
+        ]
     ];
 @endphp
 

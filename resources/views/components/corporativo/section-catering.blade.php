@@ -12,6 +12,12 @@
             'description' => 'Descripcion',
             'link' => '/catering-corporativo/cafetera',
         ],
+        [
+            'img' => '/assets/video-corporativo/conferencias.jpeg',
+            'title' => 'Catering',
+            'description' => 'Descripcion',
+            'link' => '/catering-corporativo/catering',
+        ]
     ];
 @endphp
 

@@ -13,6 +13,12 @@
             'link' => '/streaming-tours360/tour360',
             // 'video' => '/assets/ejemplo',
         ],
+        [
+            'img' => '/assets/video-corporativo/conferencias.jpeg',
+            'title' => 'Streaming',
+            'description' => 'Descripcion',
+            'link' => '/streaming-tours360/streaming',
+        ]
     ];
 @endphp
 

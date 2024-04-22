@@ -24,6 +24,12 @@
             'description' => 'Descripcion',
             'link' => '/fotografia/fotografia',
         ],
+        [
+            'img' => '/assets/fotografia/corporativo.jpeg',
+            'title' => 'Corporativo',
+            'description' => 'Descripcion',
+            'link' => '/fotografia/corporativo',
+        ]
     ];
 @endphp
 
