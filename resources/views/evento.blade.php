@@ -12,27 +12,10 @@
 @endsection
 
 @section('content')
-    {{-- <div class="content-row full light-section" data-bgcolor="#fff">
-        @include('components.evento.section-promociones')
-    </div>
 
-    <div class="content-row full light-section" data-bgcolor="#fff">
-        @include('components.evento.section-comunion')
-    </div>
+    
 
-    <div class="content-row full dark-section" data-bgcolor="#000">
-        @include('components.evento.section-confirmacion')
-    </div>
-
-    <div class="content-row full light-section" data-bgcolor="#fff">
-        @include('components.evento.section-kinder')
-    </div>
-
-    <div class="content-row full dark-section" data-bgcolor="#000">
-        @include('components.evento.section-productos')
-    </div> --}}
-
-    <div class="content-row full dark-section" data-bgcolor="#000">
+    {{-- <div class="content-row full dark-section" data-bgcolor="#000">
         @include('components.corporativo.section-clientes')
-    </div>
+    </div> --}}
 @endsection

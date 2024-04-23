@@ -1,86 +1,138 @@
-<div id="hero" class="has-image">
-    <div id="hero-styles">
-        <div id="hero-caption" class="content-max-width">
-            <div class="inner">
-                <div class="hero-arrow"><i class="arrow-icon"></i></div>
-                <div class="hero-subtitle">
-                    <span>Forma Producciones Audiovisuales</span>
-                    {{-- <span>Producciones Audiovisuales</span> --}}
-                    <span>Eventos</span>
-                </div>
-                <div class="hero-title-wrapper">
-                    <div class="hero-title">
-                        <span>Bodas</span>
-                        <span>15 Años</span>
-                        <span>Cumpleaños</span>
-                        <span>Incorporación</span>
-                        <span>Entrevistas</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div id="hero-footer">
-            <div class="hero-footer-right">
-                <div class="button-wrap right scroll-down">
-                    <div class="icon-wrap parallax-wrap">
-                        <div class="button-icon parallax-element">
-                            <i class="fa fa-angle-down"></i>
+<!-- Main Content -->
+<div id="main-content">
+                        
+                                                        
+    <!-- Showcase Slider Holder -->
+    <div id="showcase-carousel-holder">                                                            
+        <div id="itemsWrapperLinks"> 
+            <div id="showcase-carousel" class="swiper-container">                                
+                <div id="itemsWrapper" class="swiper-wrapper webgl-fitthumbs fx-one">
+                
+                    <div class="swiper-slide trigger-item">
+                        <div class="img-mask">
+                            <div class="section-image">
+                                <img src="/assets/eventos/15años.webp" class="item-image grid__item-img" alt="">
+                            </div>                                                
+                            <img src="/assets/eventos/15años-bw.webp" class="grid__item-img grid__item-img--large" alt="">                              
                         </div>
-                    </div>
-                    <div class="button-text sticky right"><span data-hover="Bajar">Bajar</span></div>
-                </div>
-            </div>
-        </div>
-        <div id="hero-description" class="content-max-width">
-            <div class="inner">
-                <div class="one_half"></div>
-                <div class="one_half last">
-                    <div class="hero-text">
-                        <span>
-                            Somos una Productora Audiovisual con mas de 30 años de
-                            experiencia en cubrir la producción y postproducción de
-                            eventos en el mercado peruano.
-                            <br />
-                            <br /> Nuestro enfoque se centra en ofrecer servicios de
-                            máxima calidad en fotografía, videos e impresiones.
-                        </span>
-                    </div>
-                    <br>
-                    <div class="button-wrap right button-link large-btn has-animation">
-                        <div class="icon-wrap parallax-wrap">
-                            <div class="button-icon parallax-element">
-                                <i class="fa-solid fa-arrow-right"></i>
+                        <div class="outer">
+                            <div class="inner">
+                                <div class="slide-arrow"><span><i class="arrow-icon"></i></span></div>
+                                <div class="slide-subtitle"><span>2022</span><span>Eventos</span></div>
+                                <div class="slide-title-wrapper">
+                                    <div class="slide-title trigger-item-link" data-color="#95121e" data-firstline="View" data-secondline="Project"><span>Mis</span><span>Quince</span><span>Años</span></div>
+                                    <a class="slide-link" data-type="page-transition" href="project01.html"></a>
+                                </div>                                                    
                             </div>
-                        </div>
-                        <a class="ajax-link" href="about.html" data-type="page-transition">
-                            <div class="button-text sticky right"><span data-hover="Read More">Conocer Mas</span></div>
-                        </a>
+                         </div>
                     </div>
-                </div>
+                    
+                    
+                    <div class="swiper-slide trigger-item">
+                        <div class="img-mask">
+                            <div class="section-image">
+                                <img src="/assets/eventos/boda2-bw.webp" class="item-image grid__item-img" alt="">
+                            </div>                                                
+                            <img src="/assets/eventos/boda2-bw.webp" class="grid__item-img grid__item-img--large" alt="">                              
+                        </div>
+                        <div class="outer">
+                            <div class="inner">
+                                <div class="slide-arrow"><span><i class="arrow-icon"></i></span></div>
+                                <div class="slide-subtitle"><span>2021</span><span>Eventos</span></div>
+                                <div class="slide-title-wrapper">
+                                    <div class="slide-title trigger-item-link" data-color="#963a8d" data-firstline="View" data-secondline="Project"><span>Design</span><span>Experience</span></div>
+                                    <a class="slide-link" data-type="page-transition" href="project02.html"></a>
+                                </div>
+                            </div>
+                         </div>
+                    </div>
+                    
+                    
+                    <div class="swiper-slide trigger-item change-header">
+                        <div class="img-mask">
+                            <div class="section-image">
+                                <img src="/assets/eventos/boda1.webp" class="item-image grid__item-img" alt="">
+                            </div>                                                
+                            <img src="/assets/eventos/boda1.webp" class="grid__item-img grid__item-img--large" alt="">                              
+                        </div>
+                        <div class="outer">
+                            <div class="inner">
+                                <div class="slide-arrow"><span><i class="arrow-icon"></i></span></div>
+                                <div class="slide-subtitle"><span>2022</span><span>Eventos</span></div>
+                                <div class="slide-title-wrapper">
+                                    <div class="slide-title trigger-item-link" data-color="#a77e69" data-firstline="View" data-secondline="Project"><span>Mi</span><span>Boda</span><span></span></div>
+                                    <a class="slide-link" data-type="page-transition" href="project03.html"></a>
+                                </div>
+                            </div>
+                         </div> 
+                    </div>
+                    
+                    
+                    <div class="swiper-slide trigger-item">
+                        <div class="img-mask">
+                            <div class="section-image">
+                                <img src="/assets/eventos/cumple-bw.webp" class="item-image grid__item-img" alt="">
+                            </div>                                                
+                            <img src="/assets/eventos/cumple-bw.webp" class="grid__item-img grid__item-img--large" alt="">                              
+                        </div>
+                        <div class="outer">
+                            <div class="inner">
+                                <div class="slide-arrow"><span><i class="arrow-icon"></i></span></div>
+                                <div class="slide-subtitle"><span>2022</span><span>Brand Identity</span></div>
+                                <div class="slide-title-wrapper">
+                                    <div class="slide-title trigger-item-link" data-color="#3d5662" data-firstline="View" data-secondline="Project"><span>Heart</span><span>Of Ocean</span></div>
+                                    <a class="slide-link" data-type="page-transition" href="project04.html"></a>
+                                </div>
+                            </div>
+                         </div> 
+                    </div>
+                    
+                    
+                    <div class="swiper-slide trigger-item">
+                        <div class="img-mask">
+                            <div class="section-image">
+                                <img src="/assets/eventos/cumple1.webp" class="item-image grid__item-img" alt="">
+                            </div>                                                
+                            <img src="/assets/eventos/cumple1.webp" class="grid__item-img grid__item-img--large" alt="">                              
+                        </div>
+                        <div class="outer">
+                            <div class="inner">
+                                <div class="slide-arrow"><span><i class="arrow-icon"></i></span></div>
+                                <div class="slide-subtitle"><span>2022</span><span>Brand Identity</span></div>
+                                <div class="slide-title-wrapper">
+                                    <div class="slide-title trigger-item-link" data-color="#7a8039" data-firstline="View" data-secondline="Project"><span>Mi</span><span>Cumpleaño</span><span></span></div>
+                                    <a class="slide-link" data-type="page-transition" href="project05.html"></a>
+                                </div>
+                            </div>
+                         </div> 
+                    </div>
+                    
+                    
+                    <div class="swiper-slide trigger-item">
+                        <div class="img-mask">
+                            <div class="section-image">
+                                <img src="/assets/eventos/15años-bw.webp" class="item-image grid__item-img" alt="">
+                            </div>                                                
+                            <img src="/assets/eventos/15años-bw.webp" class="grid__item-img grid__item-img--large" alt="">                              
+                        </div>
+                        <div class="outer">
+                            <div class="inner">
+                                <div class="slide-arrow"><span><i class="arrow-icon"></i></span></div>
+                                <div class="slide-subtitle"><span>2022</span><span>Eventos</span></div>
+                                <div class="slide-title-wrapper">
+                                    <div class="slide-title trigger-item-link" data-color="#af8b6f" data-firstline="View" data-secondline="Project"><span>Mis</span><span>Quince</span><span>Años</span></div>
+                                    <a class="slide-link" data-type="page-transition" href="project06.html"></a>
+                                </div>
+                            </div>
+                         </div>  
+                    </div>                                      
+                    
+                </div>                                  
             </div>
-        </div>
-    </div>
+        </div>                                                           
+    </div>    
+    <!-- Showcase Slider Holder -->
+                     
+            
 </div>
-
-
-<div id="hero-image-wrapper">
-    <div id="hero-background-layer" class="parallax-scroll-image">
-        <div id="hero-bg-image">
-            <video muted autoplay loop
-                style="
-                        position: fixed;
-                        top: 50%;
-                        left: 50%;
-                        transform: translate(-50%, -50%);
-                        min-width: 100%;
-                        min-height: 100%;
-                        width: auto;
-                        height: auto;
-                        z-index: -100;
-                        filter: brightness(0.30);">
-                <source src="/assets/colegios/hero_video.mp4" type="video/mp4" />
-                Tu navegador no soporta la etiqueta de video.
-            </video>
-        </div>
-    </div>
-</div>
+<!--/Main Content --> 

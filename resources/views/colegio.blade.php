@@ -1,4 +1,4 @@
-@extends('layouts.default', [
+@extends('layouts.colegios', [
     'description' => '
     ¡Forma Producciones Audiovisuales, expertos en capturar la esencia de cada evento escolar!
     Con más de 30 años de experiencia, ofrecemos servicios integrales de fotografía, video y dron.
