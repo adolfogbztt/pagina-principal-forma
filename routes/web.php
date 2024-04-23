@@ -73,8 +73,7 @@ Route::get('/colegios', function () {
 
 Route::get('/eventos', function () {
 
-    $faq = [
-    ];
+    $faq = [];
 
     return view('evento', compact('faq'));
 });
@@ -279,8 +278,7 @@ Route::get('/fotografia/publicidad', function () {
 
 Route::get('/fotografia/fotografia', function () {
 
-    $faq = [
-    ];
+    $faq = [];
 
     return view('pages.fotografia.f_fotografia', compact('faq'));
 });
@@ -335,14 +333,23 @@ Route::get('/video-corporativo/documentales', function () {
 });
 
 Route::get('/video-corporativo/eventos', function () {
+
+    $faq = [];
+
     return view('pages.video-corporativo.eventos', compact('faq'));
 });
 
 Route::get('/video-corporativo/induccion', function () {
+
+    $faq = [];
+
     return view('pages.video-corporativo.induccion', compact('faq'));
 });
 
 Route::get('/video-corporativo/institucional', function () {
+
+    $faq = [];
+
     return view('pages.video-corporativo.institucional', compact('faq'));
 });
 
@@ -409,24 +416,39 @@ Route::get('/streaming-tours360/tour360', function () {
 
 // Impreciones
 Route::get('/impresiones/credenciales', function () {
-    return view('pages.impresiones.credenciales');
+
+    $faq = [];
+
+    return view('pages.impresiones.credenciales', compact('faq'));
 });
 
 Route::get('/impresiones/photobook', function () {
-    return view('pages.impresiones.photobook');
+
+    $faq = [];
+
+    return view('pages.impresiones.photobook', compact('faq'));
 });
 
 Route::get('/impresiones/titulosdiplomas', function () {
-    return view('pages.impresiones.titulos_diplomas');
+
+    $faq = [];
+
+    return view('pages.impresiones.titulos_diplomas', compact('faq'));
 });
 
 // Catering Corporativo
 Route::get('/catering-corporativo/cafetera', function () {
-    return view('pages.catering-corporativo.cafetera_automatica');
+
+    $faq = [];
+
+    return view('pages.catering-corporativo.cafetera_automatica', compact('faq'));
 });
 
 Route::get('/catering-corporativo/catering', function () {
-    return view('pages.catering-corporativo.catering');
+
+    $faq = [];
+
+    return view('pages.catering-corporativo.catering', compact('faq'));
 });
 
 // Colegios /Blogs colegios
@@ -434,40 +456,64 @@ Route::get('/catering-corporativo/catering', function () {
 
 // Promociones
 Route::get('/colegios/promocion', function () {
-    return view('pages.colegios.promocion');
+
+    $faq = [];
+
+    return view('pages.colegios.promocion', compact('faq'));
 });
 
 // Comuniones
 Route::get('/colegios/comunion', function () {
-    return view('pages.colegios.comunion');
+
+    $faq = [];
+
+    return view('pages.colegios.comunion', compact('faq'));
 });
 
 // Confirmación
 Route::get('/colegios/confirmacion', function () {
-    return view('pages.colegios.confirmacion');
+
+    $faq = [];
+
+    return view('pages.colegios.confirmacion', compact('faq'));
 });
 
 // Kinder
 Route::get('/colegios/kinder', function () {
-    return view('pages.colegios.kinder');
+
+    $faq = [];
+
+    return view('pages.colegios.kinder', compact('faq'));
 });
 
 // Photobook 20X20
 Route::get('/colegios/p20', function () {
-    return view('pages.colegios.photobook20');
+
+    $faq = [];
+
+    return view('pages.colegios.photobook20', compact('faq'));
 });
 
 // Photobook 25X25
 Route::get('/colegios/p25', function () {
-    return view('pages.colegios.photobook25');
+
+    $faq = [];
+
+    return view('pages.colegios.photobook25', compact('faq'));
 });
 
 // Photobook 30X30
 Route::get('/colegios/p30', function () {
-    return view('pages.colegios.photobook30');
+
+    $faq = [];
+
+    return view('pages.colegios.photobook30', compact('faq'));
 });
 
 // Photobook A4
 Route::get('/colegios/pa4', function () {
-    return view('pages.colegios.photobookA4');
+
+    $faq = [];
+
+    return view('pages.colegios.photobookA4', compact('faq'));
 });
