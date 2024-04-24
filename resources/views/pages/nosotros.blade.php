@@ -45,15 +45,15 @@
         <blockquote>
             <h3>Forma Producciones Audiovisuales</h3>
         </blockquote>
-        <p class="has-indent">Somos una Productora Audiovisual con más de 30 años de experiencia en cubrir la producción y
-            postproducción de eventos en el mercado peruano, asegurándonos de entregar la mejor calidad en foto, video e
-            impresiones, gracias a que contamos con nuestros propios equipos de última tecnología.</p>
+        <p class="has-indent">Con 31 años de trayectoria en la industria audiovisual, en Forma Producciones lideramos el
+            mercado peruano con excelencia y experiencia. Ofrecemos servicios integrales de producción y
+            postproducción de eventos, respaldados por tecnología de vanguardia y un equipo altamente
+            capacitado.</p>
 
-        <p>liderando la industria audiovisual en el mercado peruano. Somos una productora especializada
-            en la producción y postproducción de eventos, utilizando tecnología de vanguardia y equipos audiovisuales de
-            última generación, incluyendo drones para tomas aéreas, streaming en vivo para llegar a audiencias globales y
-            experiencias inmersivas con tour 360. Nuestro enfoque se centra en ofrecer servicios de máxima calidad en
-            fotografía, video e impresiones.</p>
+        <p>Fusionamos calidad, innovación y creatividad en cada proyecto, utilizando recursos
+            avanzados como drones para tomas aéreas, streaming en vivo y experiencias inmersivas.
+            Nuestro compromiso es superar las expectativas de nuestros clientes con soluciones
+            personalizadas y resultados excepcionales.</p>
         <br>
         <!-- Row -->
         <!-- Row -->

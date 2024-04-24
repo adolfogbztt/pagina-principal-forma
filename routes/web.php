@@ -299,8 +299,8 @@ Route::get('/fotografia/fotografia', function () {
     return view('pages.fotografia.f_fotografia', compact('faq'));
 });
 
-// Video-Corporativo
-Route::get('/video-corporativo/conferencias', function () {
+// pro-audiovisual
+Route::get('/pro-audiovisual/video-corporativo', function () {
 
     $faq = [
         [
@@ -325,10 +325,10 @@ Route::get('/video-corporativo/conferencias', function () {
         ]
     ];
 
-    return view('pages.video-corporativo.conferencias', compact('faq'));
+    return view('pages.pro-audiovisual.video-corporativo', compact('faq'));
 });
 
-Route::get('/video-corporativo/documentales', function () {
+Route::get('/pro-audiovisual/documentales', function () {
 
     $faq = [
         [
@@ -345,31 +345,31 @@ Route::get('/video-corporativo/documentales', function () {
         ]
     ];
 
-    return view('pages.video-corporativo.documentales', compact('faq'));
+    return view('pages.pro-audiovisual.documentales', compact('faq'));
 });
 
-Route::get('/video-corporativo/eventos', function () {
+Route::get('/pro-audiovisual/eventos', function () {
 
     $faq = [];
 
-    return view('pages.video-corporativo.eventos', compact('faq'));
+    return view('pages.pro-audiovisual.eventos', compact('faq'));
 });
 
-Route::get('/video-corporativo/induccion', function () {
+Route::get('/pro-audiovisual/induccion', function () {
 
     $faq = [];
 
-    return view('pages.video-corporativo.induccion', compact('faq'));
+    return view('pages.pro-audiovisual.induccion', compact('faq'));
 });
 
-Route::get('/video-corporativo/institucional', function () {
+Route::get('/pro-audiovisual/institucional', function () {
 
     $faq = [];
 
-    return view('pages.video-corporativo.institucional', compact('faq'));
+    return view('pages.pro-audiovisual.institucional', compact('faq'));
 });
 
-Route::get('/video-corporativo/spotpublicitario', function () {
+Route::get('/pro-audiovisual/foto-corporativa', function () {
 
     $faq = [
         [
@@ -386,7 +386,7 @@ Route::get('/video-corporativo/spotpublicitario', function () {
         ]
     ];
 
-    return view('pages.video-corporativo.spot_publicitario', compact('faq'));
+    return view('pages.pro-audiovisual.foto-corporativa', compact('faq'));
 });
 
 // Streaming & Tours 360

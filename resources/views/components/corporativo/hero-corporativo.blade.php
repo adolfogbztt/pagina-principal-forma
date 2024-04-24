@@ -10,11 +10,11 @@
                 </div>
                 <div class="hero-title-wrapper">
                     <div class="hero-title">
-                        <span>Producción</span>
-                        <span>Fotografía</span>
-                        <span>Diseño</span>
+                        <span>Audiovisual</span>
+                        <span>Gráfica</span>
                         <span>Eventos</span>
-                        <span>Impresión</span>
+                        {{-- <span>eventos</span> --}}
+                        {{-- <span>Impresión</span> --}}
                     </div>
                 </div>
             </div>
@@ -37,12 +37,12 @@
                 <div class="one_half last">
                     <div class="hero-text">
                         <span>
-                            Somos una Productora Audiovisual con mas de 30 años de
-                            experiencia en cubrir la producción y postproducción de
-                            eventos en el mercado peruano.
+                            Con 31 años de trayectoria en la industria audiovisual, en Forma Producciones lideramos el
+                            mercado peruano con excelencia y experiencia. Ofrecemos servicios integrales de producción y
+                            postproducción de eventos, respaldados por tecnología de vanguardia y un equipo altamente
+                            capacitado.
                             <br />
-                            <br /> Nuestro enfoque se centra en ofrecer servicios de
-                            máxima calidad en fotografía, videos e impresiones.
+                            <br />¡Descubre el poder de la imagen con Forma Producciones! 
                         </span>
                     </div>
                     <br>
