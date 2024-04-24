@@ -17,24 +17,6 @@
                 <div class="outer">
                     <div class="inner">
                         <ul data-breakpoint="10025" class="flexnav">
-                            {{-- <li class="link menu-timeline"><a class="" href="#">
-                                    <div class="before-span"><span data-hover="Portfolio">Portfolio</span></div>
-                                </a>
-                                <ul>
-                                    <li><a class="ajax-link active" href="index.html"
-                                            data-type="page-transition">Landing Page</a></li>
-                                    <li><a class="ajax-link" href="index-showcase.html"
-                                            data-type="page-transition">Showcase WebGL</a></li>
-                                    <li><a class="ajax-link" href="index-carousel.html"
-                                            data-type="page-transition">Showcase Carousel</a></li>
-                                    <li><a class="ajax-link" href="portfolio-overlapping-grid.html"
-                                            data-type="page-transition">Overlapping Portfolio</a></li>
-                                    <li><a class="ajax-link" href="portfolio-parallax-grid.html"
-                                            data-type="page-transition">Parallax Portfolio</a></li>
-                                    <li><a class="ajax-link" href="portfolio-grid.html"
-                                            data-type="page-transition">Random Portfolio</a></li>
-                                </ul>
-                            </li> --}}
                             <li class="link menu-timeline"><a class="ajax-link" data-type="page-transition"
                                     href="/">
                                     <div class="before-span"><span data-hover="Corporativo">Corporativo</span></div>
@@ -60,6 +42,22 @@
                                     <div class="before-span"><span data-hover="Contáctanos">Contáctanos</span>
                                     </div>
                                 </a>
+                            </li>
+                            <li class="link menu-timeline"><a class="" href="#">
+                                    <div class="before-span"><span data-hover="Clientes">Clientes</span></div>
+                                </a>
+                                <ul>
+                                    <li><a class="ajax-link" href="/clientes/empresas"
+                                            data-type="page-transition">Empresas</a></li>
+                                    <li><a class="ajax-link" href="/clientes/colegios"
+                                            data-type="page-transition">Colegios</a></li>
+                                    <li><a class="ajax-link" href="/clientes/universidades"
+                                            data-type="page-transition">Universidades</a></li>
+                                    <!-- Nuevo enlace para mostrar todos los clientes -->
+                                    <li><a>🔻</a></li>
+                                    <li><a class="ajax-link" href="/clientes"
+                                            data-type="page-transition">Todos los clientes</a></li>
+                                </ul>
                             </li>
                             {{-- <li class="link menu-timeline"><a class="" href="#">
                                     <div class="before-span"><span data-hover="More">More</span></div>

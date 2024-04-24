@@ -90,6 +90,22 @@ Route::get('/cookies', function () {
     return view('pages.cookies');
 });
 
+Route::get('/clientes', function () {
+    return view('pages.clientes');
+});
+
+Route::get('/clientes/colegios', function () {
+    return view('pages.clientes.colegios');
+});
+
+Route::get('/clientes/empresas', function () {
+    return view('pages.clientes.empresas');
+});
+
+Route::get('/clientes/universidades', function () {
+    return view('pages.clientes.universidades');
+});
+
 // Corporativo
 Route::get('/corporativo/cartografia', function () {
 
