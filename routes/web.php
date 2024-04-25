@@ -106,8 +106,8 @@ Route::get('/clientes/universidades', function () {
     return view('pages.clientes.universidades');
 });
 
-// Corporativo
-Route::get('/corporativo/cartografia', function () {
+// blog-drone
+Route::get('/blog-drone/cartografia', function () {
 
     $faq = [
         [
@@ -132,10 +132,10 @@ Route::get('/corporativo/cartografia', function () {
         ]
     ];
 
-    return view('pages.corporativo.cartografia', compact('faq'));
+    return view('pages.blog-drone.cartografia', compact('faq'));
 });
 
-Route::get('/corporativo/termografia', function () {
+Route::get('/blog-drone/termografia', function () {
 
     $faq = [
         [
@@ -144,10 +144,10 @@ Route::get('/corporativo/termografia', function () {
         ]
     ];
 
-    return view('pages.corporativo.termografia', compact('faq'));
+    return view('pages.blog-drone.termografia', compact('faq'));
 });
 
-Route::get('/corporativo/fotogrametria', function () {
+Route::get('/blog-drone/fotogrametria', function () {
 
     $faq = [
         [
@@ -164,10 +164,10 @@ Route::get('/corporativo/fotogrametria', function () {
         ]
     ];
 
-    return view('pages.corporativo.fotogrametria', compact('faq'));
+    return view('pages.blog-drone.fotogrametria', compact('faq'));
 });
 
-Route::get('/corporativo/corporativo', function () {
+Route::get('/blog-drone/corporativo', function () {
 
     $faq = [
         [
@@ -192,11 +192,11 @@ Route::get('/corporativo/corporativo', function () {
         ]
     ];
 
-    return view('pages.corporativo.corporativo', compact('faq'));
+    return view('pages.blog-drone.corporativo', compact('faq'));
 });
 
-// Fotografia Digital
-Route::get('/fotografia/corporativo', function () {
+// Producción Gráfica
+Route::get('/pro-grafica/c_fotocheck', function () {
 
     $faq = [
         [
@@ -225,10 +225,10 @@ Route::get('/fotografia/corporativo', function () {
         ]
     ];
 
-    return view('pages.fotografia.f_corporativo', compact('faq'));
+    return view('pages.pro-grafica.c_fotocheck', compact('faq'));
 });
 
-Route::get('/fotografia/productos', function () {
+Route::get('/pro-grafica/titulos-diplomas', function () {
 
     $faq = [
         [
@@ -261,10 +261,10 @@ Route::get('/fotografia/productos', function () {
         ]
     ];
 
-    return view('pages.fotografia.f_productos', compact('faq'));
+    return view('pages.pro-grafica.titulos-diplomas', compact('faq'));
 });
 
-Route::get('/fotografia/publicidad', function () {
+Route::get('/pro-grafica/memorias-corp', function () {
 
     $faq = [
         [
@@ -289,15 +289,15 @@ Route::get('/fotografia/publicidad', function () {
         ]
     ];
 
-    return view('pages.fotografia.f_publicidad', compact('faq'));
+    return view('pages.pro-grafica.f_publicidad', compact('faq'));
 });
 
-Route::get('/fotografia/fotografia', function () {
+// Route::get('/pro-grafica/fotografia', function () {
 
-    $faq = [];
+//     $faq = [];
 
-    return view('pages.fotografia.f_fotografia', compact('faq'));
-});
+//     return view('pages.pro-grafica.f_fotografia', compact('faq'));
+// });
 
 // pro-audiovisual
 Route::get('/pro-audiovisual/video-corporativo', function () {
@@ -328,7 +328,35 @@ Route::get('/pro-audiovisual/video-corporativo', function () {
     return view('pages.pro-audiovisual.video-corporativo', compact('faq'));
 });
 
-Route::get('/pro-audiovisual/documentales', function () {
+Route::get('/pro-audiovisual/streaming', function () {
+
+    $faq = [
+        [
+            'pregunta' => '¿Cómo garantizan que el video capturará la esencia y el ambiente de nuestra conferencia de manera auténtica y profesional?',
+            'respuesta' => 'Nos aseguramos de trabajar con un equipo experimentado y equipado con tecnología de vanguardia para capturar cada momento importante con calidad y precisión. Nuestra atención meticulosa a los detalles y nuestra habilidad para adaptarnos al entorno de la conferencia garantizan resultados auténticos y profesionales.',
+        ],
+        [
+            'pregunta' => '¿Qué medidas toman para garantizar la discreción y la mínima interrupción durante la grabación de nuestra conferencia?',
+            'respuesta' => 'Nuestro equipo de profesionales comprende la importancia de mantener un perfil discreto y minimizar cualquier interrupción durante la conferencia. Utilizamos equipos de grabación discretos y nos coordinamos cuidadosamente con el personal del evento para asegurarnos de que nuestro trabajo sea lo menos intrusivo posible.',
+        ],
+        [
+            'pregunta' => '¿Ofrecen opciones de edición personalizadas para adaptarse a nuestras necesidades específicas de contenido y estilo?',
+            'respuesta' => 'Sí, nos especializamos en ofrecer servicios de edición personalizados que se ajusten a las necesidades y preferencias únicas de cada cliente. Desde el estilo de edición hasta la selección de música y gráficos, trabajamos estrechamente con usted para crear un video que refleje fielmente su visión y mensaje.',
+        ],
+        [
+            'pregunta' => '¿Qué medidas toman para garantizar la seguridad y confidencialidad de nuestros datos y contenido durante todo el proceso de producción?',
+            'respuesta' => 'Implementamos estrictas medidas de seguridad y confidencialidad para proteger sus datos y contenido en cada etapa del proceso de producción. Desde la firma de acuerdos de confidencialidad hasta el uso de tecnologías seguras de almacenamiento y transmisión de datos, nos comprometemos a proteger su información con el más alto nivel de seguridad.',
+        ],
+        [
+            'pregunta' => '¿Ofrecen opciones de distribución y promoción del video después de la conferencia?',
+            'respuesta' => 'Sí, ofrecemos servicios de distribución y promoción del video para ayudarlo a maximizar el alcance y el impacto de su contenido después de la conferencia. Desde la publicación en plataformas en línea hasta la creación de campañas de marketing digital, estamos aquí para ayudarlo a compartir su mensaje con su audiencia objetivo.',
+        ]
+    ];
+
+    return view('pages.pro-audiovisual.streaming', compact('faq'));
+});
+
+Route::get('/pro-audiovisual/realidad-virtual', function () {
 
     $faq = [
         [
@@ -345,28 +373,28 @@ Route::get('/pro-audiovisual/documentales', function () {
         ]
     ];
 
-    return view('pages.pro-audiovisual.documentales', compact('faq'));
+    return view('pages.pro-audiovisual.realidad-virtual', compact('faq'));
 });
 
-Route::get('/pro-audiovisual/eventos', function () {
+Route::get('/pro-audiovisual/tour-vr', function () {
 
     $faq = [];
 
-    return view('pages.pro-audiovisual.eventos', compact('faq'));
+    return view('pages.pro-audiovisual.tour-vr', compact('faq'));
 });
 
-Route::get('/pro-audiovisual/induccion', function () {
+Route::get('/pro-audiovisual/drone', function () {
 
     $faq = [];
 
-    return view('pages.pro-audiovisual.induccion', compact('faq'));
+    return view('pages.pro-audiovisual.drone', compact('faq'));
 });
 
-Route::get('/pro-audiovisual/institucional', function () {
+Route::get('/pro-audiovisual/tour360', function () {
 
     $faq = [];
 
-    return view('pages.pro-audiovisual.institucional', compact('faq'));
+    return view('pages.pro-audiovisual.tour360', compact('faq'));
 });
 
 Route::get('/pro-audiovisual/foto-corporativa', function () {
@@ -452,19 +480,47 @@ Route::get('/impresiones/titulosdiplomas', function () {
     return view('pages.impresiones.titulos_diplomas', compact('faq'));
 });
 
-// Catering Corporativo
-Route::get('/catering-corporativo/cafetera', function () {
+// Producción de Eventos
+Route::get('/pro-eventos/cafetera-automatica', function () {
 
     $faq = [];
 
-    return view('pages.catering-corporativo.cafetera_automatica', compact('faq'));
+    return view('pages.pro-eventos.cafetera-automatica', compact('faq'));
 });
 
-Route::get('/catering-corporativo/catering', function () {
+Route::get('/pro-eventos/catering-corp', function () {
 
     $faq = [];
 
-    return view('pages.catering-corporativo.catering', compact('faq'));
+    return view('pages.pro-eventos.catering-corp', compact('faq'));
+});
+
+Route::get('/pro-eventos/photobooth-360', function () {
+
+    $faq = [];
+
+    return view('pages.pro-eventos.photobooth-360', compact('faq'));
+});
+
+Route::get('/pro-eventos/foto-iglu', function () {
+
+    $faq = [];
+
+    return view('pages.pro-eventos.foto-iglu', compact('faq'));
+});
+
+Route::get('/pro-eventos/karaoke', function () {
+
+    $faq = [];
+
+    return view('pages.pro-eventos.karaoke', compact('faq'));
+});
+
+Route::get('/pro-eventos/panel-led', function () {
+
+    $faq = [];
+
+    return view('pages.pro-eventos.panel-led', compact('faq'));
 });
 
 // Colegios /Blogs colegios

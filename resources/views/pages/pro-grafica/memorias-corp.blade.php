@@ -1,10 +1,10 @@
 @php
 
-    $title = 'Publicidad';
+    $title = 'Memorias Corporativas';
 
     /*HERO SECTION*/
     $color = 'dark'; // 'dark' || 'light'
-    $text_move = ' Publicidad · Publicidad ·';
+    $text_move = ' Memorias Corporativas · Memorias Corporativas ·';
     $img_hero = '/assets/fotografia/publicidad.webp';
     $description = 'Ofrecemos fotografía publicitaria que captura la esencia y el atractivo de productos y 
                     servicios con creatividad y precisión, destinada a destacar su valor y generar 

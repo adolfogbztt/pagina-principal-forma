@@ -16,36 +16,36 @@
             'img' => '/assets/video-corporativo/institucional.webp',
             'title' => 'Streaming',
             'description' => 'Descripcion',
-            'link' => '/pro-audiovisual/institucional',
+            'link' => '/pro-audiovisual/streaming',
         ],
         [
             'img' => '/assets/video-corporativo/induccion.webp',
             'title' => 'Tours 360°',
             'description' => 'Descripcion',
-            'link' => '/pro-audiovisual/induccion',
+            'link' => '/pro-audiovisual/tour360',
         ],
         [
             'img' => '/assets/video-corporativo/eventos.webp',
             'title' => 'Tours VR',
             'description' => 'Descripcion',
-            'link' => '/pro-audiovisual/eventos',
+            'link' => '/pro-audiovisual/tour-vr',
         ],
         [
             'img' => '/assets/video-corporativo/documentales.webp',
             'title' => 'Realidad Virtual',
             'description' => 'Descripcion',
-            'link' => '/pro-audiovisual/documentales',
+            'link' => '/pro-audiovisual/realidad-virtual',
         ],
         [
             'img' => '/assets/video-corporativo/conferencias.webp',
             'title' => 'Drone',
             'description' => 'Descripcion',
-            'link' => '/pro-audiovisual/conferencias',
+            'link' => '/pro-audiovisual/drone',
         ],
     ];
 @endphp
 <!-- Row -->
-<div class="content-row dark-section change-header-color" data-bgcolor="#000">
+<div id="audiovisual" class="content-row dark-section change-header-color" data-bgcolor="#000">
 
     <hr class="destroy">
 
@@ -72,9 +72,6 @@
 
 </div>
 <!--/Row -->
-
-
-
 
 <!-- Row -->
 <div class="content-row dark-section full change-header-color" data-bgcolor="#000">
@@ -106,5 +103,4 @@
         </div>
     </div>
 </div>
-
 <!-- Row -->

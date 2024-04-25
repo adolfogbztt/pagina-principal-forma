@@ -1,10 +1,10 @@
 @php
 
-    $title = 'Catering';
+    $title = 'Photobootk 360°';
 
     /*HERO SECTION*/
     $color = 'dark'; // 'dark' || 'light'
-    $text_move = ' Catering · Catering ·';
+    $text_move = ' Photobootk 360° · Photobootk 360° ·';
     $img_hero = '/assets/video-corporativo/conferencias.webp';
     $description = 'Ofrecemos servicios de catering excepcionales, diseñados para 
                     deleitar a tus invitados con una experiencia gastronómica inolvidable. 

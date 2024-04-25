@@ -10,11 +10,11 @@
                 </div>
                 <div class="hero-title-wrapper">
                     <div class="hero-title">
-                        <span>Audiovisual</span>
-                        <span>Gráfica</span>
-                        <span>Eventos</span>
                         {{-- <span>eventos</span> --}}
                         {{-- <span>Impresión</span> --}}
+                        <a href="#audiovisual">Audiovisual</a>
+                        <a href="#grafica">Gráfica</a>
+                        <a href="#eventos">Eventos</a>
                     </div>
                 </div>
             </div>

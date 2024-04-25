@@ -1,18 +1,21 @@
 @php
 
-    $title = 'Video Corporativo';
+    $title = 'Streaming';
 
     /*HERO SECTION*/
     $color = 'dark'; // 'dark' || 'light'
-    $text_move = ' Video Corporativo · Video Corporativo ·';
+    $text_move = ' Streaming · Streaming ·';
     $img_hero = '/assets/video-corporativo/institucional.webp';
     $description =
-        'Nuestro Servicio de Video Corporativo te ayuda a transmitir la esencia de tu empresa de manera 
-        efectiva. Creamos videos profesionales y cautivadores que destacan tus productos, servicios y 
-        fortalezas. Con equipos de última generación y técnicas cinematográficas, logramos resultados 
-        impactantes. Desde la conceptualización hasta la edición, nos encargamos de todo el proceso para 
-        garantizar videos de alta calidad que conecten con tu audiencia y te hagan destacar en el mercado. 
-        Confía en nosotros para llevar la imagen de tu empresa al siguiente nivel.';
+        'Nuestro servicio de Streaming se distingue por contar con cámaras robóticas de transmisión, 
+        las cuales brindan una experiencia visual dinámica y envolvente. Estas cámaras, controladas de 
+        forma remota, capturan ángulos precisos y movimientos fluidos, ofreciendo una perspectiva única 
+        y profesional a tus transmisiones en vivo. Además, nuestra tecnología avanzada de seguimiento 
+        automático garantiza que las cámaras sigan de cerca a los protagonistas y capturen todos los 
+        detalles de tus eventos. Con nuestra infraestructura de banda ancha de alta velocidad y el 
+        sistema de transmisión en múltiples enlaces (bondy), aseguramos una conexión estable y una 
+        calidad de transmisión impecable. Experimenta el poder del streaming con nuestras cámaras 
+        robóticas y disfruta de una experiencia visual inigualable en tiempo real.';
     /*END HERO SECTION*/
 
     /*CONTENT SECTION*/
@@ -31,7 +34,7 @@
         <div class="one_fourth"></div>
 
         <div class="two_fourth">
-            <h3 class="has-mask-fill">¡Impulsa tu éxito con videos de impacto!</h3>
+            <h3 class="has-mask-fill">¡Videos que transmiten la esencia y valores de tu organización!</h3>
         </div>
 
         <div class="one_fourth last"></div>

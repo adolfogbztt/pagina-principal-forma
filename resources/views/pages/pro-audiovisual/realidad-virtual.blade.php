@@ -1,16 +1,14 @@
 @php
 
-    $title = 'Documentales';
+    $title = 'Realidad Virtual';
 
     /*HERO SECTION*/
     $color = 'dark'; // 'dark' || 'light'
-    $text_move = ' Documentales · Documentales ·';
+    $text_move = ' Realidad Virtual · Realidad Virtual ·';
     $img_hero = '/assets/video-corporativo/documentales.webp';
-    $description = 'Los documentales tienen el poder único de transportar a los espectadores a nuevos 
-                    mundos, contar historias fascinantes y explorar temas importantes de una manera 
-                    profunda y significativa. En Forma Producciones Audiovisuales, estamos apasionados 
-                    por la creación de videos documentales que no solo entretengan, sino también inspiren 
-                    y eduquen a la audiencia.';
+    $description = '¿Qué sucedería si pudieras llevar a tus clientes a mundos inexplorados, presentarles 
+                    productos de una manera completamente nueva y cautivarlos en un nivel nunca antes 
+                    imaginado? Con nuestra tecnología de Realidad Virtual (RV), ahora puedes.';
     /*END HERO SECTION*/
 
     /*CONTENT SECTION*/
@@ -29,7 +27,7 @@
         <div class="one_fourth"></div>
 
         <div class="two_fourth">
-            <h3 class="has-mask-fill">¡Producción de Videos Documentales que Conmueven y Educan!</h3>
+            <h3 class="has-mask-fill">¡Creando el Futuro de la Experiencia!</h3>
         </div>
 
         <div class="one_fourth last"></div>

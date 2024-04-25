@@ -16,31 +16,22 @@
     <div class="content-row full dark-section" data-bgcolor="#000">
         @include('components.corporativo.section-pro-audiovisual')
     </div>
-    <div class="content-row full light-section" data-bgcolor="#fff">
+    {{-- <div class="content-row full light-section" data-bgcolor="#fff">
         @include('components.corporativo.section-drone')
-    </div>
+    </div> --}}
 
     <div class="content-row full light-section" data-bgcolor="#fff">
-        @include('components.corporativo.section-fotografia')
-    </div>
-
-
-    <div class="content-row full light-section" data-bgcolor="#fff">
-        @include('components.corporativo.section-produccion')
+        @include('components.corporativo.section-pro-grafica')
     </div>
 
     <div class="content-row full dark-section" data-bgcolor="#000">
-        @include('components.corporativo.section-streaming-tour360')
+        @include('components.corporativo.section-pro-eventos')
     </div>
 
-    <div class="content-row full light-section" data-bgcolor="#fff">
+    {{-- <div class="content-row full light-section" data-bgcolor="#fff">
         @include('components.corporativo.section-impresion')
-    </div>
-
-    <div class="content-row full dark-section" data-bgcolor="#000">
-        @include('components.corporativo.section-catering')
-    </div>
-
+    </div> --}}
+    
     <div class="content-row full light-section" data-bgcolor="#fff">
         @include('components.corporativo.section-faq', ['faq' => $faq])
     </div>

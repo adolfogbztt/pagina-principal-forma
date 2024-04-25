@@ -2,21 +2,39 @@
     $services = [
         [
             'img' => '/assets/catering/bocaditos.webp',
-            'title' => 'Catering',
+            'title' => 'Catering Corporativo',
             'description' => 'Descripcion',
-            'link' => '/catering-corporativo/catering',
+            'link' => '/pro-eventos/catering-corp',
         ],
         [
             'img' => '/assets/catering/cafetera.webp',
             'title' => 'Cafetera Automática',
             'description' => 'Descripcion',
-            'link' => '/catering-corporativo/cafetera',
+            'link' => '/pro-eventos/cafetera-automatica',
+        ],
+        [
+            'img' => '/assets/catering/cafetera.webp',
+            'title' => 'Photobooth 360°',
+            'description' => 'Descripcion',
+            'link' => '/pro-eventos/photobooth-360',
+        ],
+        [
+            'img' => '/assets/catering/cafetera.webp',
+            'title' => 'Cabina Fotográfica Iglú',
+            'description' => 'Descripcion',
+            'link' => '/pro-eventos/foto-iglu',
+        ],
+        [
+            'img' => '/assets/catering/cafetera.webp',
+            'title' => 'Panel LED',
+            'description' => 'Descripcion',
+            'link' => '/pro-eventos/panel-led',
         ],
         [
             'img' => '/assets/catering/bocaditos.webp',
-            'title' => 'Catering',
+            'title' => 'karaoke',
             'description' => 'Descripcion',
-            'link' => '/catering-corporativo/catering',
+            'link' => '/pro-eventos/karaoke',
         ]
     ];
 @endphp

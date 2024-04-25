@@ -1,10 +1,10 @@
 @php
 
-    $title = 'Productos';
+    $title = 'Titulos y Diplomas';
 
     /*HERO SECTION*/
     $color = 'dark'; // 'dark' || 'light'
-    $text_move = ' Productos · Productos ·';
+    $text_move = ' Titulos y Diplomas · Titulos y Diplomas ·';
     $img_hero = '/assets/fotografia/productos.webp';
     $description = 'Ofrecemos servicios de fotografía de productos, destacando sus características 
     y cualidades de manera profesional y atractiva para impulsar su comercialización y ventas.';

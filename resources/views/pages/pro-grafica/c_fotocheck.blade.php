@@ -1,6 +1,6 @@
 @php
 
-    $title = 'Corporativo';
+    $title = 'Credenciales - Fotocheck';
 
     /*HERO SECTION*/
     $color = 'dark'; // 'dark' || 'light'
