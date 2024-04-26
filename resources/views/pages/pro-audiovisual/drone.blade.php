@@ -3,9 +3,9 @@
     $title = 'Drone';
 
     /*HERO SECTION*/
-    $color = 'dark'; // 'dark' || 'light'
+    $color = 'light'; // 'dark' || 'light'
     $text_move = ' Drone · Drone ·';
-    $img_hero = '/assets/video-corporativo/conferencias.webp';
+    $img_hero = '/assets/pro-audiovisual/drone/drone1.webp';
     $description = 'Nuestro Servicio de Video Corporativo te ayuda a transmitir la esencia de tu empresa de manera 
         efectiva. Creamos videos profesionales y cautivadores que destacan tus productos, servicios y 
         fortalezas. Con equipos de última generación y técnicas cinematográficas, logramos resultados 
@@ -92,7 +92,7 @@
                     @foreach ($services as $k => $v)
                         <figure class="has-animation">
                             <a href="{{ $v['link'] }}" class="ajax-link" data-type="page-transition">
-                                <img src="{{ $v['img'] }}" alt="{{ $v['title'] }}" class="grayscale60" />
+                                <img src="{{ $v['img'] }}" alt="{{ $v['title'] }}"/>
                                 {{-- <a class="ajax-link" href="{{ $item['link'] }}" data-type="page-transition"> --}}
                                 <div class="overlay">
                                     <h2>{{ $v['title'] }}</h2>
@@ -120,7 +120,7 @@
 @section('adds')
     <div class="content-row full dark-section" data-bgcolor="#000">
         <figure class="has-parallax has-parallax-content" data-delay="100">
-            <img src="https://www.clapat.com/templates/humpton/images/projects/ladies01.jpg" alt="Image Title">
+            <img src="/assets/pro-audiovisual/drone/drone.webp" alt="Image Title">
             <div class="parallax-image-content content-max-width text-align-center">
                 <div class="outer">
                     <div class="inner">

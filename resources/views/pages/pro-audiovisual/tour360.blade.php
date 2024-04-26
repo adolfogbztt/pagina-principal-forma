@@ -106,15 +106,18 @@
 @endsection
 
 @section('adds')
-    <div class="content-row full dark-section" data-bgcolor="#000">
-        <figure class="has-parallax has-parallax-content" data-delay="100">
-            <img src="https://www.clapat.com/templates/humpton/images/projects/ladies01.jpg" alt="Image Title">
-            <div class="parallax-image-content content-max-width text-align-center">
-                <div class="outer">
-                    <div class="inner">
-                    </div>
+<div class="content-row full dark-section" data-bgcolor="#000">
+    <figure class="has-parallax has-parallax-content" data-delay="100">
+        <img src="/assets/pro-audiovisual/tour360/img-bajo.jpg" alt="Image Title">
+        <div class="parallax-image-content content-max-width text-align-center">
+            <div class="outer">
+                <div class="inner">
+                    <p>▼</p>
+                    <a target="_blank" href="https://www.formaproducciones.com/virtual/formap/" class="boton-360">Ver Tour</a>
                 </div>
             </div>
-        </figure>
-    </div>
+        </div>
+    </figure>
+</div>
+
 @endsection

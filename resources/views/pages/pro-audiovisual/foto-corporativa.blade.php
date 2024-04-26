@@ -5,7 +5,7 @@
     /*HERO SECTION*/
     $color = 'dark'; // 'dark' || 'light'
     $text_move = ' Fotografía Corporativa · Fotografía Corporativa ·';
-    $img_hero = '/assets/video-corporativo/spot-publicitario.webp';
+    $img_hero = '/assets/pro-audiovisual/foto-corporativo/portada.webp';
     $description = 'Nuestro servicio de Fotografía Digital y Artística se especializa en capturar imágenes profesionales 
         y creativas. Utilizando equipos de última generación y técnicas de iluminación avanzadas, 
         garantizamos la más alta calidad en cada foto. Nuestro enfoque artístico captura momentos 
@@ -78,7 +78,7 @@
 @section('adds')
     <div class="content-row full dark-section" data-bgcolor="#000">
         <figure class="has-parallax has-parallax-content" data-delay="100">
-            <img src="https://www.clapat.com/templates/humpton/images/projects/ladies01.jpg" alt="Image Title">
+            <img src="/assets/pro-audiovisual/foto-corporativo/img-bajo.webp" alt="Image Title">
             <div class="parallax-image-content content-max-width text-align-center">
                 <div class="outer">
                     <div class="inner">

@@ -1,25 +1,36 @@
 @php
     $services = [
         [
-            'img' => '/assets/video-corporativo/conferencias.webp',
+            // 'img' => '/assets/video-corporativo/portada.webp',
+            'video' => '/assets/pro-audiovisual/video-c.webm',
             'title' => 'Video Corporativo',
             'description' => 'Descripcion',
             'link' => '/pro-audiovisual/video-corporativo',
         ],
         [
-            'img' => '/assets/video-corporativo/spot-publicitario.webp',
+            // 'img' => '/assets/pro-audiovisual/foto-corporativo.webp',
+            'video' => '/assets/pro-audiovisual/foto-corporativo.webm',
             'title' => 'Fotografía Corporativa',
             'description' => 'Descripcion',
             'link' => '/pro-audiovisual/foto-corporativa',
         ],
         [
-            'img' => '/assets/video-corporativo/institucional.webp',
+            // 'img' => '/assets/pro-audiovisual/drone.webp',
+            'video' => '/assets/pro-audiovisual/DRONE.webm',
+            'title' => 'Drone',
+            'description' => 'Descripcion',
+            'link' => '/pro-audiovisual/drone',
+        ],
+        [
+            // 'img' => '/assets/pro-audiovisual/streaming.webm',
+            'video' => '/assets/pro-audiovisual/streaming.webm',
             'title' => 'Streaming',
             'description' => 'Descripcion',
             'link' => '/pro-audiovisual/streaming',
         ],
         [
-            'img' => '/assets/video-corporativo/induccion.webp',
+            // 'img' => '/assets/video-corporativo/induccion.webp',
+            'video' => '/assets/pro-audiovisual/tour360.webm',
             'title' => 'Tours 360°',
             'description' => 'Descripcion',
             'link' => '/pro-audiovisual/tour360',
@@ -35,12 +46,6 @@
             'title' => 'Realidad Virtual',
             'description' => 'Descripcion',
             'link' => '/pro-audiovisual/realidad-virtual',
-        ],
-        [
-            'img' => '/assets/video-corporativo/conferencias.webp',
-            'title' => 'Drone',
-            'description' => 'Descripcion',
-            'link' => '/pro-audiovisual/drone',
         ],
     ];
 @endphp
@@ -64,10 +69,11 @@
 
     </div>
 
-    <div class="one_half last">
-        <img style="border-top-left-radius: 20px;
-        border-bottom-right-radius: 20px;"
-            src='/assets/img-corporativo/vc1.webp' className="item-image grayscale60"></img>
+    <div class="one_half last video-container">
+        <video autoplay muted loop class="item-video"
+             className="item-image grayscale60">
+        <source src="/assets/pro-audiovisual/pro-audiovisual.mp4"></source>
+        </video>
     </div>
 
 </div>
@@ -82,25 +88,31 @@
                 <div class="panel" data-color="#000" data-firstline="Read" data-secondline="Story">
                     <div class="panel-content-wrapper">
                         <div class="panel-image">
-                            <a class="ajax-link" href="{{ $item['link'] }}" data-type="page-transition"><img
-                                    class="grayscale60" src="{{ $item['img'] }}"> </img></a>
-                        </div>
-                        <div class="panel-content">
-                            <div class="entry-meta entry-categories">
-                                <ul class="post-categories">
-                                    <li class="link"><a href="#"><span data-hover="Forma">Forma</span></a>
-                                    </li>
-                                    <li class="link"><a href="#"><span data-hover="Video">Video</span></a>
-                                    </li>
-                                </ul>
-                            </div>
-                            <div class="news-panel-title"><span>{{ $item['title'] }}</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            @endforeach
+                            <a class="ajax-link" href="{{ $item['link'] }}" data-type="page-transition">
+                                @if (isset($item['video']))
+                                    <video autoplay muted loop class="video-section" src="{{ $item['video'] }}"> </video>
+                            </a>
+                        @else
+                            <img class="grayscale60" src="{{ $item['img'] }}"> </img></a>
+            @endif
+
+        </div>
+        <div class="panel-content">
+            <div class="entry-meta entry-categories">
+                <ul class="post-categories">
+                    <li class="link"><a href="#"><span data-hover="Forma">Forma</span></a>
+                    </li>
+                    <li class="link"><a href="#"><span data-hover="Video">Video</span></a>
+                    </li>
+                </ul>
+            </div>
+            <div class="news-panel-title"><span>{{ $item['title'] }}</span>
+            </div>
         </div>
     </div>
+</div>
+@endforeach
+</div>
+</div>
 </div>
 <!-- Row -->

@@ -78,7 +78,7 @@
                         height: auto;
                         z-index: -100;
                         filter: brightness(0.30);">
-                <source src="/assets/forma-corporativo.mp4" type="video/mp4" />
+                <source src="/assets/forma-corporativo.webm" type="video/mp4" />
                 Tu navegador no soporta la etiqueta de video.
             </video>
         </div>

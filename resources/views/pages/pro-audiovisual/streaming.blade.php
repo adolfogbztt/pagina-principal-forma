@@ -3,9 +3,9 @@
     $title = 'Streaming';
 
     /*HERO SECTION*/
-    $color = 'dark'; // 'dark' || 'light'
+    $color = 'light'; // 'dark' || 'light'
     $text_move = ' Streaming · Streaming ·';
-    $img_hero = '/assets/video-corporativo/institucional.webp';
+    $img_hero = '/assets/pro-audiovisual/streaming/portada.webp';
     $description =
         'Nuestro servicio de Streaming se distingue por contar con cámaras robóticas de transmisión, 
         las cuales brindan una experiencia visual dinámica y envolvente. Estas cámaras, controladas de 
@@ -100,7 +100,7 @@
 @section('adds')
     <div class="content-row full dark-section" data-bgcolor="#000">
         <figure class="has-parallax has-parallax-content" data-delay="100">
-            <img src="https://www.clapat.com/templates/humpton/images/projects/ladies01.jpg" alt="Image Title">
+            <img src="/assets/pro-audiovisual/streaming/img-bajo.webp" alt="Image Title">
             <div class="parallax-image-content content-max-width text-align-center">
                 <div class="outer">
                     <div class="inner">

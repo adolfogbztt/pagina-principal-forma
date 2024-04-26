@@ -227,4 +227,72 @@
   100%{transform: rotate(1turn)}
 }
 
+.video-section{
+  max-width: 115vh !important;
+  height: auto !important;
+}
 
+
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%; /* Proporción 16:9 para el video responsive */
+  overflow: hidden;
+  border-top-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  max-width: 200vh !important; /* Establece el ancho máximo del contenedor del video */
+  margin: 0 auto; /* Centra el contenedor horizontalmente */
+}
+
+.item-video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100% !important;
+  height: 100% !important;
+  
+}
+
+.boton-360 {
+  width: 10em;
+  position: relative;
+  height: 3.5em;
+  border: 3px ridge #ffffff;
+  outline: none;
+  background-color: transparent;
+  color: rgb(8, 8, 8) !important;
+  transition: 1s;
+  border-radius: 0.3em;
+  font-size: 30px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.boton-360::after {
+  content: "";
+  position: absolute;
+  top: -10px;
+  left: 3%;
+  width: 95%;
+  height: 40%;
+  transition: 0.5s;
+  transform-origin: center;
+}
+
+.boton-360::before {
+  content: "";
+  transform-origin: center;
+  position: absolute;
+  top: 80%;
+  left: 3%;
+  width: 95%;
+  height: 40%;
+  transition: 0.5s;
+}
+
+.boton-360:hover::before, .boton-360:hover::after {
+  transform: scale(0)
+}
+
+.boton-360:hover {
+  box-shadow: inset 0px 0px 25px #fefeff;
+}

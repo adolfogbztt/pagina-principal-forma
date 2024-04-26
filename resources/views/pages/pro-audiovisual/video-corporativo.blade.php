@@ -3,9 +3,9 @@
     $title = 'Video Corporativo';
 
     /*HERO SECTION*/
-    $color = 'dark'; // 'dark' || 'light'
+    $color = 'light'; // 'dark' || 'light'
     $text_move = ' Video Corporativo · Video Corporativo ·';
-    $img_hero = '/assets/video-corporativo/institucional.webp';
+    $img_hero = '/assets/pro-audiovisual/video-corporativo/portada.webp';
     $description =
         'Nuestro Servicio de Video Corporativo te ayuda a transmitir la esencia de tu empresa de manera 
         efectiva. Creamos videos profesionales y cautivadores que destacan tus productos, servicios y 
@@ -38,57 +38,71 @@
 
         <hr>
 
-        <div class="one_fourth">
-            <h6 class="has-animation has-icon">Capturando la Esencia de la Organización:</h6>
-        </div>
+         <!-- Row -->
+         <div class="content-row light-section" data-bgcolor="#fff">
+                                
+            <h5>Justified Grid</h5> 
+            <p>You have the option to add captions if needed or popup lightbox</p>
+            
+            <hr>
+            
+            <!-- Collage -->
+            <div class="justified-grid">
+                
+                <!-- Collage item with pop-up -->
+                <div class="collage-thumb">                          
+                    <a class="image-link" href="/assets/pro-audiovisual/video-corporativo/spot.webp">
+                        <img src="/assets/pro-audiovisual/video-corporativo/spot.webp" alt="img" />
+                        <div class="thumb-info">Spots publicitarios</div>
+                    </a>
+                </div>
+                
+                <!-- Collage item with pop-up -->
+                <div class="collage-thumb">               
+                    <a class="image-link" href="/assets/pro-audiovisual/video-corporativo/portada.webp">
+                        <img src="/assets/pro-audiovisual/video-corporativo/portada.webp" alt="img" />
+                        <div class="thumb-info">Video institucional</div>
+                    </a>
+                </div>
+                
+                <!-- Collage item with pop-up -->
+                <div class="collage-thumb">               
+                    <a class="image-link" href="/assets/pro-audiovisual/video-corporativo/induccion.webp">
+                        <img src="/assets/pro-audiovisual/video-corporativo/induccion.webp" alt="img" />
+                        <div class="thumb-info">Video de inducción </div>
+                    </a>
+                </div>
+                
+                <!-- Collage item with pop-up -->
+                <div class="collage-thumb">               
+                    <a class="image-link" href="/assets/pro-audiovisual/video-corporativo/eventos.webp">
+                        <img src="/assets/pro-audiovisual/video-corporativo/eventos.webp" alt="img" />
+                        <div class="thumb-info">Grabación de eventos</div>
+                    </a>
+                </div>
+                
+                <!-- Collage item with pop-up -->
+                <div class="collage-thumb">               
+                    <a class="image-link" href="/assets/pro-audiovisual/video-corporativo/documental.webp">
+                        <img src="/assets/pro-audiovisual/video-corporativo/documental.webp" alt="img" />
+                        <div class="thumb-info">Documentales</div>
+                    </a>
+                </div>
+                
+                <!-- Collage item with pop-up -->
 
-        <div class="two_fourth">
-            <p class="has-animation" data-delay="100">Nuestro enfoque en la producción de videos institucionales es capturar
-                la esencia única de cada organización que representamos. Nos tomamos el tiempo necesario para comprender a
-                fondo la cultura, los valores y los objetivos de tu organización, para poder transmitirlos de manera
-                auténtica y convincente en el video final. Utilizando técnicas cinematográficas innovadoras y una narrativa
-                cuidadosamente elaborada, creamos videos que resuenan con la audiencia y dejan una impresión duradera.</p>
-        </div>
+                <div class="collage-thumb">               
+                    <a class="image-link" href="/assets/pro-audiovisual/video-corporativo/conferencia.webp">
+                        <img src="/assets/pro-audiovisual/video-corporativo/conferencia.webp" alt="img" />
+                        <div class="thumb-info">Video conferencia</div>
+                    </a>
+                </div>
+            </div>
+            <!--/Collage -->
+            
+        </div> 
+        <!--/Row -->
 
-        <div class="one_fourth">
-            <h6 class="has-animation has-icon">Transmitiendo Mensajes Clave de Manera Efectiva:</h6>
-        </div>
-
-        <div class="two_fourth">
-            <p class="has-animation" data-delay="100">Los videos institucionales son una oportunidad para destacar los
-                mensajes clave de tu organización de una manera clara y efectiva. Ya sea que estés presentando una nueva
-                iniciativa, resaltando los logros de la organización o compartiendo la historia detrás de su éxito, nuestros
-                videos están diseñados para transmitir tus mensajes de manera memorable y persuasiva, garantizando que
-                lleguen a tu audiencia de manera efectiva.</p>
-        </div>
-
-        <div class="one_fourth">
-            <h6 class="has-animation has-icon">Generando Confianza y Credibilidad:</h6>
-        </div>
-
-        <div class="two_fourth">
-            <p class="has-animation" data-delay="100">Los videos institucionales son una herramienta poderosa para generar
-                confianza y credibilidad entre tu audiencia. Al mostrar la experiencia y el compromiso de tu organización
-                con sus clientes, empleados y la comunidad en general, estos videos ayudan a establecer una conexión
-                emocional y personal con la audiencia, fortaleciendo así la relación con la marca y fomentando la lealtad a
-                largo plazo.</p>
-        </div>
-
-        <div class="one_fourth">
-            <h6 class="has-animation has-icon">Un Reflejo de tu Identidad Organizacional:</h6>
-        </div>
-
-        <div class="two_fourth">
-            <p class="has-animation" data-delay="100">En Forma Producciones Audiovisuales, entendemos la importancia de los
-                videos institucionales como un reflejo auténtico de la identidad de tu organización. Nos comprometemos a
-                trabajar en estrecha colaboración contigo para crear un video que capture la esencia y los valores de tu
-                organización de manera precisa y efectiva. Permítenos ser tu socio en el viaje hacia la creación de un video
-                institucional que inspire, informe y conecte con tu audiencia de una manera significativa y duradera.
-                Juntos, crearemos un video que destaque lo mejor de tu organización y deje una impresión positiva en todos
-                aquellos que lo vean.</p>
-        </div>
-
-        <div class="one_fourth last"></div>
 
     </div>
     <!--/Row -->
@@ -97,7 +111,7 @@
 @section('adds')
     <div class="content-row full dark-section" data-bgcolor="#000">
         <figure class="has-parallax has-parallax-content" data-delay="100">
-            <img src="https://www.clapat.com/templates/humpton/images/projects/ladies01.jpg" alt="Image Title">
+            <img src="/assets/pro-audiovisual/video-corporativo/img-bajo.webp" alt="Image Title">
             <div class="parallax-image-content content-max-width text-align-center">
                 <div class="outer">
                     <div class="inner">
