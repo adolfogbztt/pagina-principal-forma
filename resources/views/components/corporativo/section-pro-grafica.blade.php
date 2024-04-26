@@ -94,7 +94,7 @@
                     @if (isset($item['blank']))
                         <div class="swiper-slide">
                             <a target="_blank" href="{{ $item['link'] }}">
-                                <div class="slide-img">
+                                <div class="slide-img imgsizecrop">
                                     <h3
                                         style="z-index:10000; position:absolute; top: 50vh !important;color:#fff; left:20px !important;">
                                         {{ $item['title'] }}</h3>
@@ -105,7 +105,7 @@
                     @else
                         <div class="swiper-slide">
                             <a href="{{ $item['link'] }}">
-                                <div class="slide-img">
+                                <div class="slide-img imgsizecrop">
                                     <h3
                                         style="z-index:10000; position:absolute; top: 50vh !important;color:#fff; left:20px !important;">
                                         {{ $item['title'] }}</h3>

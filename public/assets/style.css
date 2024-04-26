@@ -326,8 +326,6 @@
   padding-bottom: 56.25%;
   /* Proporción 16:9 para el video responsive */
   overflow: hidden;
-  border-top-left-radius: 20px;
-  border-bottom-right-radius: 20px;
   max-width: 100vh !important;
   /* Establece el ancho máximo del contenedor del video */
   margin: 0 auto;
