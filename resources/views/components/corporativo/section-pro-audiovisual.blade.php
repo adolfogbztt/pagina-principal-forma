@@ -34,19 +34,20 @@
             'title' => 'Tours 360°',
             'description' => 'Descripcion',
             'link' => '/pro-audiovisual/tour360',
-        ],
-        [
-            'img' => '/assets/video-corporativo/eventos.webp',
-            'title' => 'Tours VR',
-            'description' => 'Descripcion',
-            'link' => '/pro-audiovisual/tour-vr',
-        ],
-        [
-            'img' => '/assets/video-corporativo/documentales.webp',
-            'title' => 'Realidad Virtual',
-            'description' => 'Descripcion',
-            'link' => '/pro-audiovisual/realidad-virtual',
-        ],
+        ]
+        // [
+        //     // 'img' => '/assets/video-corporativo/eventos.webp',
+        //     'video' => '/assets/pro-audiovisual/tour-vr.webm',
+        //     'title' => 'Tours VR',
+        //     'description' => 'Descripcion',
+        //     'link' => '/pro-audiovisual/tour-vr',
+        // ],
+        // [
+        //     'img' => '/assets/video-corporativo/documentales.webp',
+        //     'title' => 'Realidad Virtual',
+        //     'description' => 'Descripcion',
+        //     'link' => '/pro-audiovisual/realidad-virtual',
+        // ],
     ];
 @endphp
 <!-- Row -->
