@@ -105,7 +105,7 @@
                         <div class="swiper-slide">
                             <a href="{{ $item['link'] }}">
                                 <div class="slide-img">
-                                    <h3 style="z-index:10000; position:absolute; top: 500px !important;">{{$item['title']}}</h1>
+                                    <h3 style="z-index:10000; position:absolute; top: 500px !important;">{{$item['title']}}</h3>
                                     {{-- <img src="https://www.clapat.com/templates/humpton/images/shortcodes/image01.jpg" alt="Image Title"> --}}
                                     <video autoplay muted loop class="video-section" src="{{ $item['video'] }}"></video>
 
