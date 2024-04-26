@@ -112,7 +112,7 @@
         <div class="parallax-image-content content-max-width text-align-center">
             <div class="outer">
                 <div class="inner">
-                    <p>▼</p>
+                    
                     <a target="_blank" href="https://www.formaproducciones.com/virtual/formap/" class="boton-360">Ver Tour</a>
                 </div>
             </div>
