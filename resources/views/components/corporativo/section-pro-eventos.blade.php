@@ -51,7 +51,7 @@
 
         <hr>
 
-        <p class="has-animation" data-delay="0">¡Descubre nuestro nuevo servicio: catering corporativo de primera
+        <p class="has-animation" data-delay="0" style="text-align: justify;">¡Descubre nuestro nuevo servicio: catering corporativo de primera
             categoría! Desde reuniones íntimas hasta grandes celebraciones, elevamos cada detalle de tu evento. Además,
             ofrecemos una moderna cafetera automática con café recién hecho y una variedad de bebidas calientes para tus
             invitados.

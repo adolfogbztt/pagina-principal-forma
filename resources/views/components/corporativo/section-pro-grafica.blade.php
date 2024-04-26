@@ -1,19 +1,20 @@
 @php
     $services = [
         [
-            'img' => '/assets/fotografia/productos.webp',
+            'img' => '/assets/pro-grafica/credencial.webp',
             'title' => 'Credenciales - Fotocheck',
             'description' => 'Descripcion',
-            'link' => '/pro-grafica/c_fotocheck',
+            'link' => 'https://drive.google.com/file/d/1-zd8FPAINXf6qjr_dfEqdORKHtF3jTXf/view?usp=sharing',
+            'blank' => true,
         ],
         [
-            'img' => '/assets/fotografia/productos.webp',
+            'img' => '/assets/pro-grafica/diplomas.webp',
             'title' => 'Impresión de Titutlos y Diplomas',
             'description' => 'Descripcion',
             'link' => '/pro-grafica/titulos-diplomas',
         ],
         [
-            'img' => '/assets/fotografia/productos.webp',
+            'img' => '/assets/pro-grafica/memorias.webp',
             'title' => 'Memorias Coporativas',
             'description' => 'Descripcion',
             'link' => '/pro-grafica/memorias-corp',
@@ -27,10 +28,11 @@
     <div class="pinned-section">
 
         <hr>
-        <div class="scrolling-element left">
-            <figure class="has-animation">
-                <a class="image-link"><img src="assets/fotografia/1productos.webp" alt="Image Title"></a>
-            </figure>
+        <div class="scrolling-element left video-section video-container">
+            <video autoplay muted loop class="item-video" className="item-image">
+                <source src="/assets/pro-grafica/pro-grafica.webm">
+                </source>
+            </video>
         </div>
 
 
@@ -40,7 +42,7 @@
             <h2 class="has-mask-fill no-margins">Producción</h2>
             <h2 class="has-mask-fill">Gráfica
             </h2>
-            <p class="has-animation">En Forma Producciones, ofrecemos un servicio de producción gráfica que se
+            <p class="has-animation" style="text-align: justify;">En Forma Producciones, ofrecemos un servicio de producción gráfica que se
                 adapta a tus necesidades específicas. Desde memorias corporativas hasta credenciales y diplomas, nuestro
                 enfoque centrado en la calidad y la innovación garantiza resultados excepcionales en cada proyecto.
                 Nos diferenciamos por nuestro compromiso con la excelencia y la innovación. Contamos con tecnología de
@@ -55,6 +57,8 @@
 
 
 
+
+
 <!-- Row -->
 <div class="content-row light-section full change-header-color" data-bgcolor="#fff">
     <div class="panels news-panel">
@@ -63,8 +67,20 @@
                 <div class="panel" data-color="#000" data-firstline="Read" data-secondline="Story">
                     <div class="panel-content-wrapper">
                         <div class="panel-image">
-                            <a class="ajax-link" href="{{ $item['link'] }}" data-type="page-transition"><img
-                                    src="{{ $item['img'] }}"> </img></a>
+                            @if (isset($item['video']))
+                            
+                            @else
+                            @if(isset($item['blank']))
+                                <a target="_blank" href="{{ $item['link'] }}">
+                                    <img src="{{ $item['img'] }}"> </img>
+                                </a>
+                            @else
+                            <a href="{{ $item['link'] }}">
+                                <img src="{{ $item['img'] }}"> </img>
+                            </a>
+                            @endif
+                              
+                            @endif
                         </div>
                         <div class="panel-content">
                             <div class="entry-meta entry-categories">

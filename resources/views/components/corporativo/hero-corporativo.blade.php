@@ -36,14 +36,14 @@
                 <div class="one_half"></div>
                 <div class="one_half last">
                     <div class="hero-text">
-                        <span>
+                        <h5 style="text-align: justify;">
                             Con 31 años de trayectoria en la industria audiovisual, en Forma Producciones lideramos el
                             mercado peruano con excelencia y experiencia. Ofrecemos servicios integrales de producción y
                             postproducción de eventos, respaldados por tecnología de vanguardia y un equipo altamente
                             capacitado.
                             <br />
                             <br />¡Descubre el poder de la imagen con Forma Producciones! 
-                        </span>
+                        </h5>
                     </div>
                     <br>
                     <div class="button-wrap right button-link large-btn has-animation">

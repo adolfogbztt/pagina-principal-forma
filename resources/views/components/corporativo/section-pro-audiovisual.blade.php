@@ -5,7 +5,8 @@
             'video' => '/assets/pro-audiovisual/video-c.webm',
             'title' => 'Video Corporativo',
             'description' => 'Descripcion',
-            'link' => '/pro-audiovisual/video-corporativo',
+            'link' => 'https://drive.google.com/file/d/1muxHTj2f_f3BEGUp2g6kanNq3zxGO_Pw/view?usp=sharing',
+            'blank' => true,
         ],
         [
             // 'img' => '/assets/pro-audiovisual/foto-corporativo.webp',
@@ -61,7 +62,8 @@
 
         <hr>
 
-        <p class="has-animation" data-delay="0">Llevamos la producción audiovisual al siguiente nivel con tecnología de
+        <p class="has-animation" data-delay="0" style="text-align: justify;">Llevamos la producción audiovisual al
+            siguiente nivel con tecnología de
             vanguardia. Desde video y fotografía corporativa hasta tour 360, streaming y tomas aéreas con nuestros
             drones; nos especializamos en capturar momentos memorables y contar historias cautivadoras. Nuestro
             compromiso es superar las expectativas de nuestros clientes en cada proyecto, fusionando calidad, innovación
@@ -80,6 +82,56 @@
 </div>
 <!--/Row -->
 
+
+<!-- Row -->
+<div class="content-row row_padding_bottom dark-section text-align-center" data-bgcolor="#000">
+
+    <div class="swiper-container content-looped-carousel has-animation autocenter dark-cursor" data-delay="0">
+
+        <div class="swiper-wrapper">
+
+            @foreach ($services as $item)
+                @if (isset($item['video']))
+                    @if (isset($item['blank']))
+                        <a target="_blank" href="{{ $item['link'] }}">
+                            <div class="swiper-slide">
+                                <div class="slide-img">
+                                    <h3 style="z-index:10000; position:absolute; top: 500px !important;">{{$item['title']}}</h3>
+                                   <video autoplay muted loop class="video-section" src="{{ $item['video'] }}"></video>
+                                </div>
+                            </div>
+                        </a>
+                    @else
+                        <div class="swiper-slide">
+                            <a href="{{ $item['link'] }}">
+                                <div class="slide-img">
+                                    <h3 style="z-index:10000; position:absolute; top: 500px !important;">{{$item['title']}}</h1>
+                                    {{-- <img src="https://www.clapat.com/templates/humpton/images/shortcodes/image01.jpg" alt="Image Title"> --}}
+                                    <video autoplay muted loop class="video-section" src="{{ $item['video'] }}"></video>
+
+                                </div>
+                            </a>
+
+                        </div>
+                    @endif
+                @else
+                    <img src="{{ $item['img'] }}"> </img>
+                @endif
+            @endforeach
+
+
+
+        </div>
+
+        <div class="slider-button-next"></div>
+        <div class="slider-button-prev"></div>
+        <div class="swiper-pagination"></div>
+    </div>
+
+</div>
+
+
+{{-- 
 <!-- Row -->
 <div class="content-row dark-section full change-header-color" data-bgcolor="#000">
     <div class="panels news-panel">
@@ -89,32 +141,39 @@
                 <div class="panel" data-color="#000" data-firstline="Read" data-secondline="Story">
                     <div class="panel-content-wrapper">
                         <div class="panel-image">
-                            <a class="ajax-link" href="{{ $item['link'] }}" data-type="page-transition">
-                                @if (isset($item['video']))
-                                    <video autoplay muted loop class="video-section" src="{{ $item['video'] }}">
-                                    </video>
-                            </a>
-                        @else
-                            <img class="grayscale60" src="{{ $item['img'] }}"> </img></a>
-            @endif
+                            @if (isset($item['video']))
+                                @if (isset($item['blank']))
+                                    <a target="_blank" href="{{ $item['link'] }}">
+                                        <video autoplay muted loop class="video-section" src="{{ $item['video'] }}">
+                                        </video>
+                                    </a>
+                                @else
+                                    <a href="{{ $item['link'] }}">
+                                        <video autoplay muted loop class="video-section" src="{{ $item['video'] }}">
+                                        </video>
+                                    </a>
+                                @endif
+                            @else
+                                <img class="grayscale60" src="{{ $item['img'] }}"> </img>
+                            @endif
 
-        </div>
-        <div class="panel-content">
-            <div class="entry-meta entry-categories">
-                <ul class="post-categories">
-                    <li class="link"><a href="#"><span data-hover="Forma">Forma</span></a>
-                    </li>
-                    <li class="link"><a href="#"><span data-hover="Video">Video</span></a>
-                    </li>
-                </ul>
-            </div>
-            <div class="news-panel-title"><span>{{ $item['title'] }}</span>
-            </div>
+                        </div>
+                        <div class="panel-content">
+                            <div class="entry-meta entry-categories">
+                                <ul class="post-categories">
+                                    <li class="link"><a href="#"><span data-hover="Forma">Forma</span></a>
+                                    </li>
+                                    <li class="link"><a href="#"><span data-hover="Video">Video</span></a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="news-panel-title"><span>{{ $item['title'] }}</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            @endforeach
         </div>
     </div>
 </div>
-@endforeach
-</div>
-</div>
-</div>
-<!-- Row -->
+<!-- Row --> --}}

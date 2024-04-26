@@ -6,12 +6,7 @@
     $color = 'light'; // 'dark' || 'light'
     $text_move = ' Drone · Drone ·';
     $img_hero = '/assets/pro-audiovisual/drone/drone1.webp';
-    $description = 'Nuestro Servicio de Video Corporativo te ayuda a transmitir la esencia de tu empresa de manera 
-        efectiva. Creamos videos profesionales y cautivadores que destacan tus productos, servicios y 
-        fortalezas. Con equipos de última generación y técnicas cinematográficas, logramos resultados 
-        impactantes. Desde la conceptualización hasta la edición, nos encargamos de todo el proceso para 
-        garantizar videos de alta calidad que conecten con tu audiencia y te hagan destacar en el mercado. 
-        Confía en nosotros para llevar la imagen de tu empresa al siguiente nivel. ';
+    $description = '';
     /*END HERO SECTION*/
 
     /*CONTENT SECTION*/
