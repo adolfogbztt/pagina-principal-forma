@@ -2,17 +2,22 @@
 
 .drone {
   /* transform: ; Centrar la imagen */
-  animation: moveDrone 5s linear infinite; /* Animación del movimiento */
+  animation: moveDrone 5s linear infinite;
+  /* Animación del movimiento */
 }
 
 /* Definición de la animación */
 @keyframes moveDrone {
+
   0%,
   100% {
-    transform: translate(0%, 0%); /* Posición inicial y final */
+    transform: translate(0%, 0%);
+    /* Posición inicial y final */
   }
+
   50% {
-    transform: translate(0%, 7%); /* Subir */
+    transform: translate(0%, 7%);
+    /* Subir */
   }
 }
 
@@ -34,12 +39,12 @@
   bottom: 0 !important;
   left: 0 !important;
   right: 0 !important;
-  background: linear-gradient(
-    to top,
-    rgba(0, 0, 0, 0.5),
-    transparent
-  ) !important; /* Gradiente en la parte superior */
-  color: white !important; /* Color del texto */
+  background: linear-gradient(to top,
+      rgba(0, 0, 0, 0.5),
+      transparent) !important;
+  /* Gradiente en la parte superior */
+  color: white !important;
+  /* Color del texto */
   padding: 10px !important;
   text-align: center !important;
 }
@@ -47,58 +52,75 @@
 /* Estilo para el título */
 .overlay h2 {
   margin-top: 0 !important;
-  text-align: right; /* Justificar a la derecha */
-  color: white !important; /* Color del texto */
+  text-align: right;
+  /* Justificar a la derecha */
+  color: white !important;
+  /* Color del texto */
 }
 
 /* Estilo para la descripción */
 .overlay p {
   margin-bottom: 0 !important;
-  text-align: right; /* Justificar a la derecha */
-  color: white !important; /* Color del texto */
+  text-align: right;
+  /* Justificar a la derecha */
+  color: white !important;
+  /* Color del texto */
 }
 
 .grayscale20 {
-  filter: grayscale(20%) !important; /* Aplicar escala de grises al 100% */
+  filter: grayscale(20%) !important;
+  /* Aplicar escala de grises al 100% */
 }
 
 /* Cuando el cursor esté sobre la imagen */
 .grayscale20:hover {
-  filter: grayscale(0%) !important; /* Remover el efecto de escala de grises */
+  filter: grayscale(0%) !important;
+  /* Remover el efecto de escala de grises */
 }
 
 .grayscale60 {
-  filter: grayscale(70%) !important; /* Aplicar escala de grises al 100% */
+  filter: grayscale(70%) !important;
+  /* Aplicar escala de grises al 100% */
 }
 
 /* Cuando el cursor esté sobre la imagen */
 .grayscale60:hover {
-  filter: grayscale(0%) !important; /* Remover el efecto de escala de grises */
+  filter: grayscale(0%) !important;
+  /* Remover el efecto de escala de grises */
 }
 
 .grayscale80 {
-  filter: grayscale(80%) !important; /* Aplicar escala de grises al 100% */
+  filter: grayscale(80%) !important;
+  /* Aplicar escala de grises al 100% */
 }
 
 /* Cuando el cursor esté sobre la imagen */
 .grayscale80:hover {
-  filter: grayscale(0%) !important; /* Remover el efecto de escala de grises */
+  filter: grayscale(0%) !important;
+  /* Remover el efecto de escala de grises */
 }
 
 .logo-container {
-  width: 200px; /* El tamaño deseado del contenedor */
-  height: 200px; /* El tamaño deseado del contenedor */
-  overflow: hidden; /* Oculta el contenido que se desborda */
+  width: 200px;
+  /* El tamaño deseado del contenedor */
+  height: 200px;
+  /* El tamaño deseado del contenedor */
+  overflow: hidden;
+  /* Oculta el contenido que se desborda */
 }
 
 .logo-container img {
-  width: 100%; /* La imagen se ajusta al ancho del contenedor */
-  height: 100%; /* La imagen se ajusta al alto del contenedor */
-  object-fit: cover; /* La imagen se recorta para cubrir el contenedor */
+  width: 100%;
+  /* La imagen se ajusta al ancho del contenedor */
+  height: 100%;
+  /* La imagen se ajusta al alto del contenedor */
+  object-fit: cover;
+  /* La imagen se recorta para cubrir el contenedor */
 }
 
 .citas_button {
-  margin-top: 20px !important; /* Mantienes el margen superior original */
+  margin-top: 20px !important;
+  /* Mantienes el margen superior original */
   background-color: black;
   padding-top: 12px;
   padding-bottom: 12px;
@@ -112,7 +134,8 @@
 /* Agregamos reglas para dispositivos con ancho menor a 768px (puedes ajustar este valor según tus necesidades) */
 @media (max-width: 390px) {
   .button-box {
-    margin-top: 20px; /* Ajustamos el espacio entre el botón y el header */
+    margin-top: 20px;
+    /* Ajustamos el espacio entre el botón y el header */
   }
 
   .citas_button {
@@ -121,11 +144,16 @@
     margin-bottom: 20px;
     top: 50%;
     transform: translateY(-50%);
-    font-size: 10px; /* Reducimos el tamaño de la fuente */
-    padding-top: 5px; /* Reducimos el relleno superior */
-    padding-bottom: 5px; /* Reducimos el relleno inferior */
-    padding-left: 10px; /* Reducimos el relleno izquierdo */
-    padding-right: 10px; /* Reducimos el relleno derecho */
+    font-size: 10px;
+    /* Reducimos el tamaño de la fuente */
+    padding-top: 5px;
+    /* Reducimos el relleno superior */
+    padding-bottom: 5px;
+    /* Reducimos el relleno inferior */
+    padding-left: 10px;
+    /* Reducimos el relleno izquierdo */
+    padding-right: 10px;
+    /* Reducimos el relleno derecho */
   }
 }
 
@@ -138,6 +166,7 @@
   from {
     transform: translateX(0);
   }
+
   to {
     transform: translateX(-100%);
   }
@@ -187,8 +216,9 @@
   border-right-color: #becd20;
   animation: l15 1s infinite linear;
 }
+
 .loader::before,
-.loader::after {    
+.loader::after {
   content: "";
   grid-area: 1/1;
   margin: 2px;
@@ -196,15 +226,19 @@
   border-radius: 50%;
   animation: l15 2s infinite;
 }
+
 .loader::after {
   margin: 8px;
   animation-duration: 3s;
 }
-@keyframes l15{ 
-  100%{transform: rotate(1turn)}
+
+@keyframes l15 {
+  100% {
+    transform: rotate(1turn)
+  }
 }
 
-.video-section{
+.video-section {
   max-width: 115vh !important;
   height: auto !important;
 }
@@ -212,12 +246,15 @@
 
 .video-container {
   position: relative;
-  padding-bottom: 56.25%; /* Proporción 16:9 para el video responsive */
+  padding-bottom: 56.25%;
+  /* Proporción 16:9 para el video responsive */
   overflow: hidden;
   border-top-left-radius: 20px;
   border-bottom-right-radius: 20px;
-  max-width: 100vh !important; /* Establece el ancho máximo del contenedor del video */
-  margin: 0 auto; /* Centra el contenedor horizontalmente */
+  max-width: 100vh !important;
+  /* Establece el ancho máximo del contenedor del video */
+  margin: 0 auto;
+  /* Centra el contenedor horizontalmente */
 }
 
 .item-video {
@@ -226,7 +263,7 @@
   left: 0;
   width: 100% !important;
   height: 100% !important;
-  
+
 }
 
 .boton-360 {
@@ -266,7 +303,8 @@
   transition: 0.5s;
 }
 
-.boton-360:hover::before, .boton-360:hover::after {
+.boton-360:hover::before,
+.boton-360:hover::after {
   transform: scale(0)
 }
 
@@ -276,17 +314,27 @@
 
 
 
-.proporcion-4-3 {
+.imgsizecrop {
+  min-width: 100vh !important;
+  min-height: 500px !important;
+  max-width: 500px !important;
+  max-height: 500px !important;
+  width: auto !important;
+  height: auto !important;
+  
   position: relative;
-  width: 100%;
-  max-width: 400px; /* Puedes ajustar el ancho máximo según tus necesidades */
-  padding-bottom: 75%; /* Proporción 4:3 */
+  padding-bottom: 56.25%;
+  /* Proporción 16:9 para el video responsive */
   overflow: hidden;
+  border-top-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  max-width: 100vh !important;
+  /* Establece el ancho máximo del contenedor del video */
+  margin: 0 auto;
 }
 
-.proporcion-4-3 img {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  object-fit: cover; /* Para cubrir el contenedor manteniendo la proporción */
+.imgsizecrop img {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: contain !important; /* Para mantener la relación de aspecto */
 }

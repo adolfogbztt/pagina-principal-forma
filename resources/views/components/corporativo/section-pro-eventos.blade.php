@@ -73,9 +73,79 @@
 </div>
 <!--/Row -->
 
+<div class="content-row row_padding_bottom dark-section text-align-center" data-bgcolor="#000">
+
+    <div class="swiper-container content-looped-carousel has-animation autocenter dark-cursor" data-delay="0">
+
+        <div class="swiper-wrapper">
+
+            @foreach ($services as $item)
+                @if (isset($item['video']))
+                    @if (isset($item['blank']))
+                        <a target="_blank" href="{{ $item['link'] }}">
+                            <div class="swiper-slide">
+                                <div class="slide-img">
+                                    <h3 style="z-index:10000; position:absolute; top: 500px !important;">
+                                        {{ $item['title'] }}</h3>
+                                    <video autoplay muted loop class="video-section" src="{{ $item['video'] }}"></video>
+                                </div>
+                            </div>
+                        </a>
+                    @else
+                        <div class="swiper-slide">
+                            <a href="{{ $item['link'] }}">
+                                <div class="slide-img ">
+                                    <h3 style="z-index:10000; position:absolute; top: 500px !important;">
+                                        {{ $item['title'] }}</h3>
+                                    {{-- <img src="https://www.clapat.com/templates/humpton/images/shortcodes/image01.jpg" alt="Image Title"> --}}
+                                    <video autoplay muted loop class="video-section" src="{{ $item['video'] }}"></video>
+
+                                </div>
+                            </a>
+
+                        </div>
+                    @endif
+                @else
+                    @if (isset($item['blank']))
+                        <div class="swiper-slide">
+                            <a target="_blank" href="{{ $item['link'] }}">
+                                <div class="slide-img">
+                                    <h3
+                                        style="z-index:10000; position:absolute; top: 50vh !important;color:#fff; left:20px !important;">
+                                        {{ $item['title'] }}</h3>
+                                    <img src="{{ $item['img'] }}" class="imgsize"> </img>
+                                </div>
+                            </a>
+                        </div>
+                    @else
+                        <div class="swiper-slide">
+                            <a href="{{ $item['link'] }}">
+                                <div class="slide-img imgsizecrop">
+                                    <h3
+                                        style="z-index:10000; position:absolute; top: 50vh !important;color:#fff; left:20px !important;">
+                                        {{ $item['title'] }}</h3>
+                                    <img src="{{ $item['img'] }}" class="imgsize"> </img>
+                                </div>
+                            </a>
+                        </div>
+                    @endif
+                @endif
+            @endforeach
 
 
-<!-- Row -->
+
+        </div>
+
+        <div class="slider-button-next"></div>
+        <div class="slider-button-prev"></div>
+        <div class="swiper-pagination"></div>
+    </div>
+
+</div>
+
+
+
+{{-- <!-- Row -->
 <div class="content-row dark-section full change-header-color" data-bgcolor="#000">
     <div class="panels news-panel">
         <div class="panels-container">
@@ -105,6 +175,6 @@
             @endforeach
         </div>
     </div>
-</div>
+</div> --}}
 
 <!-- Row -->
