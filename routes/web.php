@@ -106,7 +106,7 @@ Route::get('/clientes/universidades', function () {
     return view('pages.clientes.universidades');
 });
 
-// blog-drone
+// blog-drone paginas listas
 Route::get('/blog-drone/cartografia', function () {
 
     $faq = [
@@ -266,38 +266,10 @@ Route::get('/pro-grafica/titulos-diplomas', function () {
 
 Route::get('/pro-grafica/memorias-corp', function () {
 
-    $faq = [
-        [
-            'pregunta' => '¿Cuáles son los beneficios de invertir en fotografía de publicidad?',
-            'respuesta' => 'La fotografía de publicidad puede ayudar a aumentar el reconocimiento de marca, atraer a nuevos clientes, generar interés en tus productos o servicios y aumentar las ventas al mostrarlos de manera atractiva y convincente.',
-        ],
-        [
-            'pregunta' => '¿Qué tipos de productos o servicios pueden ser promocionados a través de la fotografía de publicidad?',
-            'respuesta' => 'Prácticamente cualquier producto o servicio puede ser promocionado mediante fotografía de publicidad, desde artículos de consumo como ropa, alimentos y tecnología, hasta servicios profesionales como consultoría legal o servicios de salud.',
-        ],
-        [
-            'pregunta' => '¿Qué tipos de imágenes se pueden crear en una sesión de fotografía de publicidad?',
-            'respuesta' => 'En una sesión de fotografía de publicidad se pueden crear una variedad de imágenes, incluyendo fotografías de productos en contextos lifestyle, imágenes de retrato de modelos o empleados de la empresa, y fotografías conceptuales que transmitan mensajes específicos de la marca.',
-        ],
-        [
-            'pregunta' => '¿Cuál es el papel del retoque digital en la fotografía de publicidad?',
-            'respuesta' => 'El retoque digital se utiliza para perfeccionar las imágenes, corregir imperfecciones, ajustar el color y la iluminación, y crear efectos especiales que refuercen el mensaje de la publicidad y maximicen su impacto visual.',
-        ],
-        [
-            'pregunta' => '¿Cómo puedo medir el éxito de una campaña de fotografía de publicidad?',
-            'respuesta' => 'El éxito de una campaña de fotografía de publicidad puede medirse mediante métricas como el aumento en el tráfico del sitio web, el incremento en las ventas de los productos o servicios promocionados, y la respuesta del público en redes sociales o medios de comunicación.',
-        ]
-    ];
+    $faq = [];
 
-    return view('pages.pro-grafica.f_publicidad', compact('faq'));
+    return view('pages.pro-grafica.memorias-corp', compact('faq'));
 });
-
-// Route::get('/pro-grafica/fotografia', function () {
-
-//     $faq = [];
-
-//     return view('pages.pro-grafica.f_fotografia', compact('faq'));
-// });
 
 // pro-audiovisual
 Route::get('/pro-audiovisual/video-corporativo', function () {
@@ -415,47 +387,6 @@ Route::get('/pro-audiovisual/foto-corporativa', function () {
     ];
 
     return view('pages.pro-audiovisual.foto-corporativa', compact('faq'));
-});
-
-// Streaming & Tours 360
-Route::get('/streaming-tours360/streaming', function () {
-
-    $faq = [
-        [
-            'pregunta' => '¿Qué tipo de eventos o actividades pueden transmitirse a través del servicio de streaming?',
-            'respuesta' => 'Nuestro servicio de streaming es versátil y puede adaptarse a una amplia gama de eventos y actividades. Esto incluye conferencias, seminarios web, presentaciones de productos, conciertos, eventos deportivos, ceremonias, reuniones corporativas y mucho más. Desde eventos pequeños y privados hasta grandes producciones en vivo, nuestro equipo está preparado para cubrir todo tipo de eventos y llevarlos a la audiencia global a través de la transmisión en línea.',
-        ],
-        [
-            'pregunta' => '¿Cómo garantizan la calidad y estabilidad de la transmisión durante el evento en vivo?',
-            'respuesta' => 'Nos comprometemos a ofrecer transmisiones en vivo de alta calidad con una excelente estabilidad y confiabilidad. Utilizamos equipos de transmisión de última generación y conexiones de internet robustas para garantizar una experiencia de visualización fluida y sin interrupciones. Además, contamos con técnicos y operadores capacitados que supervisan la transmisión en todo momento, resolviendo cualquier problema técnico de manera rápida y eficiente para asegurar que el evento se desarrolle sin contratiempos.',
-        ],
-        [
-            'pregunta' => '¿Ofrecen opciones de personalización y interacción para la audiencia durante la transmisión en vivo?',
-            'respuesta' => 'Sí, ofrecemos varias opciones de personalización y participación para mejorar la experiencia del espectador durante la transmisión en vivo. Esto incluye la integración de gráficos y logotipos personalizados, la inclusión de titulares y subtítulos, la posibilidad de realizar encuestas y preguntas en tiempo real, y la habilitación de chats y comentarios para fomentar la interacción entre la audiencia y los presentadores. Adaptamos las características y funcionalidades de la transmisión según las necesidades y preferencias específicas de cada cliente y evento.',
-        ]
-    ];
-
-    return view('pages.streaming-tours360.streaming', compact('faq'));
-});
-
-Route::get('/streaming-tours360/tour360', function () {
-
-    $faq = [
-        [
-            'pregunta' => '¿Cuál es el proceso para crear un tour 360 de nuestra propiedad/institución?',
-            'respuesta' => 'El proceso comienza con una consulta inicial para comprender sus necesidades y objetivos específicos. Luego, nuestro equipo de fotógrafos profesionales realiza una visita al lugar para capturar imágenes panorámicas de alta calidad utilizando equipos especializados y técnicas avanzadas. Una vez que se capturan las imágenes, nuestro equipo de edición trabaja en la postproducción para crear un recorrido virtual fluido y envolvente. Finalmente, el tour 360 se integra en su sitio web y otras plataformas digitales para su visualización.',
-        ],
-        [
-            'pregunta' => '¿Cuánto tiempo lleva completar un tour 360?',
-            'respuesta' => 'El tiempo de entrega puede variar según la complejidad del proyecto y la disponibilidad del lugar a fotografiar. En general, desde la consulta inicial hasta la entrega final del tour 360, puede tomar aproximadamente de 2 a 4 semanas. Sin embargo, trabajamos diligentemente para cumplir con los plazos acordados y garantizar la calidad de nuestro trabajo.',
-        ],
-        [
-            'pregunta' => '¿Qué medidas de seguridad y privacidad se aplican durante la captura de imágenes para un tour 360?',
-            'respuesta' => 'Respetamos la privacidad y confidencialidad de nuestros clientes en todo momento. Antes de comenzar la sesión de fotografía, discutimos cualquier requisito específico de privacidad y obtenemos cualquier autorización necesaria. Nuestro equipo también toma precauciones adicionales para evitar la captura de información confidencial o sensible durante el proceso de fotografía y edición.',
-        ]
-    ];
-
-    return view('pages.streaming-tours360.tour-360', compact('faq'));
 });
 
 // Impreciones

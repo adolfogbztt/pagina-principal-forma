@@ -41,8 +41,8 @@
          <!-- Row -->
          <div class="content-row light-section" data-bgcolor="#fff">
                                 
-            <h5>Justified Grid</h5> 
-            <p>You have the option to add captions if needed or popup lightbox</p>
+            <h5>Servicios Forma</h5> 
+            <p>Seleccione un servicio</p>
             
             <hr>
             

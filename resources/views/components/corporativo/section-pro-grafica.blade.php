@@ -1,7 +1,7 @@
 @php
     $services = [
         [
-            'img' => '/assets/fotografia/corporativo.webp',
+            'img' => '/assets/fotografia/productos.webp',
             'title' => 'Credenciales - Fotocheck',
             'description' => 'Descripcion',
             'link' => '/pro-grafica/c_fotocheck',
@@ -13,7 +13,7 @@
             'link' => '/pro-grafica/titulos-diplomas',
         ],
         [
-            'img' => '/assets/fotografia/publicidad.webp',
+            'img' => '/assets/fotografia/productos.webp',
             'title' => 'Memorias Coporativas',
             'description' => 'Descripcion',
             'link' => '/pro-grafica/memorias-corp',
@@ -29,10 +29,10 @@
         <hr>
         <div class="scrolling-element left">
             <figure class="has-animation">
-                <a href="#" class="image-link"><img src="assets/fotografia/1productos.webp" alt="Image Title"></a>
+                <a class="image-link"><img src="assets/fotografia/1productos.webp" alt="Image Title"></a>
             </figure>
         </div>
-        
+
 
         <div class="pinned-element right">
 
@@ -46,8 +46,7 @@
                 Nos diferenciamos por nuestro compromiso con la excelencia y la innovación. Contamos con tecnología de
                 punta, incluyendo máquinas de impresión digitales láser y offset de alta tecnología, lo que nos permite
                 mantener un control total sobre el proceso de impresión. Esto se traduce en resultados precisos y de
-                impacto
-                desde el concepto inicial hasta la entrega final.
+                impacto desde el concepto inicial hasta la entrega final.
         </div>
     </div>
 
@@ -65,7 +64,7 @@
                     <div class="panel-content-wrapper">
                         <div class="panel-image">
                             <a class="ajax-link" href="{{ $item['link'] }}" data-type="page-transition"><img
-                                    class="grayscale60" src="{{ $item['img'] }}"> </img></a>
+                                    src="{{ $item['img'] }}"> </img></a>
                         </div>
                         <div class="panel-content">
                             <div class="entry-meta entry-categories">

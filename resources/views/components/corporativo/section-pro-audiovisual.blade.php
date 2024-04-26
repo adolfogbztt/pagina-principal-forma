@@ -34,14 +34,14 @@
             'title' => 'Tours 360°',
             'description' => 'Descripcion',
             'link' => '/pro-audiovisual/tour360',
+        ],
+        [
+            'img' => '/assets/video-corporativo/eventos.webp',
+            'video' => '/assets/pro-audiovisual/tour-vr.webm',
+            'title' => 'Tours VR',
+            'description' => 'Descripcion',
+            'link' => '/pro-audiovisual/tour-vr',
         ]
-        // [
-        //     // 'img' => '/assets/video-corporativo/eventos.webp',
-        //     'video' => '/assets/pro-audiovisual/tour-vr.webm',
-        //     'title' => 'Tours VR',
-        //     'description' => 'Descripcion',
-        //     'link' => '/pro-audiovisual/tour-vr',
-        // ],
         // [
         //     'img' => '/assets/video-corporativo/documentales.webp',
         //     'title' => 'Realidad Virtual',
@@ -71,9 +71,9 @@
     </div>
 
     <div class="one_half last video-container">
-        <video autoplay muted loop class="item-video"
-             className="item-image grayscale60">
-        <source src="/assets/pro-audiovisual/pro-audiovisual.mp4"></source>
+        <video autoplay muted loop class="item-video" className="item-image">
+            <source src="/assets/pro-audiovisual/pro-audiovisual.mp4">
+            </source>
         </video>
     </div>
 
@@ -91,7 +91,8 @@
                         <div class="panel-image">
                             <a class="ajax-link" href="{{ $item['link'] }}" data-type="page-transition">
                                 @if (isset($item['video']))
-                                    <video autoplay muted loop class="video-section" src="{{ $item['video'] }}"> </video>
+                                    <video autoplay muted loop class="video-section" src="{{ $item['video'] }}">
+                                    </video>
                             </a>
                         @else
                             <img class="grayscale60" src="{{ $item['img'] }}"> </img></a>

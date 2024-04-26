@@ -19,7 +19,7 @@
     /*CONTENT SECTION*/
 @endphp
 
-@extends('layouts.articulo', ['title' => $title, 'img_hero' => $img_hero, 'text_move' => $text_move, 'description' => $description, 'color' => $color])
+@extends('layouts.blank', ['title' => $title, 'img_hero' => $img_hero, 'text_move' => $text_move, 'description' => $description, 'color' => $color])
 
 @section('content')
     <!-- Row -->
@@ -29,62 +29,101 @@
         <div class="one_fourth"></div>
 
         <div class="two_fourth">
-            <h3 class="has-mask-fill">¡Deteniendo el tiempo en imágenes perfectas!
-            </h3>
+            <h3 class="has-mask-fill">¡Impulsa tu éxito con fotos que impactan!</h3>
         </div>
 
         <div class="one_fourth last"></div>
 
         <hr>
 
-        <div class="one_fourth">
-            <h6 class="has-animation has-icon">Fotografía Corporativa</h6>
-        </div>
+         <!-- Row -->
+         <div class="content-row light-section" data-bgcolor="#fff">
+                                
+            
+            <hr>
+            
+            <!-- Collage -->
+            <div class="justified-grid">
+                
+                <!-- Collage item with pop-up -->
+                <div class="collage-thumb">                          
+                    <a class="image-link">
+                    <img src="/assets/pro-audiovisual/foto-corporativo/1.webp" alt="img" />
+                        <div class="thumb-info"></div>
+                    </a>
+                </div>
+                
+                <!-- Collage item with pop-up -->
+                <div class="collage-thumb">               
+                    <a class="image-link">
+                       <img src="/assets/pro-audiovisual/foto-corporativo/2.webp" alt="img" />
+                        <div class="thumb-info"></div>
+                    </a>
+                </div>
+                
+                <!-- Collage item with pop-up -->
+                <div class="collage-thumb">               
+                    <a class="image-link">
+                        <img src="/assets/pro-audiovisual/foto-corporativo/3.webp" alt="img" />
+                        <div class="thumb-info"></div>
+                    </a>
+                </div>
+                
+                <!-- Collage item with pop-up -->
+                <div class="collage-thumb">               
+                    <a class="image-link">
+                       <img src="/assets/pro-audiovisual/foto-corporativo/4.webp" alt="img" />
+                        <div class="thumb-info"></div>
+                    </a>
+                </div>
+                
+                <!-- Collage item with pop-up -->
+                <div class="collage-thumb">               
+                    <a class="image-link">
+                        <img src="/assets/pro-audiovisual/foto-corporativo/5.webp" alt="img" />
+                        <div class="thumb-info"></div>
+                    </a>
+                </div>
 
-        <div class="two_fourth">
-            <p class="has-animation" data-delay="100">texto o video</p>
-        </div>
+                <!-- Collage item with pop-up -->
+                <div class="collage-thumb">               
+                    <a class="image-link">
+                        <img src="/assets/pro-audiovisual/foto-corporativo/6.webp" alt="img" />
+                        <div class="thumb-info"></div>
+                    </a>
+                </div>
 
-        <div class="one_fourth">
-            <h6 class="has-animation has-icon">Fotografía de Producto</h6>
-        </div>
+                <!-- Collage item with pop-up -->
+                <div class="collage-thumb">               
+                    <a class="image-link">
+                        <img src="/assets/pro-audiovisual/foto-corporativo/7.webp" alt="img" />
+                        <div class="thumb-info"></div>
+                    </a>
+                </div>
 
-        <div class="two_fourth">
-            <p class="has-animation" data-delay="100">texto o video</p>
-        </div>
+                <!-- Collage item with pop-up -->
+                <div class="collage-thumb">               
+                    <a class="image-link">
+                        <img src="/assets/pro-audiovisual/foto-corporativo/8.webp" alt="img" />
+                        <div class="thumb-info"></div>
+                    </a>
+                </div>
+                
+                <!-- Collage item with pop-up -->
 
-        <div class="one_fourth">
-            <h6 class="has-animation has-icon">Fotografía Publicitaria</h6>
-        </div>
+                <div class="collage-thumb">               
+                    <a class="image-link">
+                        <img src="/assets/pro-audiovisual/foto-corporativo/9.webp" alt="img" />
+                        <div class="thumb-info"></div>
+                    </a>
+                </div>
+            </div>
+            <!--/Collage -->
+            
+        </div> 
+        <!--/Row -->
 
-        <div class="two_fourth">
-            <p class="has-animation" data-delay="100">texto o video</p>
-        </div>
-
-        <div class="one_fourth">
-            <h6 class="has-animation has-icon">Fotografía de Eventos</h6>
-        </div>
-
-        <div class="two_fourth">
-            <p class="has-animation" data-delay="100">texto o video</p>
-        </div>
-
-        <div class="one_fourth last"></div>
 
     </div>
     <!--/Row -->
-@endsection
-
-@section('adds')
-    <div class="content-row full dark-section" data-bgcolor="#000">
-        <figure class="has-parallax has-parallax-content" data-delay="100">
-            <img src="/assets/pro-audiovisual/foto-corporativo/img-bajo.webp" alt="Image Title">
-            <div class="parallax-image-content content-max-width text-align-center">
-                <div class="outer">
-                    <div class="inner">
-                    </div>
-                </div>
-            </div>
-        </figure>
-    </div>
-@endsection
+    @endsection

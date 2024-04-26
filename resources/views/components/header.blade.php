@@ -3,7 +3,7 @@
     <div id="header-container">
         <!-- Logo -->
         <div id="logo" class="hide-ball">
-            <a class="ajax-link" data-type="page-transition" href="/">
+            <a href="/">
 
                 <img src="/assets/logo-solo.png" alt="Forma Producciones Logo">
 
@@ -55,8 +55,8 @@
                                             data-type="page-transition">Universidades</a></li>
                                     <!-- Nuevo enlace para mostrar todos los clientes -->
                                     <li><a>🔻</a></li>
-                                    <li><a class="ajax-link" href="/clientes"
-                                            data-type="page-transition">Todos los clientes</a></li>
+                                    <li><a class="ajax-link" href="/clientes" data-type="page-transition">Todos los
+                                            clientes</a></li>
                                 </ul>
                             </li>
                             {{-- <li class="link menu-timeline"><a class="" href="#">

@@ -1,37 +1,37 @@
 @php
     $services = [
         [
-            'img' => '/assets/catering/bocaditos.webp',
+            'img' => '/assets/pro-eventos/catering.webp',
             'title' => 'Catering Corporativo',
             'description' => 'Descripcion',
             'link' => '/pro-eventos/catering-corp',
         ],
         [
-            'img' => '/assets/catering/cafetera.webp',
+            'img' => '/assets/pro-eventos/cafetera.webp',
             'title' => 'Cafetera Automática',
             'description' => 'Descripcion',
             'link' => '/pro-eventos/cafetera-automatica',
         ],
         [
-            'img' => '/assets/catering/cafetera.webp',
+            'img' => '/assets/pro-eventos/photobooth.webp',
             'title' => 'Photobooth 360°',
             'description' => 'Descripcion',
             'link' => '/pro-eventos/photobooth-360',
         ],
         [
-            'img' => '/assets/catering/cafetera.webp',
+            'img' => '/assets/pro-eventos/iglu.webp',
             'title' => 'Cabina Fotográfica Iglú',
             'description' => 'Descripcion',
             'link' => '/pro-eventos/foto-iglu',
         ],
         [
-            'img' => '/assets/catering/cafetera.webp',
+            'img' => '/assets/pro-eventos/panel-led.webp',
             'title' => 'Panel LED',
             'description' => 'Descripcion',
             'link' => '/pro-eventos/panel-led',
         ],
         [
-            'img' => '/assets/catering/bocaditos.webp',
+            'img' => '/assets/pro-eventos/karaoke.webp',
             'title' => 'karaoke',
             'description' => 'Descripcion',
             'link' => '/pro-eventos/karaoke',
@@ -46,18 +46,28 @@
     <hr>
 
     <div class="one_half">
-        <h1 class="has-mask-fill no-margins">Catering</h1>
-        <h1 class="has-mask-fill">Corporativo</h1>
+        <h2 class="has-mask-fill no-margins">Producción</h2>
+        <h2 class="has-mask-fill">de Eventos</h2>
 
         <hr>
 
-        <p class="has-animation" data-delay="0">Deléitate con nuestro servicio de catering y disfruta 
-            de la comodidad de una cafetera automática en tus eventos con Forma Producciones.</p>
+        <p class="has-animation" data-delay="0">¡Descubre nuestro nuevo servicio: catering corporativo de primera
+            categoría! Desde reuniones íntimas hasta grandes celebraciones, elevamos cada detalle de tu evento. Además,
+            ofrecemos una moderna cafetera automática con café recién hecho y una variedad de bebidas calientes para tus
+            invitados.
+
+            Y no te pierdas nuestro nuevo local en Pachacamac: un espacio moderno y elegante diseñado especialmente para
+            tus eventos corporativos. Confía en nosotros para brindarte un servicio excepcional que impresionará a tus
+            invitados.
+        </p>
 
     </div>
 
-    <div class="one_half last">
-        <img src='/assets/catering/catering1.webp' className="item-image grayscale60" autoPlay muted loop></img>
+    <div class="one_half last video-container">
+        <video autoplay muted loop class="item-video" className="item-image">
+            <source src="/assets/pro-eventos/eventos.webm">
+            </source>
+        </video>
     </div>
 
 </div>
@@ -75,7 +85,7 @@
                     <div class="panel-content-wrapper">
                         <div class="panel-image">
                             <a class="ajax-link" href="{{ $item['link'] }}" data-type="page-transition">
-                                <img class="grayscale60" src="{{ $item['img'] }}" />
+                                <img src="{{ $item['img'] }}" />
                             </a>
                         </div>
                         <div class="panel-content">
