@@ -300,6 +300,50 @@ Route::get('/pro-audiovisual/video-corporativo', function () {
     return view('pages.pro-audiovisual.video-corporativo', compact('faq'));
 });
 
+// video-corporativo blog
+
+Route::get('/blog-corporativo/conferencias', function () {
+
+    $faq = [];
+
+    return view('pages.blog-corporativo.conferencias', compact('faq'));
+});
+
+Route::get('/blog-corporativo/documentales', function () {
+
+    $faq = [];
+
+    return view('pages.blog-corporativo.documentales', compact('faq'));
+});
+
+Route::get('/blog-corporativo/grabacion-eventos', function () {
+
+    $faq = [];
+
+    return view('pages.blog-corporativo.grabacion-eventos', compact('faq'));
+});
+
+Route::get('/blog-corporativo/spot-publi', function () {
+
+    $faq = [];
+
+    return view('pages.blog-corporativo.spot-publi', compact('faq'));
+});
+
+Route::get('/blog-corporativo/video-induccion', function () {
+
+    $faq = [];
+
+    return view('pages.blog-corporativo.video-induccion', compact('faq'));
+});
+
+Route::get('/blog-corporativo/video-inst', function () {
+
+    $faq = [];
+
+    return view('pages.blog-corporativo.video-inst', compact('faq'));
+});
+
 Route::get('/pro-audiovisual/streaming', function () {
 
     $faq = [

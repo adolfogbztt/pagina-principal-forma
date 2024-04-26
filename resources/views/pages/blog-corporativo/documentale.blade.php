@@ -1,10 +1,10 @@
 @php
 
-    $title = 'Fotografía Iglú';
+    $title = 'Documentales';
 
     /*HERO SECTION*/
     $color = 'dark'; // 'dark' || 'light'
-    $text_move = ' Fotografía Iglú · Fotografía Iglú ·';
+    $text_move = ' Documentales · Documentales ·';
     $img_hero = '/assets/video-corporativo/conferencias.webp';
     $description = 'Ofrecemos servicios de catering excepcionales, diseñados para 
                     deleitar a tus invitados con una experiencia gastronómica inolvidable. 

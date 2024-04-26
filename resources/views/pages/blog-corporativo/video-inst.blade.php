@@ -1,10 +1,10 @@
 @php
 
-    $title = 'Catering Corporativo';
+    $title = 'Video Institucional';
 
     /*HERO SECTION*/
     $color = 'dark'; // 'dark' || 'light'
-    $text_move = ' Catering Corporativo · Catering Corporativo ·';
+    $text_move = ' Video Institucional · Video Institucional ·';
     $img_hero = '/assets/video-corporativo/conferencias.webp';
     $description = 'Ofrecemos servicios de catering excepcionales, diseñados para 
                     deleitar a tus invitados con una experiencia gastronómica inolvidable. 
@@ -29,7 +29,7 @@
         <div class="one_fourth"></div>
 
         <div class="two_fourth">
-            <h3 class="has-mask-fill">¡CATERING CORPORATIVO DE EXCELENCIA!</h3>
+            <h3 class="has-mask-fill">¡Video Institucional DE EXCELENCIA!</h3>
         </div>
 
         <div class="one_fourth last"></div>
@@ -65,7 +65,7 @@
         <div class="two_fourth">
             <p class="has-animation" data-delay="100">Desde desayunos ejecutivos y pausas energéticas 
                 hasta elegantes brindis corporativos, almuerzos de negocios y cenas de gala, nuestro 
-                Catering Corporativo se adapta a una amplia gama de eventos. Especializamos cada menú 
+                Video Institucional se adapta a una amplia gama de eventos. Especializamos cada menú 
                 y experiencia para satisfacer las necesidades únicas de tu ocasión.</p>
         </div>
 

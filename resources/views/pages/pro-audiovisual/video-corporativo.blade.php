@@ -51,7 +51,7 @@
                 
                 <!-- Collage item with pop-up -->
                 <div class="collage-thumb">                          
-                    <a class="image-link" href="/assets/pro-audiovisual/video-corporativo/spot.webp">
+                    <a href="/blog-corporativo/spot-publi">
                         <img src="/assets/pro-audiovisual/video-corporativo/spot.webp" alt="img" />
                         <div class="thumb-info">Spots publicitarios</div>
                     </a>
@@ -59,7 +59,7 @@
                 
                 <!-- Collage item with pop-up -->
                 <div class="collage-thumb">               
-                    <a class="image-link" href="/assets/pro-audiovisual/video-corporativo/portada.webp">
+                    <a href="/blog-corporativo/video-inst">
                         <img src="/assets/pro-audiovisual/video-corporativo/portada.webp" alt="img" />
                         <div class="thumb-info">Video institucional</div>
                     </a>
@@ -67,7 +67,7 @@
                 
                 <!-- Collage item with pop-up -->
                 <div class="collage-thumb">               
-                    <a class="image-link" href="/assets/pro-audiovisual/video-corporativo/induccion.webp">
+                    <a href="/blog-corporativo/video-induccion">
                         <img src="/assets/pro-audiovisual/video-corporativo/induccion.webp" alt="img" />
                         <div class="thumb-info">Video de inducción </div>
                     </a>
@@ -75,7 +75,7 @@
                 
                 <!-- Collage item with pop-up -->
                 <div class="collage-thumb">               
-                    <a class="image-link" href="/assets/pro-audiovisual/video-corporativo/eventos.webp">
+                    <a href="/blog-corporativo/grabacion-eventos">
                         <img src="/assets/pro-audiovisual/video-corporativo/eventos.webp" alt="img" />
                         <div class="thumb-info">Grabación de eventos</div>
                     </a>
@@ -83,7 +83,7 @@
                 
                 <!-- Collage item with pop-up -->
                 <div class="collage-thumb">               
-                    <a class="image-link" href="/assets/pro-audiovisual/video-corporativo/documental.webp">
+                    <a href="/blog-corporativo/documentales">
                         <img src="/assets/pro-audiovisual/video-corporativo/documental.webp" alt="img" />
                         <div class="thumb-info">Documentales</div>
                     </a>
@@ -92,7 +92,7 @@
                 <!-- Collage item with pop-up -->
 
                 <div class="collage-thumb">               
-                    <a class="image-link" href="/assets/pro-audiovisual/video-corporativo/conferencia.webp">
+                    <a href="/blog-corporativo/conferencia">
                         <img src="/assets/pro-audiovisual/video-corporativo/conferencia.webp" alt="img" />
                         <div class="thumb-info">Video conferencia</div>
                     </a>

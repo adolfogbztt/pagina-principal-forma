@@ -1,10 +1,10 @@
 @php
 
-    $title = 'Panel LED';
+    $title = 'Gravación de Eventos';
 
     /*HERO SECTION*/
     $color = 'dark'; // 'dark' || 'light'
-    $text_move = ' Panel LED · Panel LED ·';
+    $text_move = ' Gravación de Eventos · Gravación de Eventos ·';
     $img_hero = '/assets/video-corporativo/conferencias.webp';
     $description = 'Ofrecemos servicios de catering excepcionales, diseñados para 
                     deleitar a tus invitados con una experiencia gastronómica inolvidable. 

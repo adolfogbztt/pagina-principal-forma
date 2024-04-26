@@ -1,10 +1,10 @@
 @php
 
-    $title = 'Cafetera Automática';
+    $title = 'Spots Publicitarios';
 
     /*HERO SECTION*/
     $color = 'dark'; // 'dark' || 'light'
-    $text_move = ' Cafetera Automática · Cafetera Automática ·';
+    $text_move = ' Spots Publicitarios · Spots Publicitarios ·';
     $img_hero = '/assets/video-corporativo/conferencias.webp';
     $description = 'Nos complace ofrecer una experiencia exclusiva como 
                     parte de nuestro servicio de catering corporativo, especialmente diseñado para 

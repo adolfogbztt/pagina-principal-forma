@@ -1,10 +1,10 @@
 @php
 
-    $title = 'Karaoke';
+    $title = 'Video Conferencia';
 
     /*HERO SECTION*/
     $color = 'dark'; // 'dark' || 'light'
-    $text_move = ' Karaoke · Karaoke ·';
+    $text_move = ' Video Conferencia · Video Conferencia ·';
     $img_hero = '/assets/video-corporativo/conferencias.webp';
     $description = 'Ofrecemos servicios de catering excepcionales, diseñados para 
                     deleitar a tus invitados con una experiencia gastronómica inolvidable. 
