@@ -32,13 +32,13 @@
             'title' => 'Fotogrametría',
             'description' => 'Descripción',
             'link' => '/blog-drone/fotogrametria',
-        ],
-        [
-            'img' => '/assets/drone/corporativo.webp',
-            'title' => 'Corporativo',
-            'description' => 'Descripción',
-            'link' => '/blog-drone/corporativo',
-        ],
+        ]
+        // [
+        //     'img' => '/assets/drone/corporativo.webp',
+        //     'title' => 'Corporativo',
+        //     'description' => 'Descripción',
+        //     'link' => '/blog-drone/corporativo',
+        // ],
     ];
 @endphp
 
