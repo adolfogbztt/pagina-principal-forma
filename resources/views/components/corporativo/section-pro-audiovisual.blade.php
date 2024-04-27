@@ -24,7 +24,7 @@
         ],
         [
             // 'img' => '/assets/pro-audiovisual/streaming.webm',
-            'video' => '/assets/pro-audiovisual/streaming.webm',
+            'video' => '/assets/pro-audiovisual/straeming WEB.webm',
             'title' => 'Streaming',
             'description' => 'Descripcion',
             'link' => '/pro-audiovisual/streaming',
