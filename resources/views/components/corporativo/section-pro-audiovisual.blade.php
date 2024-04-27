@@ -28,13 +28,15 @@
             'title' => 'Streaming',
             'description' => 'Descripcion',
             'link' => '/pro-audiovisual/streaming',
+
         ],
         [
             // 'img' => '/assets/video-corporativo/induccion.webp',
             'video' => '/assets/pro-audiovisual/tour360.webm',
             'title' => 'Tours 360°',
             'description' => 'Descripcion',
-            'link' => '/pro-audiovisual/tour360',
+            'link' => 'https://formaproducciones.com/virtual/formap/',
+            'blank' => true,
         ],
         [
             // 'img' => '/assets/video-corporativo/eventos.webp',
@@ -42,7 +44,7 @@
             'title' => 'Tours VR',
             'description' => 'Descripcion',
             'link' => '/pro-audiovisual/tour-vr',
-        ]
+        ],
         // [
         //     'img' => '/assets/video-corporativo/documentales.webp',
         //     'title' => 'Realidad Virtual',
@@ -96,8 +98,9 @@
                         <a target="_blank" href="{{ $item['link'] }}">
                             <div class="swiper-slide">
                                 <div class="slide-img">
-                                    <h3 style="z-index:10000; position:absolute; top: 40vh !important;">{{$item['title']}}</h3>
-                                   <video autoplay muted loop class="video-section" src="{{ $item['video'] }}"></video>
+                                    <h3 style="z-index:10000; position:absolute; top: 40vh !important;">
+                                        {{ $item['title'] }}</h3>
+                                    <video autoplay muted loop class="video-section" src="{{ $item['video'] }}"></video>
                                 </div>
                             </div>
                         </a>
@@ -105,7 +108,8 @@
                         <div class="swiper-slide">
                             <a href="{{ $item['link'] }}">
                                 <div class="slide-img">
-                                    <h3 style="z-index:10000; position:absolute; top: 40vh !important;">{{$item['title']}}</h3>
+                                    <h3 style="z-index:10000; position:absolute; top: 40vh !important;">
+                                        {{ $item['title'] }}</h3>
                                     {{-- <img src="https://www.clapat.com/templates/humpton/images/shortcodes/image01.jpg" alt="Image Title"> --}}
                                     <video autoplay muted loop class="video-section" src="{{ $item['video'] }}"></video>
 
