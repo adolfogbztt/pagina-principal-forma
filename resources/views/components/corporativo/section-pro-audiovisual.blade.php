@@ -13,7 +13,7 @@
             'video' => '/assets/pro-audiovisual/fotografia.webm',
             'title' => 'Fotografía Corporativa',
             'description' => 'Descripcion',
-            'link' => '/pro-audiovisual/foto-corporativo',
+            'link' => '/pro-audiovisual/foto-corporativa',
         ],
         [
             // 'img' => '/assets/pro-audiovisual/drone.webp',
