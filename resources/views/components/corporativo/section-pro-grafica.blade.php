@@ -11,13 +11,13 @@
             'img' => '/assets/pro-grafica/diplomas.webp',
             'title' => 'Impresión de Titutlos y Diplomas',
             'description' => 'Descripcion',
-            'link' => '/pro-grafica/titulos-diplomas',
+            'link' => '#',
         ],
         [
             'img' => '/assets/pro-grafica/memorias.webp',
             'title' => 'Memorias Coporativas',
             'description' => 'Descripcion',
-            'link' => '/pro-grafica/memorias-corp',
+            'link' => '#',
         ],
     ];
 @endphp

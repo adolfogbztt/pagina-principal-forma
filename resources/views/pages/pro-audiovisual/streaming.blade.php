@@ -7,15 +7,7 @@
     $text_move = ' Streaming · Streaming ·';
     $img_hero = '/assets/pro-audiovisual/streaming/portada.webp';
     $description =
-        'Nuestro servicio de Streaming se distingue por contar con cámaras robóticas de transmisión, 
-        las cuales brindan una experiencia visual dinámica y envolvente. Estas cámaras, controladas de 
-        forma remota, capturan ángulos precisos y movimientos fluidos, ofreciendo una perspectiva única 
-        y profesional a tus transmisiones en vivo. Además, nuestra tecnología avanzada de seguimiento 
-        automático garantiza que las cámaras sigan de cerca a los protagonistas y capturen todos los 
-        detalles de tus eventos. Con nuestra infraestructura de banda ancha de alta velocidad y el 
-        sistema de transmisión en múltiples enlaces (bondy), aseguramos una conexión estable y una 
-        calidad de transmisión impecable. Experimenta el poder del streaming con nuestras cámaras 
-        robóticas y disfruta de una experiencia visual inigualable en tiempo real.';
+        '';
     /*END HERO SECTION*/
 
     /*CONTENT SECTION*/

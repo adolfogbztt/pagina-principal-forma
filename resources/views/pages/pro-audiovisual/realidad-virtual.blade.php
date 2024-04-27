@@ -6,9 +6,7 @@
     $color = 'dark'; // 'dark' || 'light'
     $text_move = ' Realidad Virtual · Realidad Virtual ·';
     $img_hero = '/assets/video-corporativo/documentales.webp';
-    $description = '¿Qué sucedería si pudieras llevar a tus clientes a mundos inexplorados, presentarles 
-                    productos de una manera completamente nueva y cautivarlos en un nivel nunca antes 
-                    imaginado? Con nuestra tecnología de Realidad Virtual (RV), ahora puedes.';
+    $description = '';
     /*END HERO SECTION*/
 
     /*CONTENT SECTION*/

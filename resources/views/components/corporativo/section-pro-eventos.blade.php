@@ -4,37 +4,37 @@
             'img' => '/assets/pro-eventos/catering.webp',
             'title' => 'Catering Corporativo',
             'description' => 'Descripcion',
-            'link' => '/pro-eventos/catering-corp',
+            'link' => '#',
         ],
         [
             'img' => '/assets/pro-eventos/cafetera.webp',
             'title' => 'Cafetera Automática',
             'description' => 'Descripcion',
-            'link' => '/pro-eventos/cafetera-automatica',
+            'link' => '#',
         ],
         [
             'img' => '/assets/pro-eventos/photobooth.webp',
             'title' => 'Photobooth 360°',
             'description' => 'Descripcion',
-            'link' => '/pro-eventos/photobooth-360',
+            'link' => '#',
         ],
         [
             'img' => '/assets/pro-eventos/iglu.webp',
             'title' => 'Cabina Fotográfica Iglú',
             'description' => 'Descripcion',
-            'link' => '/pro-eventos/foto-iglu',
+            'link' => '#',
         ],
         [
             'img' => '/assets/pro-eventos/panel-led.webp',
             'title' => 'Panel LED',
             'description' => 'Descripcion',
-            'link' => '/pro-eventos/panel-led',
+            'link' => '#',
         ],
         [
             'img' => '/assets/pro-eventos/KARAOKE.webp',
             'title' => 'karaoke',
             'description' => 'Descripcion',
-            'link' => '/pro-eventos/karaoke',
+            'link' => '#',
         ]
     ];
 @endphp
