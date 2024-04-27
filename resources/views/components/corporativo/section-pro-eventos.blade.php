@@ -31,7 +31,7 @@
             'link' => '/pro-eventos/panel-led',
         ],
         [
-            'img' => '/assets/pro-eventos/karaoke.webp',
+            'img' => '/assets/pro-eventos/KARAOKE.webp',
             'title' => 'karaoke',
             'description' => 'Descripcion',
             'link' => '/pro-eventos/karaoke',
@@ -65,7 +65,7 @@
 
     <div class="one_half last video-container">
         <video autoplay muted loop class="item-video" className="item-image">
-            <source src="/assets/pro-eventos/eventos.webm">
+            <source src="/assets/pro-eventos/EVENTOS WEB.webm">
             </source>
         </video>
     </div>

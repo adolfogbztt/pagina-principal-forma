@@ -30,7 +30,7 @@
         <hr>
         <div class="scrolling-element left video-section video-container">
             <video autoplay muted loop class="item-video" className="item-image">
-                <source src="/assets/pro-grafica/pro-grafica.webm">
+                <source src="/assets/pro-grafica/IMPRSO.webm">
                 </source>
             </video>
         </div>

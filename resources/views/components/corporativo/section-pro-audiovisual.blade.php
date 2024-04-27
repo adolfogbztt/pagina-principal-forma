@@ -2,7 +2,7 @@
     $services = [
         [
             // 'img' => '/assets/video-corporativo/portada.webp',
-            'video' => '/assets/pro-audiovisual/video-c.webm',
+            'video' => '/assets/pro-audiovisual/CORPORATIVO.webm',
             'title' => 'Video Corporativo',
             'description' => 'Descripcion',
             'link' => 'https://drive.google.com/file/d/1muxHTj2f_f3BEGUp2g6kanNq3zxGO_Pw/view?usp=sharing',
@@ -10,14 +10,14 @@
         ],
         [
             // 'img' => '/assets/pro-audiovisual/foto-corporativo.webp',
-            'video' => '/assets/pro-audiovisual/foto-corporativo.webm',
+            'video' => '/assets/pro-audiovisual/fotografia.webm',
             'title' => 'Fotografía Corporativa',
             'description' => 'Descripcion',
-            'link' => '/pro-audiovisual/foto-corporativa',
+            'link' => '/pro-audiovisual/foto-corporativo',
         ],
         [
             // 'img' => '/assets/pro-audiovisual/drone.webp',
-            'video' => '/assets/pro-audiovisual/DRONE.webm',
+            'video' => '/assets/pro-audiovisual/drone.webm',
             'title' => 'Drone',
             'description' => 'Descripcion',
             'link' => '/pro-audiovisual/drone',
@@ -37,8 +37,8 @@
             'link' => '/pro-audiovisual/tour360',
         ],
         [
-            'img' => '/assets/video-corporativo/eventos.webp',
-            'video' => '/assets/pro-audiovisual/tour-vr.webm',
+            // 'img' => '/assets/video-corporativo/eventos.webp',
+            'video' => '/assets/pro-audiovisual/tourvr.webm',
             'title' => 'Tours VR',
             'description' => 'Descripcion',
             'link' => '/pro-audiovisual/tour-vr',
@@ -74,7 +74,7 @@
 
     <div class="one_half last video-container">
         <video autoplay muted loop class="item-video" className="item-image">
-            <source src="/assets/pro-audiovisual/pro-audiovisual.mp4">
+            <source src="/assets/pro-audiovisual/pro-audiovisual.webm">
             </source>
         </video>
     </div>
