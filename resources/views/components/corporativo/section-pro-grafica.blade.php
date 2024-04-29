@@ -18,7 +18,7 @@
             'title' => 'Memorias Coporativas',
             'description' => 'Descripcion',
             'link' => '#',
-        ],
+        ]
     ];
 @endphp
 
