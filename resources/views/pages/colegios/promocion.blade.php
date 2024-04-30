@@ -3,11 +3,10 @@
     $title = 'Promoción';
 
     /*HERO SECTION*/
-    $color = 'dark'; // 'dark' || 'light'
+    $color = 'light'; // 'dark' || 'light'
     $text_move = ' Promoción · Promoción ·';
     $img_hero = '/assets/video-corporativo/conferencias.webp';
-    $description = 'Explora el mundo de las credenciales y descubre cómo estas 
-                    pequeñas tarjetas pueden abrir grandes puertas para tu identidad y seguridad.';
+    $description = '';
     /*END HERO SECTION*/
 
     /*CONTENT SECTION*/
@@ -39,7 +38,7 @@
                     <hr>
 
                     <figure class=" has-cover">
-                        <a href="#" class="image-link"><img src="/assets/colegios/promocion/1.webp"
+                        <a><img src="/assets/colegios/promocion/1.webp"
                                 alt="Image Title"></a>
                     </figure>
 
@@ -47,7 +46,7 @@
 
                     <div class="one_half">
                         <figure class=" has-cover">
-                            <a href="#" class="video-link"><img src="/assets/colegios/promocion/2.webp"
+                            <a><img src="/assets/colegios/promocion/2.webp"
                                     alt="Image Title"></a>
 
                         </figure>
@@ -55,7 +54,7 @@
 
                     <div class="one_half ">
                         <figure class=" has-cover">
-                            <a href="#" class="image-link"><img src="/assets/colegios/promocion/3.webp"
+                            <a><img src="/assets/colegios/promocion/3.webp"
                                     alt="Image Title"></a>
 
                         </figure>
@@ -64,14 +63,14 @@
                     <hr>
 
                     <figure class=" has-cover">
-                        <a href="#" class="image-link"><img src="/assets/colegios/promocion/4.webp"
+                        <a><img src="/assets/colegios/promocion/4.webp"
                                 alt="Image Title"></a>
                     </figure>
 
                     <hr>
 
                     <figure class=" has-cover">
-                        <a href="#" class="image-link"><img src="/assets/colegios/promocion/5.webp"
+                        <a><img src="/assets/colegios/promocion/5.webp"
                                 alt="Image Title"></a>
                     </figure>
 
@@ -79,7 +78,7 @@
 
                     <div class="one_half">
                         <figure class=" has-cover">
-                            <a href="#" class="video-link"><img src="/assets/colegios/promocion/6.webp"
+                            <a><img src="/assets/colegios/promocion/6.webp"
                                     alt="Image Title"></a>
 
                         </figure>
@@ -87,7 +86,7 @@
 
                     <div class="one_half ">
                         <figure class=" has-cover">
-                            <a href="#" class="image-link"><img src="/assets/colegios/promocion/7.webp"
+                            <a><img src="/assets/colegios/promocion/7.webp"
                                     alt="Image Title"></a>
 
                         </figure>
@@ -96,14 +95,14 @@
                     <hr>
 
                     <figure class=" has-cover">
-                        <a href="#" class="image-link"><img src="/assets/colegios/promocion/8.webp"
+                        <a><img src="/assets/colegios/promocion/8.webp"
                                 alt="Image Title"></a>
                     </figure>
 
                     <hr>
 
                     <figure class=" has-cover">
-                        <a href="#" class="image-link"><img src="/assets/colegios/promocion/9.webp"
+                        <a><img src="/assets/colegios/promocion/9.webp"
                                 alt="Image Title"></a>
                     </figure>
 
@@ -111,7 +110,7 @@
 
                     <div class="one_half">
                         <figure class=" has-cover">
-                            <a href="#" class="video-link"><img src="/assets/colegios/promocion/10.webp"
+                            <a><img src="/assets/colegios/promocion/10.webp"
                                     alt="Image Title"></a>
 
                         </figure>
@@ -119,7 +118,7 @@
 
                     <div class="one_half ">
                         <figure class=" has-cover">
-                            <a href="#" class="image-link"><img src="/assets/colegios/promocion/11.webp"
+                            <a><img src="/assets/colegios/promocion/11.webp"
                                     alt="Image Title"></a>
 
                         </figure>
@@ -128,14 +127,14 @@
                     <hr>
 
                     <figure class=" has-cover">
-                        <a href="#" class="image-link"><img src="/assets/colegios/promocion/12.webp"
+                        <a><img src="/assets/colegios/promocion/12.webp"
                                 alt="Image Title"></a>
                     </figure>
 
                     <hr>
 
                     <figure class=" has-cover">
-                        <a href="#" class="image-link"><img src="/assets/colegios/promocion/13.webp"
+                        <a><img src="/assets/colegios/promocion/13.webp"
                                 alt="Image Title"></a>
                     </figure>
 
@@ -143,7 +142,7 @@
 
                     <div class="one_half">
                         <figure class=" has-cover">
-                            <a href="#" class="video-link"><img src="/assets/colegios/promocion/14.webp"
+                            <a><img src="/assets/colegios/promocion/14.webp"
                                     alt="Image Title"></a>
 
                         </figure>
@@ -151,7 +150,7 @@
 
                     <div class="one_half">
                         <figure class=" has-cover">
-                            <a href="#" class="image-link"><img src="/assets/colegios/promocion/15.webp"
+                            <a><img src="/assets/colegios/promocion/15.webp"
                                     alt="Image Title"></a>
 
                         </figure>
@@ -160,14 +159,14 @@
                     <hr>
 
                     <figure class=" has-cover">
-                        <a href="#" class="image-link"><img src="/assets/colegios/promocion/16.webp"
+                        <a><img src="/assets/colegios/promocion/16.webp"
                                 alt="Image Title"></a>
                     </figure>
 
                     <hr>
 
                     <figure class=" has-cover">
-                        <a href="#" class="image-link"><img src="/assets/colegios/promocion/17.webp"
+                        <a><img src="/assets/colegios/promocion/17.webp"
                                 alt="Image Title"></a>
                     </figure>
 
@@ -175,7 +174,7 @@
 
                     <div class="one_half">
                         <figure class=" has-cover">
-                            <a href="#" class="video-link"><img src="/assets/colegios/promocion/18.webp"
+                            <a><img src="/assets/colegios/promocion/18.webp"
                                     alt="Image Title"></a>
 
                         </figure>
@@ -183,7 +182,7 @@
 
                     <div class="one_half">
                         <figure class=" has-cover">
-                            <a href="#" class="image-link"><img src="/assets/colegios/promocion/19.webp"
+                            <a><img src="/assets/colegios/promocion/19.webp"
                                     alt="Image Title"></a>
                         </figure>
                     </div>
@@ -191,7 +190,7 @@
                     <hr>
 
                     <figure class="has-cover">
-                        <a href="#" class="image-link"><img src="/assets/colegios/promocion/20.webp"
+                        <a><img src="/assets/colegios/promocion/20.webp"
                                 alt="Image Title"></a>
                     </figure>
 
@@ -199,7 +198,7 @@
 
                     <div class="one_half">
                         <figure class=" has-cover">
-                            <a href="#" class="video-link"><img src="/assets/colegios/promocion/21.webp"
+                            <a><img src="/assets/colegios/promocion/21.webp"
                                     alt="Image Title"></a>
 
                         </figure>
@@ -207,7 +206,7 @@
 
                     <div class="one_half">
                         <figure class=" has-cover">
-                            <a href="#" class="image-link"><img src="/assets/colegios/promocion/22.webp"
+                            <a><img src="/assets/colegios/promocion/22.webp"
                                     alt="Image Title"></a>
                         </figure>
                     </div>
@@ -215,7 +214,7 @@
                     <hr>
 
                     <figure class="has-cover">
-                        <a href="#" class="image-link"><img src="/assets/colegios/promocion/23.webp"
+                        <a><img src="/assets/colegios/promocion/23.webp"
                                 alt="Image Title"></a>
                     </figure>
 
@@ -223,7 +222,7 @@
 
                     <div class="one_half">
                         <figure class=" has-cover">
-                            <a href="#" class="video-link"><img src="/assets/colegios/promocion/24.webp"
+                            <a><img src="/assets/colegios/promocion/24.webp"
                                     alt="Image Title"></a>
 
                         </figure>
@@ -231,7 +230,7 @@
 
                     <div class="one_half">
                         <figure class=" has-cover">
-                            <a href="#" class="image-link"><img src="/assets/colegios/promocion/25.webp"
+                            <a><img src="/assets/colegios/promocion/25.webp"
                                     alt="Image Title"></a>
                         </figure>
                     </div>
@@ -239,7 +238,7 @@
                     <hr>
 
                     <figure class="has-cover">
-                        <a href="#" class="image-link"><img src="/assets/colegios/promocion/26.webp"
+                        <a><img src="/assets/colegios/promocion/26.webp"
                                 alt="Image Title"></a>
                     </figure>
 
@@ -247,7 +246,7 @@
 
                     <div class="one_half">
                         <figure class=" has-cover">
-                            <a href="#" class="image-link"><img src="/assets/colegios/promocion/27.webp"
+                            <a><img src="/assets/colegios/promocion/27.webp"
                                     alt="Image Title"></a>
                         </figure>
                     </div>
@@ -255,14 +254,14 @@
                     <hr>
 
                     <figure class="has-cover">
-                        <a href="#" class="image-link"><img src="/assets/colegios/promocion/28.webp"
+                        <a><img src="/assets/colegios/promocion/28.webp"
                                 alt="Image Title"></a>
                     </figure>
 
                     <hr>
 
                     <figure class="has-cover">
-                        <a href="#" class="image-link"><img src="/assets/colegios/promocion/29.webp"
+                        <a><img src="/assets/colegios/promocion/29.webp"
                                 alt="Image Title"></a>
                     </figure>
                 </div>

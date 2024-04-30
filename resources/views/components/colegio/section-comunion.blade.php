@@ -1,5 +1,5 @@
 <!-- Row -->
-<div class="content-row fadeout-element row_padding_top light-section change-header-color" data-bgcolor="#fff">
+<div class="content-row fadeout-element row_padding_top dark-section change-header-color" data-bgcolor="#000">
     <a href="/colegios/comunion" class="ajax-link" data-type="page-transition">
         <div class="one_half">
             <img src="/assets/colegios/comunion/comunion.webp" class="item-image grayscale20"
