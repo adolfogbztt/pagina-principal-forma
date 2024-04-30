@@ -715,6 +715,8 @@
 	
 	.one_half {
     	width: 48%!important;
+		max-width: 70vh!important;
+		min-width: none !important;
 	}	
 
 	.one_third {

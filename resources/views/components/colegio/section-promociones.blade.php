@@ -24,7 +24,7 @@
 <!--/Row -->
 
 <!-- Row -->
-<div class="content-row row_padding_bottom text-align-center full light-section " data-bgcolor="#fff">
+{{-- <div class="content-row row_padding_bottom text-align-center full light-section " data-bgcolor="#fff">
     <div class="moving-gallery fw-gallery">
         <ul class="wrapper-gallery">
             <li>
@@ -62,5 +62,5 @@
         </ul>
     </div>
 
-</div>
+</div> --}}
 <!--/Row -->

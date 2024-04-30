@@ -3,95 +3,131 @@
     $title = 'Promoción';
 
     /*HERO SECTION*/
-    $color = 'dark'; // 'dark' || 'light'
+    $color = 'light'; // 'dark' || 'light'
     $text_move = ' Promoción · Promoción ·';
     $img_hero = '/assets/video-corporativo/conferencias.webp';
-    $description = 'Explora el mundo de las credenciales y descubre cómo estas 
-                    pequeñas tarjetas pueden abrir grandes puertas para tu identidad y seguridad.';
+    $description = '';
     /*END HERO SECTION*/
 
     /*CONTENT SECTION*/
     $content_color = 'light'; // 'dark' || 'light'
-    $content_data_bgcolor = $content_color == 'light' ? '#fff' : '#000'; // 'dark' || 'light'
+    $content_data_bgcolor = $content_color == 'dark' ? '#fff' : '#000'; // 'dark' || 'light'
     /*CONTENT SECTION*/
 @endphp
 
 @extends('layouts.articulo', ['title' => $title, 'img_hero' => $img_hero, 'text_move' => $text_move, 'description' => $description, 'color' => $color])
 
 @section('content')
-    <!-- Row -->
-    <div class="content-row row_padding_top row_padding_bottom {{ $content_color }}-section change-header-color"
-        data-bgcolor="{{ $content_data_bgcolor }}">
+    
+        <!-- Main Content -->
+        <div id="main-content">
+            <!-- Main Page Content -->
+            <div id="main-page-content" class="content-max-width">
 
-        <div class="one_fourth"></div>
 
-        <div class="two_fourth">
-            <h3 class="has-mask-fill">¡Tu identidad, nuestra impresión: credenciales que hablan por ti!</h3>
-        </div>
+                <!-- Row -->
+                <div class="content-row row_padding_bottom light-section" data-bgcolor="#fff">
 
-        <div class="one_fourth last"></div>
+                    <h5>Galeria de <I>Imágenes</I></h5>
+                    <p></p>
 
-        <hr>
+                    <hr>
 
-        <div class="one_fourth">
-            <h6 class="has-animation has-icon">El Poder de las Credenciales: Más que un Pedazo de Plástico</h6>
-        </div>
+                    <div class="gallery">
+                        <div class="item">
+                            <a href="#" class="image-link"><img src="/assets/colegios/promocion/1.webp" alt="Image Title"></a>
+                        </div>
+                        <div class="item">
+                            <a href="#" class="image-link"><img src="/assets/colegios/promocion/2.webp" alt="Image Title"></a>
+                        </div>
+                        <div class="item">
+                            <a href="#" class="image-link"><img src="/assets/colegios/promocion/3.webp" alt="Image Title"></a>
+                        </div>
+                        <div class="item">
+                            <a href="#" class="image-link"><img src="/assets/colegios/promocion/4.webp" alt="Image Title"></a>
+                        </div>
+                        <div class="item">
+                            <a href="#" class="image-link"><img src="/assets/colegios/promocion/5.webp" alt="Image Title"></a>
+                        </div>
+                        <div class="item">
+                            <a href="#" class="image-link"><img src="/assets/colegios/promocion/6.webp" alt="Image Title"></a>
+                        </div>
+                        <div class="item">
+                            <a href="#" class="image-link"><img src="/assets/colegios/promocion/7.webp" alt="Image Title"></a>
+                        </div>
+                        <div class="item">
+                            <a href="#" class="image-link"><img src="/assets/colegios/promocion/8.webp" alt="Image Title"></a>
+                        </div>
+                        <div class="item">
+                            <a href="#" class="image-link"><img src="/assets/colegios/promocion/9.webp" alt="Image Title"></a>
+                        </div>
+                        <div class="item">
+                            <a href="#" class="image-link"><img src="/assets/colegios/promocion/10.webp" alt="Image Title"></a>
+                        </div>
+                        <div class="item">
+                            <a href="#" class="image-link"><img src="/assets/colegios/promocion/11.webp" alt="Image Title"></a>
+                        </div>
+                        <div class="item">
+                            <a href="#" class="image-link"><img src="/assets/colegios/promocion/12.webp" alt="Image Title"></a>
+                        </div>
+                        <div class="item">
+                            <a href="#" class="image-link"><img src="/assets/colegios/promocion/13.webp" alt="Image Title"></a>
+                        </div>
+                        <div class="item">
+                            <a href="#" class="image-link"><img src="/assets/colegios/promocion/14.webp" alt="Image Title"></a>
+                        </div>
+                        <div class="item">
+                            <a href="#" class="image-link"><img src="/assets/colegios/promocion/15.webp" alt="Image Title"></a>
+                        </div>
+                        <div class="item">
+                            <a href="#" class="image-link"><img src="/assets/colegios/promocion/16.webp" alt="Image Title"></a>
+                        </div>
+                        <div class="item">
+                            <a href="#" class="image-link"><img src="/assets/colegios/promocion/17.webp" alt="Image Title"></a>
+                        </div>
+                        <div class="item">
+                            <a href="#" class="image-link"><img src="/assets/colegios/promocion/18.webp" alt="Image Title"></a>
+                        </div>
+                        <div class="item">
+                            <a href="#" class="image-link"><img src="/assets/colegios/promocion/19.webp" alt="Image Title"></a>
+                        </div>
+                        <div class="item">
+                            <a href="#" class="image-link"><img src="/assets/colegios/promocion/20.webp" alt="Image Title"></a>
+                        </div>
+                        <div class="item">
+                            <a href="#" class="image-link"><img src="/assets/colegios/promocion/21.webp" alt="Image Title"></a>
+                        </div>
+                        <div class="item">
+                            <a href="#" class="image-link"><img src="/assets/colegios/promocion/22.webp" alt="Image Title"></a>
+                        </div>
+                        <div class="item">
+                            <a href="#" class="image-link"><img src="/assets/colegios/promocion/23.webp" alt="Image Title"></a>
+                        </div>
+                        <div class="item">
+                            <a href="#" class="image-link"><img src="/assets/colegios/promocion/24.webp" alt="Image Title"></a>
+                        </div>
+                        <div class="item">
+                            <a href="#" class="image-link"><img src="/assets/colegios/promocion/25.webp" alt="Image Title"></a>
+                        </div>
+                        <div class="item">
+                            <a href="#" class="image-link"><img src="/assets/colegios/promocion/26.webp" alt="Image Title"></a>
+                        </div>
+                        <div class="item">
+                            <a href="#" class="image-link"><img src="/assets/colegios/promocion/27.webp" alt="Image Title"></a>
+                        </div>
+                        <div class="item">
+                            <a href="#" class="image-link"><img src="/assets/colegios/promocion/28.webp" alt="Image Title"></a>
+                        </div>
+                        <div class="item">
+                            <a href="#" class="image-link"><img src="/assets/colegios/promocion/29.webp" alt="Image Title"></a>
+                        </div>
 
-        <div class="two_fourth">
-            <p class="has-animation" data-delay="100">Las credenciales son más que simples tarjetas; son 
-                la puerta de acceso a tu identidad en diferentes entornos. Desde eventos corporativos 
-                hasta instituciones académicas, estas pequeñas piezas de plástico son la llave que 
-                garantiza tu presencia legítima y seguridad.</p>
-        </div>
+                        <!-- Repite este bloque para todas las imágenes -->
+                    </div>
 
-        <div class="one_fourth">
-            <h6 class="has-animation has-icon">Personalización para Dejar Huella</h6>
-        </div>
+                    
+                <!--/Row -->
+            @endsection
 
-        <div class="two_fourth">
-            <p class="has-animation" data-delay="100">En Forma Producciones Audiovisuales, entendemos 
-                que cada credencial es única, al igual que cada persona que la lleva. Nuestro 
-                servicio de impresión de credenciales se enfoca en la personalización, desde el 
-                diseño hasta los detalles más finos. ¡Tu identidad merece destacarse!</p>
-        </div>
-
-        <div class="one_fourth">
-            <h6 class="has-animation has-icon">Seguridad en Cada Impresión</h6>
-        </div>
-
-        <div class="two_fourth">
-            <p class="has-animation" data-delay="100">La seguridad es primordial cuando se trata de 
-                credenciales. Con tecnología de vanguardia y estándares de calidad rigurosos, nos 
-                aseguramos de que cada impresión sea segura y confiable. Protege tu identidad con 
-                nuestras credenciales de calidad superior.</p>
-        </div>
-
-        <div class="one_fourth">
-            <h6 class="has-animation has-icon">Credenciales para Todos los Propósitos</h6>
-        </div>
-
-        <div class="two_fourth">
-            <p class="has-animation" data-delay="100">Ya sea para eventos corporativos, conferencias 
-                académicas o acceso a instalaciones, tenemos la solución perfecta para tus necesidades 
-                de credenciales. ¡Déjanos ser tu socio en el camino hacia una identidad segura y 
-                profesional!</p>
-        </div>
-
-        <div class="one_fourth">
-            <h6 class="has-animation has-icon">Conclusión: Tu Identidad, Nuestra Prioridad</h6>
-        </div>
-
-        <div class="two_fourth">
-            <p class="has-animation" data-delay="100">En Forma Producciones Audiovisuales, entendemos 
-                la importancia de una identidad segura y profesional. Con nuestro servicio de impresión 
-                de credenciales, puedes estar seguro de que tu identidad estará en buenas manos. ¡Confía 
-                en nosotros para dejar una impresión duradera en cada tarjeta!</p>
-        </div>
-
-        <div class="one_fourth last"></div>
-
-    </div>
-    <!--/Row -->
-@endsection
-
-@section('adds') @endsection
+            @section('adds')
+            @endsection
